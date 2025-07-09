@@ -1,0 +1,14 @@
+# Core
+numpy>=1.26
+pandas>=2.1
+gymnasium==0.29.0
+
+# RL & tracking
+stable-baselines3>=2.2.1
+tensorboard>=2.16
+wandb>=0.17
+
+# Dev / CI
+pytest>=8.0
+flake8>=7.0
+tqdm>=4.66

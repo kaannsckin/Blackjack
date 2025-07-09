@@ -1,0 +1,210 @@
+import random
+
+class Card:
+    """Kart sınıfı, bir kartın değerini ve tipini (kupa, maça vb.) içerir."""
+    def __init__(self, value, suit):
+        self.value = value
+        self.suit = suit
+
+    def card_value(self):
+        if self.value in ['J', 'Q', 'K']:
+            return 10
+        elif self.value == 'A':
+            return 11
+        else:
+            return int(self.value)
+
+    def __repr__(self):
+        return f"{self.value} of {self.suit}"
+
+
+class Deck:
+    """Deste sınıfı, bir veya birden fazla deste kart içerir ve karıştırma, kart çekme işlemleri sağlar."""
+    suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
+    values = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']
+
+    def __init__(self, num_decks=4):
+        self.cards = [Card(value, suit) for value in self.values for suit in self.suits] * num_decks
+        random.shuffle(self.cards)
+
+    def deal_card(self):
+        return self.cards.pop()
+
+
+class Hand:
+    """El sınıfı, oyuncuların ve krupiyenin ellerindeki kartları ve el değerini içerir."""
+    def __init__(self):
+        self.cards = []
+
+    def add_card(self, card):
+        self.cards.append(card)
+
+    def value(self):
+        total = sum(card.card_value() for card in self.cards)
+        num_aces = sum(1 for card in self.cards if card.value == 'A')
+        while total > 21 and num_aces:
+            total -= 10
+            num_aces -= 1
+        return total
+
+    def __repr__(self):
+        return f"{', '.join(str(card) for card in self.cards)}"
+
+
+class Player:
+    """Oyuncu sınıfı, bir oyuncunun davranışını ve stratejisini içerir."""
+    def __init__(self, strategy_type):
+        self.hand = Hand()
+        self.strategy_type = strategy_type
+
+    def make_move(self, dealer_card, deck):
+        if self.strategy_type == "akilli":
+            return self.smart_strategy(dealer_card)
+        else:
+            return self.dumb_strategy()
+
+    def smart_strategy(self, dealer_card):
+        player_total = self.hand.value()
+        dealer_value = dealer_card.card_value()
+        player_is_soft = any(card.value == 'A' for card in self.hand.cards) and player_total <= 21
+        first_card, second_card = self.hand.cards[0].value, self.hand.cards[1].value
+
+        # Çift kart (Pair) durumları
+        if first_card == second_card:
+            pair_value = self.hand.cards[0].card_value()
+            if pair_value == 11 or pair_value == 8:  # Çift As veya Çift 8, her zaman split
+                return "split"
+            elif pair_value == 10:  # Çift 10, her zaman stand
+                return "stand"
+            elif pair_value == 9:  # Çift 9
+                return "stand" if dealer_value in [7, 10, 11] else "split"
+            elif pair_value == 7:  # Çift 7
+                return "split" if dealer_value <= 7 else "hit"
+            elif pair_value == 6:  # Çift 6
+                return "split" if dealer_value <= 6 else "hit"
+            elif pair_value == 5:  # Çift 5
+                return "double" if dealer_value < 10 else "hit"
+            elif pair_value == 4:  # Çift 4
+                return "split" if dealer_value in [5, 6] else "hit"
+            elif pair_value in [3, 2]:  # Çift 3 veya Çift 2
+                return "split" if dealer_value <= 7 else "hit"
+
+        # Yumuşak Eller (Soft Hands) - As içeren eller
+        if player_is_soft:
+            if player_total == 20:
+                return "stand"
+            elif player_total == 19:
+                return "double" if dealer_value == 6 else "stand"
+            elif player_total == 18:
+                if dealer_value in [2, 7, 8]:
+                    return "stand"
+                elif dealer_value in [3, 4, 5, 6]:
+                    return "double"
+                else:
+                    return "hit"
+            elif player_total == 17:
+                return "double" if dealer_value in [3, 4, 5, 6] else "hit"
+            elif player_total == 16 or player_total == 15:
+                return "double" if dealer_value in [4, 5, 6] else "hit"
+            elif player_total == 14 or player_total == 13:
+                return "double" if dealer_value in [5, 6] else "hit"
+
+        # Sert Eller (Hard Hands) - As olmayan eller
+        if player_total >= 17:
+            return "stand"
+        elif player_total == 16:
+            return "stand" if dealer_value in [2, 3, 4, 5, 6] else "hit"
+        elif player_total == 15:
+            return "stand" if dealer_value in [2, 3, 4, 5, 6] else "hit"
+        elif player_total == 14:
+            return "stand" if dealer_value in [2, 3, 4, 5, 6] else "hit"
+        elif player_total == 13:
+            return "stand" if dealer_value in [2, 3, 4, 5, 6] else "hit"
+        elif player_total == 12:
+            return "stand" if dealer_value in [4, 5, 6] else "hit"
+        elif player_total == 11:
+            return "double"
+        elif player_total == 10:
+            return "double" if dealer_value <= 9 else "hit"
+        elif player_total == 9:
+            return "double" if dealer_value in [3, 4, 5, 6] else "hit"
+        else:
+            return "hit"
+
+    def dumb_strategy(self):
+        player_total = self.hand.value()
+        if player_total <= 10:
+            return "hit"
+        elif 10 < player_total <= 16:
+            return "hit" if random.random() < 0.5 else "stand"
+        else:
+            return "stand"
+
+
+class Dealer:
+    """Krupiye sınıfı, krupiyenin elini ve oyun sırasındaki davranışını içerir."""
+    def __init__(self):
+        self.hand = Hand()
+
+    def play(self, deck):
+        while self.hand.value() < 17:
+            self.hand.add_card(deck.deal_card())
+
+
+class BlackjackGame:
+    """Blackjack oyununun ana sınıfı, oyun döngüsünü ve kuralları içerir."""
+    def __init__(self, num_players=4):
+        self.deck = Deck()
+        self.players = [Player("akilli") if i in [0, 3] else Player("aptal") for i in range(num_players)]
+        self.dealer = Dealer()
+
+    def deal_initial_cards(self):
+        for player in self.players:
+            player.hand.add_card(self.deck.deal_card())
+            player.hand.add_card(self.deck.deal_card())
+        self.dealer.hand.add_card(self.deck.deal_card())
+        self.dealer.hand.add_card(self.deck.deal_card())
+
+    def play(self):
+        self.deal_initial_cards()
+        print(f"Dealer's hand: [{self.dealer.hand.cards[0]}, ('??')]")
+
+        # Her oyuncunun hamlesini gerçekleştir
+        for i, player in enumerate(self.players):
+            print(f"\nPlayer {i + 1} starting hand: {player.hand}")
+            while True:
+                action = player.make_move(self.dealer.hand.cards[0], self.deck)
+                print(f"Player {i + 1} chooses to {action}")
+                if action == "hit":
+                    player.hand.add_card(self.deck.deal_card())
+                    print(f"Player {i + 1} hand: {player.hand}, Total: {player.hand.value()}")
+                    if player.hand.value() > 21:
+                        print(f"Player {i + 1} busts!")
+                        break
+                elif action in ["stand", "double", "split"]:
+                    break
+
+        # Krupiyenin hamlesi
+        print("\nDealer's turn")
+        self.dealer.play(self.deck)
+        print(f"Dealer's final hand: {self.dealer.hand}, Value: {self.dealer.hand.value()}")
+
+        # Sonuçları göster
+        dealer_total = self.dealer.hand.value()
+        for i, player in enumerate(self.players):
+            player_total = player.hand.value()
+            if player_total > 21:
+                result = "loses"
+            elif dealer_total > 21 or player_total > dealer_total:
+                result = "wins"
+            elif player_total < dealer_total:
+                result = "loses"
+            else:
+                result = "pushes"
+            print(f"Player {i + 1} {result} with hand {player.hand} (Total: {player_total})")
+
+
+# Oyun başlatma
+game = BlackjackGame()
+game.play()
+
