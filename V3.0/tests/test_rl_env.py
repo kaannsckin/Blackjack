@@ -1,6 +1,9 @@
 # """Pytest birim testleri – FAZ 0"""
 from stable_baselines3.common.env_checker import check_env
 
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from rl_environment import BlackjackEnv
 
 
@@ -52,3 +55,23 @@ def test_step_transitions():
     # Son durumda Stand eylemi hand’i bitirmeli
     _, _, terminated2, _, _ = env.step(0)
     assert terminated2
+
+if __name__ == "__main__":
+    print("Manuel test başlatılıyor...\n")
+    try:
+        test_reset_observation_shape()
+        print("✅ test_reset_observation_shape geçti.")
+    except AssertionError as e:
+        print(f"❌ test_reset_observation_shape başarısız: {e}")
+
+    try:
+        test_step_transitions()
+        print("✅ test_step_transitions geçti.")
+    except AssertionError as e:
+        print(f"❌ test_step_transitions başarısız: {e}")
+
+    try:
+        test_check_env_compliance()
+        print("✅ test_check_env_compliance geçti.")
+    except Exception as e:
+        print(f"❌ test_check_env_compliance başarısız: {e}")
