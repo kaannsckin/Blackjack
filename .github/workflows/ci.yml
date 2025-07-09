@@ -1,0 +1,32 @@
+name: CI                       # ➊
+on:                            # ➋
+  pull_request:               #    –––►  branch’e PR açılınca tetiklenir
+    branches: [ "main", "master" ]
+
+jobs:                          # ➌
+  test:                        # ➍
+    runs-on: ubuntu-latest     # ➎
+
+    steps:                     # ➏
+      - name: Checkout repository         # ➐
+        uses: actions/checkout@v4
+
+      - name: Set up Python               # ➑
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies        # ➒
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Static code checks (flake8, black --check)   # ➓
+        run: |
+          flake8 . --max-line-length=100
+          black --check .
+
+      - name: Run unit tests              # ⓫
+        run: pytest -q
+
+
