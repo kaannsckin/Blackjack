@@ -3,3 +3,8 @@
   "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
 /Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
   warnings.warn(
+Best trial: 0. Best value: -0.00333333:   5%|▌         | 1/20 [50:01<15:50:31, 3001.66s/it]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:77: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+[I 2025-07-11 01:06:10,848] Trial 0 finished with value: -0.0033333334140479565 and parameters: {'n_layers': 2, 'layer1': 128, 'layer2': 128, 'lr': 0.0002962151658830348, 'buffer_size': 199565, 'eps_frac': 0.1474530640032882, 'eps_final': 0.010823379771832098, 'gamma': 0.9984954926080997, 'batch_size': 512}. Best is trial 0 with value: -0.0033333334140479565.
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
