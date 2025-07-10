@@ -10,43 +10,61 @@
 
 ### 📋 Proje Hakkında
 
-Bu proje, Reinforcement Learning (RL) kullanarak Blackjack oyununda uzmanlaşmış bir yapay zeka sistemi geliştirmeyi amaçlamaktadır. Proje, temel strateji optimizasyonundan başlayarak, çok oyunculu dinamik ortamlara kadar geniş bir yelpazede AI stratejileri geliştirmektedir.
+Bu proje, **belirsiz gelecek içeren süreçlerde risk değerlendirmesi ve bütçe optimizasyonu yapabilen evrensel bir AI asistan** geliştirmeyi amaçlamaktadır. Blackjack oyunu, bu AI asistanın yeteneklerini test etmek ve geliştirmek için kullanılan ideal bir test ortamıdır.
 
-#### 🎯 Ana Hedefler
+#### 🎯 Ana Vizyon
 
-**Strateji Geliştirme ve Optimizasyon:**
-- **Temel Strateji Entegrasyonu**: Klasik blackjack stratejilerini öğrenme ve iyileştirme
-- **Adaptif Öğrenme**: Çevre durumlarına göre dinamik karar verme
-- **Risk Yönetimi**: Gerçek zamanlı risk değerlendirmesi ve bütçe optimizasyonu
+**Evrensel Risk-Bütçe AI Asistanı:**
+- **Stokastik Süreç Analizi**: Belirsiz gelecek içeren herhangi bir süreçte risk değerlendirmesi
+- **Dinamik Bütçe Optimizasyonu**: Risk seviyesine göre kaynak dağılımı ve bütçe yönetimi
+- **Adaptif Karar Verme**: Çevre değişikliklerine göre strateji güncelleme
+- **Gerçek Zamanlı Öğrenme**: Sürekli deneyim birikimi ile performans iyileştirme
 
-**Çevresel Adaptasyon:**
-- **Dinamik Masa Analizi**: Diğer oyuncuların davranışlarını analiz etme
-- **Kart Sayımı Entegrasyonu**: Hi-Lo sistemi ile gerçek zamanlı avantaj hesaplama
-- **Çoklu Oyuncu Desteği**: FAZ 4.0 ile çok oyunculu ortamlarda strateji geliştirme
-
-**Bütçe ve Risk Optimizasyonu:**
-- **Dinamik Bet Sizing**: Risk toleransına göre bahis miktarı ayarlama
+**Blackjack Test Ortamı:**
+- **Kontrol Edilebilir Belirsizlik**: Kart dağılımı ile simüle edilen gerçek dünya belirsizlikleri
+- **Çoklu Risk Faktörleri**: Oyuncu eli, dealer kartı, kart sayımı, masa dinamikleri
+- **Anında Geri Bildirim**: Her hamle sonrası kazanç/kayıp ile öğrenme
 - **Portfolio Yönetimi**: Çoklu el ve split durumlarında bütçe dağılımı
-- **Risk-Return Dengesi**: Beklenen değer ve risk arasında optimal denge kurma
-- **Bankroll Yönetimi**: Uzun vadeli sürdürülebilir oyun stratejisi
 
-#### 🧠 AI Modelinin Öğrenme Süreci
+#### 🧠 AI Asistanın Öğrenme Süreci
 
-Model, çevre durumlarına göre aksiyon almayı öğrenir ve risk değerlendirmesi ile bütçe optimizasyonu yapar:
+Bu AI asistan, herhangi bir stokastik süreçte risk değerlendirmesi ve bütçe optimizasyonu yapmayı öğrenir:
 
-1. **Durum Analizi**: Oyuncu eli, dealer kartı, kart sayımı, masa dinamikleri
-2. **Risk Hesaplama**: Mevcut durumun risk seviyesini değerlendirme
-3. **Bütçe Optimizasyonu**: Risk seviyesine göre optimal bahis miktarı belirleme
-4. **Aksiyon Seçimi**: Stand, Hit, Double, Split kararlarını risk-bütçe dengesine göre verme
-5. **Sürekli Öğrenme**: Her oyundan öğrenilen deneyimlerle stratejiyi güncelleme
+1. **Durum Analizi**: Mevcut durumun tüm faktörlerini değerlendirme
+2. **Risk Hesaplama**: Belirsizlik seviyesini ve potansiyel riskleri hesaplama
+3. **Bütçe Optimizasyonu**: Risk seviyesine göre optimal kaynak dağılımı
+4. **Aksiyon Seçimi**: Risk-bütçe dengesine göre en uygun kararı verme
+5. **Sürekli Öğrenme**: Her deneyimden öğrenerek stratejiyi güncelleme
 
-#### 🎰 Gerçek Dünya Uygulaması
+#### 🌍 Gerçek Dünya Uygulama Alanları
 
-Bu sistem, gerçek casino ortamlarında karşılaşılan dinamik durumlara adapte olabilir:
-- **Masa Dinamikleri**: Diğer oyuncuların davranışlarını analiz eder
-- **Risk Adaptasyonu**: Yüksek riskli durumlarda daha temkinli oynar
-- **Avantaj Avantajı**: Kart sayımı pozitif olduğunda daha agresif strateji uygular
-- **Bütçe Koruma**: Uzun vadeli sürdürülebilirlik için bankroll yönetimi yapar
+Bu AI asistan, Blackjack test ortamında geliştirilen yeteneklerle şu alanlarda uygulanabilir:
+
+**Finansal Sektör:**
+- **Portfolio Yönetimi**: Risk-bazlı varlık dağılımı
+- **Trading Stratejileri**: Dinamik risk yönetimi ile alım-satım kararları
+- **Kredi Risk Analizi**: Borçluluk riski değerlendirmesi
+
+**İşletme Yönetimi:**
+- **Proje Yönetimi**: Belirsizlik altında kaynak optimizasyonu
+- **Tedarik Zinciri**: Stokastik talep altında envanter yönetimi
+- **Pazarlama Stratejileri**: Dinamik pazar koşullarında bütçe dağılımı
+
+**Sağlık Sektörü:**
+- **Tedavi Planlaması**: Risk-bazlı tedavi stratejileri
+- **Kaynak Dağılımı**: Hastane kaynaklarının optimizasyonu
+
+**Enerji Sektörü:**
+- **Enerji Trading**: Dinamik fiyat ortamında risk yönetimi
+- **Grid Yönetimi**: Belirsiz talep altında enerji dağılımı
+
+#### 🎰 Blackjack Test Ortamının Avantajları
+
+Blackjack, AI asistanın yeteneklerini test etmek için ideal bir ortam sağlar:
+- **Kontrol Edilebilir Belirsizlik**: Kart dağılımı ile simüle edilen gerçek dünya belirsizlikleri
+- **Çoklu Risk Faktörleri**: Oyuncu eli, dealer kartı, kart sayımı, masa dinamikleri
+- **Anında Geri Bildirim**: Her hamle sonrası kazanç/kayıp ile öğrenme
+- **Portfolio Yönetimi**: Çoklu el ve split durumlarında bütçe dağılımı
 
 ### 🎯 Ana Özellikler
 
@@ -153,43 +171,61 @@ Proje kapsamında oluşturulan raporlar:
 
 ### 📋 About the Project
 
-This project aims to develop an artificial intelligence system specialized in Blackjack using Reinforcement Learning (RL). The project develops AI strategies across a broad spectrum, from basic strategy optimization to multi-player dynamic environments.
+This project aims to develop a **universal AI assistant capable of risk assessment and budget optimization in processes containing uncertain futures**. The Blackjack game serves as an ideal test environment to develop and test this AI assistant's capabilities.
 
-#### 🎯 Main Objectives
+#### 🎯 Main Vision
 
-**Strategy Development and Optimization:**
-- **Basic Strategy Integration**: Learning and improving classical blackjack strategies
-- **Adaptive Learning**: Dynamic decision making based on environmental conditions
-- **Risk Management**: Real-time risk assessment and budget optimization
+**Universal Risk-Budget AI Assistant:**
+- **Stochastic Process Analysis**: Risk assessment in any process containing uncertain futures
+- **Dynamic Budget Optimization**: Resource allocation and budget management based on risk level
+- **Adaptive Decision Making**: Strategy updates based on environmental changes
+- **Real-time Learning**: Performance improvement through continuous experience accumulation
 
-**Environmental Adaptation:**
-- **Dynamic Table Analysis**: Analyzing other players' behaviors
-- **Card Counting Integration**: Real-time advantage calculation with Hi-Lo system
-- **Multi-Player Support**: Strategy development in multi-player environments with PHASE 4.0
-
-**Budget and Risk Optimization:**
-- **Dynamic Bet Sizing**: Adjusting bet amounts based on risk tolerance
+**Blackjack Test Environment:**
+- **Controllable Uncertainty**: Real-world uncertainties simulated through card distribution
+- **Multiple Risk Factors**: Player hand, dealer card, card count, table dynamics
+- **Instant Feedback**: Learning through gain/loss after each move
 - **Portfolio Management**: Budget allocation in multiple hands and split situations
-- **Risk-Return Balance**: Optimal balance between expected value and risk
-- **Bankroll Management**: Long-term sustainable gaming strategy
 
-#### 🧠 AI Model Learning Process
+#### 🧠 AI Assistant Learning Process
 
-The model learns to take actions based on environmental conditions and performs risk assessment with budget optimization:
+This AI assistant learns to perform risk assessment and budget optimization in any stochastic process:
 
-1. **State Analysis**: Player hand, dealer card, card count, table dynamics
-2. **Risk Calculation**: Evaluating current situation's risk level
-3. **Budget Optimization**: Determining optimal bet amount based on risk level
-4. **Action Selection**: Making Stand, Hit, Double, Split decisions based on risk-budget balance
-5. **Continuous Learning**: Updating strategy with experiences learned from each game
+1. **State Analysis**: Evaluating all factors of the current situation
+2. **Risk Calculation**: Calculating uncertainty level and potential risks
+3. **Budget Optimization**: Optimal resource allocation based on risk level
+4. **Action Selection**: Making the most appropriate decision based on risk-budget balance
+5. **Continuous Learning**: Updating strategy by learning from each experience
 
-#### 🎰 Real-World Application
+#### 🌍 Real-World Application Areas
 
-This system can adapt to dynamic situations encountered in real casino environments:
-- **Table Dynamics**: Analyzes other players' behaviors
-- **Risk Adaptation**: Plays more cautiously in high-risk situations
-- **Advantage Exploitation**: Applies more aggressive strategy when card count is positive
-- **Budget Protection**: Performs bankroll management for long-term sustainability
+This AI assistant, developed through the Blackjack test environment, can be applied in the following areas:
+
+**Financial Sector:**
+- **Portfolio Management**: Risk-based asset allocation
+- **Trading Strategies**: Buy-sell decisions with dynamic risk management
+- **Credit Risk Analysis**: Creditworthiness risk assessment
+
+**Business Management:**
+- **Project Management**: Resource optimization under uncertainty
+- **Supply Chain**: Inventory management under stochastic demand
+- **Marketing Strategies**: Budget allocation under dynamic market conditions
+
+**Healthcare Sector:**
+- **Treatment Planning**: Risk-based treatment strategies
+- **Resource Allocation**: Hospital resource optimization
+
+**Energy Sector:**
+- **Energy Trading**: Risk management in dynamic price environments
+- **Grid Management**: Energy distribution under uncertain demand
+
+#### 🎰 Advantages of Blackjack Test Environment
+
+Blackjack provides an ideal environment to test the AI assistant's capabilities:
+- **Controllable Uncertainty**: Real-world uncertainties simulated through card distribution
+- **Multiple Risk Factors**: Player hand, dealer card, card count, table dynamics
+- **Instant Feedback**: Learning through gain/loss after each move
+- **Portfolio Management**: Budget allocation in multiple hands and split situations
 
 ### 🎯 Key Features
 
@@ -334,14 +370,6 @@ Core dependencies include:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 📞 Contact
-
-For questions and support:
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
-- **Project**: [Repository URL]
 
 ---
 
@@ -354,6 +382,6 @@ For questions and support:
 
 ---
 
-*Bu proje, Reinforcement Learning ve Blackjack stratejilerini birleştiren kapsamlı bir AI sistemi geliştirmeyi amaçlamaktadır. Sürekli geliştirme ve iyileştirme ile gerçek dünya casino ortamlarında kullanılabilir hale getirilmektedir.*
+*Bu proje, belirsiz gelecek içeren süreçlerde risk değerlendirmesi ve bütçe optimizasyonu yapabilen evrensel bir AI asistan geliştirmeyi amaçlamaktadır. Blackjack test ortamında geliştirilen bu asistan, finans, işletme yönetimi, sağlık ve enerji sektörlerinde uygulanabilir hale getirilebilir Blackjack sadece temsilidir.*
 
-*This project aims to develop a comprehensive AI system that combines Reinforcement Learning and Blackjack strategies. Through continuous development and improvement, it is being made suitable for real-world casino environments.* 
+*This project aims to develop a universal AI assistant capable of risk assessment and budget optimization in processes containing uncertain futures. This assistant, developed through the Blackjack test environment, is being made applicable in finance, business management, healthcare, and energy sectors.* 
