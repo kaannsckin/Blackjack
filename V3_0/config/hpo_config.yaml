@@ -1,0 +1,98 @@
+# HPO Configuration for Blackjack DQN
+# This file contains configuration settings for hyperparameter optimization
+
+hpo_args:
+  # Basic settings
+  n_trials: 20
+  total_steps: 250_000
+  eval_episodes: 300
+  multi_seed: 3  # Number of seeds for averaging
+  
+  # Study settings
+  study_name: "bj_dqn_hpo_advanced"
+  storage: "sqlite:///hpo_study.db"  # Optional: SQLite storage for persistence
+  sampler: "tpe"  # "tpe", "random", "grid"
+  
+  # Logging
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  
+  # Output
+  out_dir: "runs/hpo_advanced"
+
+# Grid search configuration (used when sampler="grid")
+hpo_grid:
+  lr: [1e-4, 3e-4, 5e-4]
+  buffer_size: [100_000, 200_000]
+  batch_size: [1024, 2048]
+  # Note: Grid search requires all parameters to be defined
+
+# Parameter ranges for different samplers
+parameter_ranges:
+  learning_rate:
+    min: 1e-5
+    max: 5e-4
+    log: true
+    
+  buffer_size:
+    min: 50_000
+    max: 500_000
+    log: true
+    
+  exploration_fraction:
+    min: 0.02
+    max: 0.2
+    
+  exploration_final_eps:
+    min: 0.01
+    max: 0.05
+    
+  gamma:
+    min: 0.95
+    max: 1.00
+    
+  batch_size:
+    values: [512, 1024, 2048]
+    
+  net_arch_layers:
+    min: 2
+    max: 3
+    
+  layer_sizes:
+    values: [128, 256, 512]
+
+# Early stopping configuration
+early_stopping:
+  enabled: true
+  patience: 10  # Number of trials without improvement
+  min_delta: 0.001  # Minimum improvement threshold
+  
+# Evaluation configuration
+evaluation:
+  n_eval_episodes: 300
+  eval_freq: 25_000  # Evaluation frequency during training
+  deterministic: true
+  
+# Model saving configuration
+model_saving:
+  save_best: true
+  save_final: true
+  save_checkpoints: false
+  checkpoint_freq: 50_000
+  
+# W&B configuration
+wandb:
+  project: "blackjack_phase1"
+  name: "hpo_advanced"
+  tags: ["hpo", "dqn", "blackjack"]
+  log_model: true
+  
+# TensorBoard configuration
+tensorboard:
+  enabled: true
+  log_dir: "runs/hpo_advanced/tb"
+  
+# Performance thresholds
+performance_thresholds:
+  min_reward: -0.5  # Minimum acceptable reward
+  target_reward: 0.1  # Target reward for early stopping
+  max_trials_without_improvement: 15 

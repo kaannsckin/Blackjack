@@ -1,0 +1,27 @@
+[I 2025-07-10 23:39:52,827] A new study created in memory with name: bj_dqn_hpo_advanced
+  0%|          | 0/1 [00:00<?, ?it/s]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:76: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+ERROR:__main__:Trial 0, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 0 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+[I 2025-07-10 23:39:53,653] Trial 0 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 352, in <module>
+    main()
+    ~~~~^^
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 275, in main
+    best_params = study.best_params
+                  ^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 119, in best_params
+    return self.best_trial.params
+           ^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 155, in best_trial
+    return self._get_best_trial(deepcopy=True)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 307, in _get_best_trial
+    best_trial = self._storage.get_best_trial(self._study_id)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/storages/_in_memory.py", line 252, in get_best_trial
+    raise ValueError("No trials are completed yet.")
+ValueError: No trials are completed yet.

@@ -1,0 +1,68 @@
+# AI Strategy Configuration
+# This file contains configuration settings for AI Play Strategy
+
+ai_strategy:
+  # Model settings
+  model:
+    path: "runs/phase1/models/best_model.zip"
+    device: "cpu"  # "cpu" or "cuda"
+    load_on_init: true
+    
+  # Validation settings
+  validation:
+    enabled: true
+    strict_mode: false  # If true, invalid actions will throw exceptions
+    log_corrections: true
+    
+  # Fallback settings
+  fallback:
+    strategy: "random"  # "random", "basic", "conservative"
+    enabled: true
+    
+  # Performance monitoring
+  monitoring:
+    enabled: true
+    log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+    track_actions: true
+    track_validation: true
+    
+  # Action mapping
+  actions:
+    0: "stand"
+    1: "hit"
+    2: "double"
+    3: "split"
+    
+  # Observation normalization
+  observation:
+    normalize: true
+    player_total_max: 21.0
+    dealer_up_max: 11.0
+    true_count_max: 10.0
+
+# Engine integration settings
+engine:
+  # Strategy factory settings
+  strategy_factory:
+    default_strategy: "basic"
+    ai_strategy_key: "ai_play"
+    
+  # Performance thresholds
+  performance:
+    min_agreement_rate: 0.6  # 60% agreement with basic strategy
+    min_ev_threshold: -0.1   # Minimum expected value
+    max_volatility: 0.2      # Maximum acceptable volatility
+
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/ai_strategy.log"
+  console: true
+  
+# Testing configuration
+testing:
+  random_seed: 42
+  num_episodes: 1000
+  validation_episodes: 100
+  performance_threshold: 0.05  # 5% improvement over basic strategy 

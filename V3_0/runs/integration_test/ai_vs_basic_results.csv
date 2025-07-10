@@ -1,0 +1,6 @@
+episode,ai_reward,basic_reward,agreement
+0,0.0,0.0,False
+1,0.1,0.2,False
+2,0.0,0.0,True
+3,-0.2,0.1,False
+4,0.0,0.0,False

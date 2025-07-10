@@ -1,0 +1,13 @@
+{"time":"2025-07-10T23:40:46.570667+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-10T23:40:46.900003+03:00","level":"INFO","msg":"stream: created new stream","id":"bch6em3d"}
+{"time":"2025-07-10T23:40:46.900047+03:00","level":"INFO","msg":"stream: started","id":"bch6em3d"}
+{"time":"2025-07-10T23:40:46.900099+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"bch6em3d"}
+{"time":"2025-07-10T23:40:46.900255+03:00","level":"INFO","msg":"handler: started","stream_id":"bch6em3d"}
+{"time":"2025-07-10T23:40:46.900311+03:00","level":"INFO","msg":"sender: started","stream_id":"bch6em3d"}
+{"time":"2025-07-10T23:40:47.16354+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-10T23:40:49.409443+03:00","level":"INFO","msg":"stream: closing","id":"bch6em3d"}
+{"time":"2025-07-10T23:40:50.130072+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-10T23:40:50.379908+03:00","level":"INFO","msg":"sender: closed","stream_id":"bch6em3d"}
+{"time":"2025-07-10T23:40:50.380378+03:00","level":"INFO","msg":"handler: closed","stream_id":"bch6em3d"}
+{"time":"2025-07-10T23:40:50.380388+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bch6em3d"}
+{"time":"2025-07-10T23:40:50.380461+03:00","level":"INFO","msg":"stream: closed","id":"bch6em3d"}

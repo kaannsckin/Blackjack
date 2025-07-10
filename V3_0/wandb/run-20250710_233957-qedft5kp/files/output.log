@@ -1,0 +1,88 @@
+[I 2025-07-10 23:39:58,832] A new study created in memory with name: bj_dqn_hpo_advanced
+  0%|          | 0/20 [00:00<?, ?it/s]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:76: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+ERROR:__main__:Trial 0, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 0 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+  5%|▌         | 1/20 [00:00<00:15,  1.24it/s]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:76: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+[I 2025-07-10 23:39:59,643] Trial 0 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+ERROR:__main__:Trial 1, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 1 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+  5%|▌         | 1/20 [00:00<00:15,  1.24it/s]ERROR:__main__:Trial 2, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,649] Trial 1 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 2 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 10%|█         | 2/20 [00:00<00:14,  1.24it/s]ERROR:__main__:Trial 3, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,653] Trial 2 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 3 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 15%|█▌        | 3/20 [00:00<00:13,  1.24it/s]ERROR:__main__:Trial 4, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,661] Trial 3 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 4 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 20%|██        | 4/20 [00:00<00:12,  1.24it/s]ERROR:__main__:Trial 5, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,665] Trial 4 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 5 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 25%|██▌       | 5/20 [00:00<00:12,  1.24it/s]ERROR:__main__:Trial 6, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,670] Trial 5 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 6 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 30%|███       | 6/20 [00:00<00:11,  1.24it/s]ERROR:__main__:Trial 7, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,674] Trial 6 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 7 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 35%|███▌      | 7/20 [00:00<00:10,  1.24it/s]ERROR:__main__:Trial 8, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,683] Trial 7 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 8 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 40%|████      | 8/20 [00:00<00:09,  1.24it/s]ERROR:__main__:Trial 9, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,688] Trial 8 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 9 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 45%|████▌     | 9/20 [00:00<00:08,  1.24it/s]ERROR:__main__:Trial 10, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,693] Trial 9 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 10 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 50%|█████     | 10/20 [00:00<00:08,  1.24it/s]ERROR:__main__:Trial 11, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,709] Trial 10 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 11 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 55%|█████▌    | 11/20 [00:00<00:07,  1.24it/s]ERROR:__main__:Trial 12, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,722] Trial 11 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 12 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 60%|██████    | 12/20 [00:00<00:06,  1.24it/s]ERROR:__main__:Trial 13, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,735] Trial 12 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 13 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 70%|███████   | 14/20 [00:00<00:00, 20.52it/s]ERROR:__main__:Trial 14, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,748] Trial 13 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 14 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 70%|███████   | 14/20 [00:00<00:00, 20.52it/s]ERROR:__main__:Trial 15, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,761] Trial 14 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 15 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 75%|███████▌  | 15/20 [00:00<00:00, 20.52it/s]ERROR:__main__:Trial 16, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,772] Trial 15 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 16 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 80%|████████  | 16/20 [00:00<00:00, 20.52it/s]ERROR:__main__:Trial 17, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,786] Trial 16 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 17 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 85%|████████▌ | 17/20 [00:00<00:00, 20.52it/s]ERROR:__main__:Trial 18, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,798] Trial 17 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 18 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ 90%|█████████ | 18/20 [00:00<00:00, 20.52it/s]ERROR:__main__:Trial 19, Seed 0 failed: module optuna.integration has no attribute StableBaselines3Callback
+[I 2025-07-10 23:39:59,811] Trial 18 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+ERROR:__main__:Trial 19 failed: Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+100%|██████████| 20/20 [00:00<00:00, 20.29it/s]
+[I 2025-07-10 23:39:59,825] Trial 19 pruned. Trial failed: module optuna.integration has no attribute StableBaselines3Callback
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 352, in <module>
+    main()
+    ~~~~^^
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 275, in main
+    best_params = study.best_params
+                  ^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 119, in best_params
+    return self.best_trial.params
+           ^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 155, in best_trial
+    return self._get_best_trial(deepcopy=True)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 307, in _get_best_trial
+    best_trial = self._storage.get_best_trial(self._study_id)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/storages/_in_memory.py", line 252, in get_best_trial
+    raise ValueError("No trials are completed yet.")
+ValueError: No trials are completed yet.

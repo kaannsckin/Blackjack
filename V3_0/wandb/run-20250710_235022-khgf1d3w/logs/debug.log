@@ -1,0 +1,28 @@
+2025-07-10 23:50:22,759 INFO    MainThread:36693 [wandb_setup.py:_flush():80] Current SDK version is 0.21.0
+2025-07-10 23:50:22,759 INFO    MainThread:36693 [wandb_setup.py:_flush():80] Configure stats pid to 36693
+2025-07-10 23:50:22,759 INFO    MainThread:36693 [wandb_setup.py:_flush():80] Loading settings from /Users/kaan/.config/wandb/settings
+2025-07-10 23:50:22,759 INFO    MainThread:36693 [wandb_setup.py:_flush():80] Loading settings from /Users/kaan/Desktop/Blackjack/V3_0/wandb/settings
+2025-07-10 23:50:22,759 INFO    MainThread:36693 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-07-10 23:50:22,759 INFO    MainThread:36693 [wandb_init.py:setup_run_log_directory():703] Logging user logs to /Users/kaan/Desktop/Blackjack/V3_0/wandb/run-20250710_235022-khgf1d3w/logs/debug.log
+2025-07-10 23:50:22,760 INFO    MainThread:36693 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to /Users/kaan/Desktop/Blackjack/V3_0/wandb/run-20250710_235022-khgf1d3w/logs/debug-internal.log
+2025-07-10 23:50:22,761 INFO    MainThread:36693 [wandb_init.py:init():830] calling init triggers
+2025-07-10 23:50:22,761 INFO    MainThread:36693 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'n_trials': 1, 'total_steps': 1000, 'eval_episodes': 10, 'study_name': 'bj_dqn_hpo_advanced', 'storage': None, 'seed': 42, 'multi_seed': 1, 'out_dir': '/private/var/folders/fw/gt8mwzcx2vqcdqxdq3gnmqrc0000gn/T/pytest-of-kaan/pytest-11/test_hpo_advanced_smoke0/hpo_advanced_run', 'config': None, 'sampler': 'tpe', 'log_level': 'WARNING', '_wandb': {'code_path': 'code/V3_0/scripts/optimize_hyperparameters_advanced.py'}}
+2025-07-10 23:50:22,761 INFO    MainThread:36693 [wandb_init.py:init():871] starting backend
+2025-07-10 23:50:22,987 INFO    MainThread:36693 [wandb_init.py:init():874] sending inform_init request
+2025-07-10 23:50:23,022 INFO    MainThread:36693 [wandb_init.py:init():882] backend started and connected
+2025-07-10 23:50:23,026 INFO    MainThread:36693 [wandb_init.py:init():953] updated telemetry
+2025-07-10 23:50:23,059 INFO    MainThread:36693 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-07-10 23:50:23,591 INFO    MainThread:36693 [wandb_init.py:init():1029] starting run threads in backend
+2025-07-10 23:50:23,777 INFO    MainThread:36693 [wandb_run.py:_console_start():2458] atexit reg
+2025-07-10 23:50:23,778 INFO    MainThread:36693 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-07-10 23:50:23,778 INFO    MainThread:36693 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-07-10 23:50:23,778 INFO    MainThread:36693 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-07-10 23:50:23,782 INFO    MainThread:36693 [wandb_init.py:init():1075] run started, returning control to user process
+2025-07-10 23:50:31,776 INFO    MainThread:36693 [wandb_run.py:_finish():2224] finishing run kaannsc-bo-azi-i-niversitesi/blackjack_phase1/khgf1d3w
+2025-07-10 23:50:31,776 INFO    MainThread:36693 [wandb_run.py:_atexit_cleanup():2423] got exitcode: 0
+2025-07-10 23:50:31,777 INFO    MainThread:36693 [wandb_run.py:_restore():2405] restore
+2025-07-10 23:50:31,777 INFO    MainThread:36693 [wandb_run.py:_restore():2411] restore done
+2025-07-10 23:50:33,237 INFO    MainThread:36693 [wandb_run.py:_footer_history_summary_info():3903] rendering history
+2025-07-10 23:50:33,238 INFO    MainThread:36693 [wandb_run.py:_footer_history_summary_info():3935] rendering summary
+2025-07-10 23:50:33,238 INFO    MainThread:36693 [wandb_run.py:_footer_sync_info():3864] logging synced files

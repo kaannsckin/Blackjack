@@ -1,0 +1,151 @@
+[I 2025-07-10 23:41:00,311] A new study created in memory with name: bj_dqn_hpo_advanced
+  0%|          | 0/20 [00:00<?, ?it/s]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:81: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+ERROR:__main__:Trial 0, Seed 0 failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ERROR:__main__:Trial 0 failed: Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+  5%|▌         | 1/20 [02:16<43:20, 136.88s/it]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:81: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+[I 2025-07-10 23:43:17,196] Trial 0 pruned. Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+
+[W 2025-07-10 23:44:09,599] Trial 1 failed with parameters: {'n_layers': 2, 'layer1': 256, 'layer2': 256, 'lr': 3.135775732257744e-05, 'buffer_size': 116233, 'eps_frac': 0.10209259715906648, 'eps_final': 0.041407038455720545, 'gamma': 0.959983689107918, 'batch_size': 1024} because of the following error: KeyboardInterrupt().
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 201, in _run_trial
+    value_or_values = func(trial)
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 270, in _objective
+    return objective(trial, args.total_steps, args.eval_episodes, args.seed, args.multi_seed)
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 131, in objective
+    model.learn(total_timesteps=total_steps, callback=callbacks, progress_bar=False)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/dqn/dqn.py", line 267, in learn
+    return super().learn(
+           ~~~~~~~~~~~~~^
+        total_timesteps=total_timesteps,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        progress_bar=progress_bar,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/off_policy_algorithm.py", line 347, in learn
+    self.train(batch_size=self.batch_size, gradient_steps=gradient_steps)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/dqn/dqn.py", line 197, in train
+    next_q_values = self.q_net_target(replay_data.next_observations)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/dqn/policies.py", line 66, in forward
+    return self.q_net(self.extract_features(obs, self.features_extractor))
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/container.py", line 240, in forward
+    input = module(input)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/activation.py", line 133, in forward
+    return F.relu(input, inplace=self.inplace)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/functional.py", line 1704, in relu
+    result = torch.relu(input)
+KeyboardInterrupt
+[W 2025-07-10 23:44:09,607] Trial 1 failed with value None.
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 359, in <module>
+    main()
+    ~~~~^^
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 276, in main
+    study.optimize(
+    ~~~~~~~~~~~~~~^
+        _objective,
+        ^^^^^^^^^^^
+        n_trials=args.n_trials,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+        show_progress_bar=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 489, in optimize
+    _optimize(
+    ~~~~~~~~~^
+        study=self,
+        ^^^^^^^^^^^
+    ...<7 lines>...
+        show_progress_bar=show_progress_bar,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 64, in _optimize
+    _optimize_sequential(
+    ~~~~~~~~~~~~~~~~~~~~^
+        study,
+        ^^^^^^
+    ...<8 lines>...
+        progress_bar=progress_bar,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 161, in _optimize_sequential
+    frozen_trial = _run_trial(study, func, catch)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 253, in _run_trial
+    raise func_err
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 201, in _run_trial
+    value_or_values = func(trial)
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 270, in _objective
+    return objective(trial, args.total_steps, args.eval_episodes, args.seed, args.multi_seed)
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py", line 131, in objective
+    model.learn(total_timesteps=total_steps, callback=callbacks, progress_bar=False)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/dqn/dqn.py", line 267, in learn
+    return super().learn(
+           ~~~~~~~~~~~~~^
+        total_timesteps=total_timesteps,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        progress_bar=progress_bar,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/off_policy_algorithm.py", line 347, in learn
+    self.train(batch_size=self.batch_size, gradient_steps=gradient_steps)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/dqn/dqn.py", line 197, in train
+    next_q_values = self.q_net_target(replay_data.next_observations)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/dqn/policies.py", line 66, in forward
+    return self.q_net(self.extract_features(obs, self.features_extractor))
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/container.py", line 240, in forward
+    input = module(input)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/modules/activation.py", line 133, in forward
+    return F.relu(input, inplace=self.inplace)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/torch/nn/functional.py", line 1704, in relu
+    result = torch.relu(input)
+KeyboardInterrupt

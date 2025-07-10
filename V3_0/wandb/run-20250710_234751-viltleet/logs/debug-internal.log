@@ -1,0 +1,7 @@
+{"time":"2025-07-10T23:47:51.76776+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-10T23:47:52.088604+03:00","level":"INFO","msg":"stream: created new stream","id":"viltleet"}
+{"time":"2025-07-10T23:47:52.088654+03:00","level":"INFO","msg":"stream: started","id":"viltleet"}
+{"time":"2025-07-10T23:47:52.088678+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"viltleet"}
+{"time":"2025-07-10T23:47:52.088727+03:00","level":"INFO","msg":"handler: started","stream_id":"viltleet"}
+{"time":"2025-07-10T23:47:52.088692+03:00","level":"INFO","msg":"sender: started","stream_id":"viltleet"}
+{"time":"2025-07-10T23:47:52.354853+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}

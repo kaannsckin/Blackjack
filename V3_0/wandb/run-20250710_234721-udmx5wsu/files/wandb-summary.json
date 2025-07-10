@@ -1,0 +1,1 @@
+{"_step":0,"eps_final":0.03394633936788147,"gamma":0.9578009320221218,"_timestamp":1.7521804506368399e+09,"eps_frac":0.15175890952605292,"layer1":256,"layer2":128,"lr":4.3284502212938785e-05,"buffer_size":446359,"_runtime":8,"best_reward":0,"batch_size":2048,"_wandb":{"runtime":8}}

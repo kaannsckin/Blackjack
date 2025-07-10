@@ -1,0 +1,9 @@
+{"time":"2025-07-11T00:34:01.117767+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-11T00:34:01.473946+03:00","level":"INFO","msg":"stream: created new stream","id":"fqxgw1j1"}
+{"time":"2025-07-11T00:34:01.474037+03:00","level":"INFO","msg":"stream: started","id":"fqxgw1j1"}
+{"time":"2025-07-11T00:34:01.474078+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"fqxgw1j1"}
+{"time":"2025-07-11T00:34:01.474108+03:00","level":"INFO","msg":"handler: started","stream_id":"fqxgw1j1"}
+{"time":"2025-07-11T00:34:01.474151+03:00","level":"INFO","msg":"sender: started","stream_id":"fqxgw1j1"}
+{"time":"2025-07-11T00:34:01.723528+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-11T00:47:32.764724+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-07-11T00:57:50.34856+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/fqxgw1j1/file_stream\": write tcp 192.168.1.192:61574->35.186.228.49:443: write: broken pipe"}

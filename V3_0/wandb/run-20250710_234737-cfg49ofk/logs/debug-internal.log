@@ -1,0 +1,14 @@
+{"time":"2025-07-10T23:47:38.073749+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-10T23:47:38.39351+03:00","level":"INFO","msg":"stream: created new stream","id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:38.393562+03:00","level":"INFO","msg":"stream: started","id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:38.393671+03:00","level":"INFO","msg":"handler: started","stream_id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:38.393639+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:38.393643+03:00","level":"INFO","msg":"sender: started","stream_id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:38.747363+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-10T23:47:45.119016+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-10T23:47:45.211068+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary, console lines 1-5256","runtime_seconds":0.089076042}],"total_operations":1}}
+{"time":"2025-07-10T23:47:45.764079+03:00","level":"INFO","msg":"stream: closing","id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:45.764118+03:00","level":"INFO","msg":"handler: closed","stream_id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:45.764136+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:45.76431+03:00","level":"INFO","msg":"sender: closed","stream_id":"cfg49ofk"}
+{"time":"2025-07-10T23:47:45.764359+03:00","level":"INFO","msg":"stream: closed","id":"cfg49ofk"}

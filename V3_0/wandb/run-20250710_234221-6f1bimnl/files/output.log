@@ -1,0 +1,22 @@
+[I 2025-07-10 23:42:22,378] A new study created in memory with name: bj_dqn_hpo_advanced
+  0%|          | 0/20 [00:00<?, ?it/s]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:81: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+ERROR:__main__:Trial 0, Seed 0 failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ERROR:__main__:Trial 0 failed: Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+  5%|▌         | 1/20 [02:34<48:55, 154.50s/it]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py:81: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+[I 2025-07-10 23:44:56,884] Trial 0 pruned. Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+ERROR:__main__:Trial 1, Seed 0 failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ERROR:__main__:Trial 1 failed: Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ 10%|█         | 2/20 [09:43<1:34:46, 315.94s/it]ERROR:__main__:Trial 2, Seed 0 failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+[I 2025-07-10 23:52:05,838] Trial 1 pruned. Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ERROR:__main__:Trial 2 failed: Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ 15%|█▌        | 3/20 [31:13<3:35:31, 760.69s/it]ERROR:__main__:Trial 3, Seed 0 failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+[I 2025-07-11 00:13:35,764] Trial 2 pruned. Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ERROR:__main__:Trial 3 failed: Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'
+ 20%|██        | 4/20 [1:19:48<7:09:39, 1611.23s/it]
+[I 2025-07-11 01:02:10,888] Trial 3 pruned. Trial failed: evaluate_policy() got an unexpected keyword argument 'progress_bar'

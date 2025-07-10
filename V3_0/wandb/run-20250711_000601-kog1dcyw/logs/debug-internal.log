@@ -1,0 +1,13 @@
+{"time":"2025-07-11T00:06:01.803586+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-11T00:06:02.17525+03:00","level":"INFO","msg":"stream: created new stream","id":"kog1dcyw"}
+{"time":"2025-07-11T00:06:02.175388+03:00","level":"INFO","msg":"stream: started","id":"kog1dcyw"}
+{"time":"2025-07-11T00:06:02.175495+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"kog1dcyw"}
+{"time":"2025-07-11T00:06:02.175413+03:00","level":"INFO","msg":"handler: started","stream_id":"kog1dcyw"}
+{"time":"2025-07-11T00:06:02.176072+03:00","level":"INFO","msg":"sender: started","stream_id":"kog1dcyw"}
+{"time":"2025-07-11T00:06:02.49074+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-11T00:09:03.140109+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:58995->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T00:09:33.14978+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:59021->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T00:47:49.705838+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-07-11T00:52:22.366272+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:61265->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T00:52:24.986616+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:61268->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T00:52:29.706849+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:61271->35.186.228.49:443: read: connection reset by peer"}

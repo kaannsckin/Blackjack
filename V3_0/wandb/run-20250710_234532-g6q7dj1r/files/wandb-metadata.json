@@ -1,0 +1,47 @@
+{
+  "os":  "macOS-14.0-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.5",
+  "startedAt":  "2025-07-10T20:45:32.417231Z",
+  "args":  [
+    "--n-trials",
+    "1",
+    "--total-steps",
+    "1000",
+    "--eval-episodes",
+    "10",
+    "--out-dir",
+    "/private/var/folders/fw/gt8mwzcx2vqcdqxdq3gnmqrc0000gn/T/pytest-of-kaan/pytest-8/test_hpo_basic_smoke0/hpo_run"
+  ],
+  "program":  "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py",
+  "codePath":  "V3_0/scripts/optimize_hyperparameters.py",
+  "codePathLocal":  "scripts/optimize_hyperparameters.py",
+  "git":  {
+    "remote":  "https://github.com/kaannsckin/Blackjack.git",
+    "commit":  "2632127fc988dc4fb757e2b8963d07a53ff78829"
+  },
+  "email":  "murat.seckin@std.bogazici.edu.tr",
+  "root":  "/Users/kaan/Desktop/Blackjack/V3_0",
+  "host":  "kaan-MacBook-Air-9.local",
+  "executable":  "/Users/kaan/Desktop/Blackjack/.venv/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "238157180928"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "swapTotalBytes":  "11811160064",
+    "ramTotalBytes":  "8589934592"
+  },
+  "writerId":  "0aywlnkmqk1vz1w7jwjcd7gcaxhgzytv"
+}

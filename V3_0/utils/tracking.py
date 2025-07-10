@@ -12,15 +12,15 @@ from torch.utils.tensorboard import SummaryWriter  # noqa: E402 – optional dep
 def init_wandb(
     project: str = "blackjack-ai-sim",
     entity: Optional[str] = None,
+    name: Optional[str] = None,
     run_name: Optional[str] = None,
     config: Dict[str, Any] | None = None,
     tags: list[str] | None = None,
 ) -> wandb.wandb_sdk.wandb_run.Run:
-    """Kısa W&B başlangıcı. Offline moda geçmek için `WANDB_MODE=offline` env’i kullan."""
     run = wandb.init(
         project=project,
         entity=entity,
-        name=run_name,
+        name=name or run_name,
         config=config,
         tags=tags,
         save_code=True,

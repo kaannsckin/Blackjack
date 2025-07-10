@@ -1,0 +1,70 @@
+[I 2025-07-10 23:39:27,819] A new study created in memory with name: bj_dqn_hpo
+  0%|          | 0/1 [00:00<?, ?it/s]/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py:64: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  "learning_rate": trial.suggest_loguniform("lr", 1e-5, 5e-4),
+/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+  0%|          | 0/1 [00:00<?, ?it/s]
+[W 2025-07-10 23:39:28,659] Trial 0 failed with parameters: {'lr': 4.3284502212938785e-05, 'buffer_size': 446359, 'eps_frac': 0.15175890952605292, 'eps_final': 0.03394633936788147, 'gamma': 0.9578009320221218, 'batch_size': 2048, 'layer1': 256, 'layer2': 128} because of the following error: AttributeError('module optuna.integration has no attribute StableBaselines3Callback').
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 201, in _run_trial
+    value_or_values = func(trial)
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py", line 158, in <lambda>
+    lambda tr: objective(tr, args.total_steps, args.eval_episodes, args.seed),
+               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py", line 99, in objective
+    callback = optuna.integration.StableBaselines3Callback(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/integration/__init__.py", line 123, in __getattr__
+    raise AttributeError("module {} has no attribute {}".format(self.__name__, name))
+AttributeError: module optuna.integration has no attribute StableBaselines3Callback
+[W 2025-07-10 23:39:28,660] Trial 0 failed with value None.
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py", line 213, in <module>
+    main()
+    ~~~~^^
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py", line 157, in main
+    study.optimize(
+    ~~~~~~~~~~~~~~^
+        lambda tr: objective(tr, args.total_steps, args.eval_episodes, args.seed),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        n_trials=args.n_trials,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+        show_progress_bar=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/study.py", line 489, in optimize
+    _optimize(
+    ~~~~~~~~~^
+        study=self,
+        ^^^^^^^^^^^
+    ...<7 lines>...
+        show_progress_bar=show_progress_bar,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 64, in _optimize
+    _optimize_sequential(
+    ~~~~~~~~~~~~~~~~~~~~^
+        study,
+        ^^^^^^
+    ...<8 lines>...
+        progress_bar=progress_bar,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 161, in _optimize_sequential
+    frozen_trial = _run_trial(study, func, catch)
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 253, in _run_trial
+    raise func_err
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/study/_optimize.py", line 201, in _run_trial
+    value_or_values = func(trial)
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py", line 158, in <lambda>
+    lambda tr: objective(tr, args.total_steps, args.eval_episodes, args.seed),
+               ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters.py", line 99, in objective
+    callback = optuna.integration.StableBaselines3Callback(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kaan/Desktop/Blackjack/.venv/lib/python3.13/site-packages/optuna/integration/__init__.py", line 123, in __getattr__
+    raise AttributeError("module {} has no attribute {}".format(self.__name__, name))
+AttributeError: module optuna.integration has no attribute StableBaselines3Callback
