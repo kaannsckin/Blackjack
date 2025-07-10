@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "V3.0"
+        "V3_0"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
