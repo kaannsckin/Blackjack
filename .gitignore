@@ -5,3 +5,7 @@ __pycache__/
 .env
 blackjack_env/
 myenv/
+wandb/
+runs/*/tb/
+*.wandb
+*.tfevents*
