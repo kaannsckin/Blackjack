@@ -1,0 +1,28 @@
+{
+  "ai_ev": -0.044,
+  "basic_ev": -0.0576,
+  "agreement_rate": 80.47999999999999,
+  "win_rates": {
+    "ai_win_rate": 41.260000000000005,
+    "ai_push_rate": 9.48,
+    "ai_loss_rate": 49.26,
+    "basic_win_rate": 42.18,
+    "basic_push_rate": 8.92,
+    "basic_loss_rate": 48.9
+  },
+  "action_distributions": {
+    "ai": {
+      "0": 1855,
+      "1": 2432,
+      "2": 652,
+      "3": 61
+    },
+    "basic": {
+      "0": 2412,
+      "1": 2049,
+      "2": 539,
+      "3": 0
+    }
+  },
+  "num_episodes": 5000
+}

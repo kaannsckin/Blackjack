@@ -1,0 +1,31 @@
+{
+  "training_config": {
+    "algorithm": "ppo",
+    "total_steps": 2000,
+    "n_envs": 2,
+    "learning_rate": 0.0003,
+    "architecture": [
+      512,
+      256,
+      128
+    ],
+    "action_type": "multi_discrete",
+    "initial_bankroll": 10000.0,
+    "penetration": 0.75,
+    "seed": 42
+  },
+  "training_time_seconds": 15.62730073928833,
+  "final_evaluation": {
+    "eval_mean_reward": -3.240768585554197,
+    "eval_std_reward": 11.304614827498122,
+    "eval_mean_length": 1.026,
+    "eval_mean_bankroll_change": -2.98,
+    "eval_total_bankroll_change": -1490.0,
+    "eval_win_rate": 0.304,
+    "eval_episodes": 500,
+    "eval_risk_of_ruin": 100.0,
+    "eval_kelly_criterion": 0.10000000149011612,
+    "eval_sharpe_ratio": -5.0
+  },
+  "model_path": "runs/f2_4_working_test/final_model"
+}

@@ -1,0 +1,5 @@
+AI PERFORMANCE IMPROVEMENT RECOMMENDATIONS
+==================================================
+
+💡 ARCHITECTURE: Consider deeper network or better feature engineering
+💡 EXPLORATION: Tune exploration parameters for better coverage

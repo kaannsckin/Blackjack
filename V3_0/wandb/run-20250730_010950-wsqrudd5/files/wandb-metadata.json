@@ -1,0 +1,45 @@
+{
+  "os":  "macOS-10.16-x86_64-i386-64bit",
+  "python":  "CPython 3.9.7",
+  "startedAt":  "2025-07-29T22:09:50.996447Z",
+  "args":  [
+    "--steps",
+    "100000",
+    "--envs",
+    "2",
+    "--output",
+    "runs/test_training"
+  ],
+  "program":  "/Users/kaan/Desktop/Blackjack/V3_0/scripts/train_simple_enhanced.py",
+  "codePath":  "V3_0/scripts/train_simple_enhanced.py",
+  "codePathLocal":  "scripts/train_simple_enhanced.py",
+  "git":  {
+    "remote":  "https://github.com/kaannsckin/Blackjack.git",
+    "commit":  "9a31da73e90a554049d01d4a0699c7c9196e6c3f"
+  },
+  "email":  "murat.seckin@std.bogazici.edu.tr",
+  "root":  "/Users/kaan/Desktop/Blackjack/V3_0",
+  "host":  "kaan-MacBook-Air-9.local",
+  "executable":  "/Users/kaan/opt/anaconda3/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "227945746432"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Unknown",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "swapTotalBytes":  "4294967296",
+    "ramTotalBytes":  "8589934592"
+  },
+  "writerId":  "ojs0set94e0nvltl16mtpd4a9kspybra"
+}
