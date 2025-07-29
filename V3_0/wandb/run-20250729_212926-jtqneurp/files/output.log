@@ -1,0 +1,47 @@
+/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+Using cpu device
+[2KTraceback (most recent call last):━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+[2K  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/train_play_agent.py", line 187, in <module>/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    main()
+[2K  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/train_play_agent.py", line 167, in main32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    model.learn(
+[2K  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/dqn/dqn.py", line 267, in [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+learn
+    return super().learn(
+[2K  File [0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+"/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/off_policy_algorithm.py",
+line 328, in learn
+    rollout = self.collect_rollouts(
+[2K  File [0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+"/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/off_policy_algorithm.py",
+line 560, in collect_rollouts
+    new_obs, rewards, dones, infos = env.step(actions)
+[2K  File [0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+"/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/vec_env/base_vec_env.py",
+line 206, in step
+    return self.step_wait()
+[2K  File [0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+"/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/vec_env/vec_monitor.py",
+line 76, in step_wait
+    obs, rewards, dones, infos = self.venv.step_wait()
+[2K  File  0%[0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+"/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/vec_env/dummy_vec_env.py",
+line 58, in step_wait
+    obs, self.buf_rews[env_idx], terminated, truncated, self.buf_infos[env_idx] = self.envs[env_idx].step(
+[2K  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/monitor.py", line 94, [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+[2K  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/monitor.py", line 94, [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+[2K  File "/Users/kaan/Desktop/Blackjack/V3_0/rl_environment.py", line 109, in step━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    return self._next_hand_or_resolve()
+[2K  File "/Users/kaan/Desktop/Blackjack/V3_0/rl_environment.py", line 192, in _next_hand_or_resolve,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    return self._resolve_all_hands(reward_multiplier)
+[2K  File "/Users/kaan/Desktop/Blackjack/V3_0/rl_environment.py", line 146, in _resolve_all_hands/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    final_obs = self._get_obs() if self.player_hands[0] else np.array([21, 10, 0, 0], dtype=np.int32)
+[2K  File "/Users/kaan/Desktop/Blackjack/V3_0/rl_environment.py", line 154, in _get_obs[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    current_hand = self.player_hands[self._current_hand_idx]
+[2KIndexError: list index out of range━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+[2K[35m   0%[0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/50,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]

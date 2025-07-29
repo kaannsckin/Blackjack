@@ -1,0 +1,13 @@
+{"time":"2025-07-29T21:29:27.423894+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-29T21:29:28.328002+03:00","level":"INFO","msg":"stream: created new stream","id":"jtqneurp"}
+{"time":"2025-07-29T21:29:28.328182+03:00","level":"INFO","msg":"stream: started","id":"jtqneurp"}
+{"time":"2025-07-29T21:29:28.328265+03:00","level":"INFO","msg":"handler: started","stream_id":"jtqneurp"}
+{"time":"2025-07-29T21:29:28.328276+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"jtqneurp"}
+{"time":"2025-07-29T21:29:28.32997+03:00","level":"INFO","msg":"sender: started","stream_id":"jtqneurp"}
+{"time":"2025-07-29T21:29:28.743363+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-29T21:29:36.224745+03:00","level":"INFO","msg":"stream: closing","id":"jtqneurp"}
+{"time":"2025-07-29T21:29:36.776451+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-29T21:29:37.071364+03:00","level":"INFO","msg":"handler: closed","stream_id":"jtqneurp"}
+{"time":"2025-07-29T21:29:37.071741+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jtqneurp"}
+{"time":"2025-07-29T21:29:37.071773+03:00","level":"INFO","msg":"sender: closed","stream_id":"jtqneurp"}
+{"time":"2025-07-29T21:29:37.072548+03:00","level":"INFO","msg":"stream: closed","id":"jtqneurp"}

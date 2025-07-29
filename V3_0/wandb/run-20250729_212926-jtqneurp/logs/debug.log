@@ -1,0 +1,238 @@
+2025-07-29 21:29:26,244 INFO    MainThread:61724 [wandb_setup.py:_flush():80] Current SDK version is 0.21.0
+2025-07-29 21:29:26,244 INFO    MainThread:61724 [wandb_setup.py:_flush():80] Configure stats pid to 61724
+2025-07-29 21:29:26,252 INFO    MainThread:61724 [wandb_setup.py:_flush():80] Loading settings from /Users/kaan/.config/wandb/settings
+2025-07-29 21:29:26,253 INFO    MainThread:61724 [wandb_setup.py:_flush():80] Loading settings from /Users/kaan/Desktop/Blackjack/V3_0/wandb/settings
+2025-07-29 21:29:26,253 INFO    MainThread:61724 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-07-29 21:29:26,253 INFO    MainThread:61724 [wandb_init.py:setup_run_log_directory():703] Logging user logs to /Users/kaan/Desktop/Blackjack/V3_0/wandb/run-20250729_212926-jtqneurp/logs/debug.log
+2025-07-29 21:29:26,253 INFO    MainThread:61724 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to /Users/kaan/Desktop/Blackjack/V3_0/wandb/run-20250729_212926-jtqneurp/logs/debug-internal.log
+2025-07-29 21:29:26,256 INFO    MainThread:61724 [wandb_init.py:init():830] calling init triggers
+2025-07-29 21:29:26,256 INFO    MainThread:61724 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'total_timesteps': 50000, 'algo': 'DQN', 'vec_envs': 8, 'seed': 42, '_wandb': {'code_path': 'code/V3_0/scripts/train_play_agent.py'}}
+2025-07-29 21:29:26,256 INFO    MainThread:61724 [wandb_init.py:init():871] starting backend
+2025-07-29 21:29:27,156 INFO    MainThread:61724 [wandb_init.py:init():874] sending inform_init request
+2025-07-29 21:29:27,406 INFO    MainThread:61724 [wandb_init.py:init():882] backend started and connected
+2025-07-29 21:29:27,417 INFO    MainThread:61724 [wandb_init.py:init():953] updated telemetry
+2025-07-29 21:29:27,512 INFO    MainThread:61724 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-07-29 21:29:28,734 INFO    MainThread:61724 [wandb_init.py:init():1029] starting run threads in backend
+2025-07-29 21:29:31,499 INFO    MainThread:61724 [wandb_run.py:_console_start():2458] atexit reg
+2025-07-29 21:29:31,500 INFO    MainThread:61724 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-07-29 21:29:31,503 INFO    MainThread:61724 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-07-29 21:29:31,503 INFO    MainThread:61724 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-07-29 21:29:31,513 INFO    MainThread:61724 [wandb_init.py:init():1075] run started, returning control to user process
+2025-07-29 21:29:36,216 INFO    MsgRouterThr:61724 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 1 handles.
+2025-07-29 21:29:36,286 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:36,406 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:36,519 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:36,630 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:36,742 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:36,856 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:36,969 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-07-29 21:29:37,097 ERROR   Thread-4  :61724 [redirect.py:_on_write():664] [all runs] error in stdout callback
+Traceback (most recent call last):
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 662, in _on_write
+    cb(written_data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2379, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 398, in wrapper
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 456, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1566, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface.py", line 771, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 170, in send_record_publish
+    self.send_server_request(server_req)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 150, in send_server_request
+    self._send_message(msg)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 147, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 126, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe

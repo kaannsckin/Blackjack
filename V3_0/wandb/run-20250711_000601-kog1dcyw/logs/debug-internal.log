@@ -12,3 +12,10 @@
 {"time":"2025-07-11T00:52:24.986616+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:61268->35.186.228.49:443: read: connection reset by peer"}
 {"time":"2025-07-11T00:52:29.706849+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:61271->35.186.228.49:443: read: connection reset by peer"}
 {"time":"2025-07-11T01:04:37.36619+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:61817->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T01:21:07.440472+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/kog1dcyw/file_stream\": read tcp 192.168.1.192:62540->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T01:42:03.314831+03:00","level":"INFO","msg":"stream: closing","id":"kog1dcyw"}
+{"time":"2025-07-11T01:42:03.971593+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-11T01:42:04.277183+03:00","level":"INFO","msg":"sender: closed","stream_id":"kog1dcyw"}
+{"time":"2025-07-11T01:42:04.277221+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kog1dcyw"}
+{"time":"2025-07-11T01:42:04.277212+03:00","level":"INFO","msg":"handler: closed","stream_id":"kog1dcyw"}
+{"time":"2025-07-11T01:42:04.277441+03:00","level":"INFO","msg":"stream: closed","id":"kog1dcyw"}

@@ -1,0 +1,19 @@
+/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/vec_env/vec_monitor.py:44: UserWarning: The environment is already wrapped with a `Monitor` wrapperbut you are wrapping it with a `VecMonitor` wrapper, the `Monitor` statistics will beoverwritten by the `VecMonitor` ones.
+  warnings.warn(
+Using cpu device
+Traceback (most recent call last):
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/train_play_agent.py", line 187, in <module>
+    main()
+  File "/Users/kaan/Desktop/Blackjack/V3_0/scripts/train_play_agent.py", line 167, in main
+    model.learn(
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/dqn/dqn.py", line 267, in learn
+    return super().learn(
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/off_policy_algorithm.py", line 314, in learn
+    total_timesteps, callback = self._setup_learn(
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/off_policy_algorithm.py", line 297, in _setup_learn
+    return super()._setup_learn(
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/base_class.py", line 431, in _setup_learn
+    self._logger = utils.configure_logger(self.verbose, self.tensorboard_log, tb_log_name, reset_num_timesteps)
+  File "/Users/kaan/opt/anaconda3/lib/python3.9/site-packages/stable_baselines3/common/utils.py", line 201, in configure_logger
+    raise ImportError("Trying to log data to tensorboard but tensorboard is not installed.")
+ImportError: Trying to log data to tensorboard but tensorboard is not installed.

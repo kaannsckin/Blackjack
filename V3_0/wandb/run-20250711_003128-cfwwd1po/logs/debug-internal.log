@@ -5,3 +5,10 @@
 {"time":"2025-07-11T00:31:29.562558+03:00","level":"INFO","msg":"handler: started","stream_id":"cfwwd1po"}
 {"time":"2025-07-11T00:31:29.562755+03:00","level":"INFO","msg":"sender: started","stream_id":"cfwwd1po"}
 {"time":"2025-07-11T00:31:29.834004+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-11T01:15:15.495597+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/cfwwd1po/file_stream\": read tcp 192.168.1.192:62313->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T01:27:44.817556+03:00","level":"INFO","msg":"stream: closing","id":"cfwwd1po"}
+{"time":"2025-07-11T01:27:45.48314+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-11T01:27:45.945893+03:00","level":"INFO","msg":"handler: closed","stream_id":"cfwwd1po"}
+{"time":"2025-07-11T01:27:45.945955+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cfwwd1po"}
+{"time":"2025-07-11T01:27:45.945979+03:00","level":"INFO","msg":"sender: closed","stream_id":"cfwwd1po"}
+{"time":"2025-07-11T01:27:45.946226+03:00","level":"INFO","msg":"stream: closed","id":"cfwwd1po"}

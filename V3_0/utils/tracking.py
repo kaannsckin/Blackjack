@@ -1,4 +1,4 @@
-"""W&B + TensorBoard başlangıç yardımcıları (FAZ 0 – F0.4)"""
+"""W&B + TensorBoard başlangıç yardımcıları (FAZ 0 – F0.4)"""
 from __future__ import annotations
 
 import datetime as _dt
@@ -6,7 +6,14 @@ from pathlib import Path
 from typing import Any, Dict, Optional
 
 import wandb
-from torch.utils.tensorboard import SummaryWriter  # noqa: E402 – optional dep; SB3 kurulumunda Torch gelir
+
+# Optional tensorboard import
+try:
+    from torch.utils.tensorboard import SummaryWriter  # noqa: E402 – optional dep; SB3 kurulumunda Torch gelir
+    TENSORBOARD_AVAILABLE = True
+except ImportError:
+    SummaryWriter = None
+    TENSORBOARD_AVAILABLE = False
 
 
 def init_wandb(
@@ -29,8 +36,12 @@ def init_wandb(
     return run
 
 
-def get_tb_writer(log_dir: str | Path | None = None) -> SummaryWriter:
+def get_tb_writer(log_dir: str | Path | None = None):
     """Tarih‑damgalı TensorBoard log dizini oluşturur."""
+    if not TENSORBOARD_AVAILABLE:
+        print("⚠️ TensorBoard not available, skipping TB writer creation")
+        return None
+        
     if log_dir is None:
         log_dir = Path("runs") / _dt.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
     return SummaryWriter(log_dir=str(log_dir))

@@ -6,3 +6,9 @@
 {"time":"2025-07-11T00:32:52.611965+03:00","level":"INFO","msg":"sender: started","stream_id":"35ec9ft5"}
 {"time":"2025-07-11T00:32:52.859392+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
 {"time":"2025-07-11T00:48:38.679355+03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/35ec9ft5/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-07-11T01:27:47.480117+03:00","level":"INFO","msg":"stream: closing","id":"35ec9ft5"}
+{"time":"2025-07-11T01:27:48.216562+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-11T01:27:48.485968+03:00","level":"INFO","msg":"handler: closed","stream_id":"35ec9ft5"}
+{"time":"2025-07-11T01:27:48.486074+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"35ec9ft5"}
+{"time":"2025-07-11T01:27:48.486957+03:00","level":"INFO","msg":"sender: closed","stream_id":"35ec9ft5"}
+{"time":"2025-07-11T01:27:48.487044+03:00","level":"INFO","msg":"stream: closed","id":"35ec9ft5"}

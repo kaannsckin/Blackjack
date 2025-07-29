@@ -1,0 +1,14 @@
+{"time":"2025-07-30T00:33:32.191385+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-30T00:33:32.66186+03:00","level":"INFO","msg":"stream: created new stream","id":"k7zojm08"}
+{"time":"2025-07-30T00:33:32.661917+03:00","level":"INFO","msg":"stream: started","id":"k7zojm08"}
+{"time":"2025-07-30T00:33:32.661927+03:00","level":"INFO","msg":"handler: started","stream_id":"k7zojm08"}
+{"time":"2025-07-30T00:33:32.662148+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"k7zojm08"}
+{"time":"2025-07-30T00:33:32.662149+03:00","level":"INFO","msg":"sender: started","stream_id":"k7zojm08"}
+{"time":"2025-07-30T00:33:33.027518+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-30T00:33:47.86747+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/q_value_heatmap_ace_3_beceeb918e2b12b5fcd8.png","runtime_seconds":1.01120025,"progress":"1.4MB/1.8MB"},{"desc":"uploading media/images/q_value_heatmap_no_ace_4_fca32d7647b146c0cae9.png","runtime_seconds":0.776193958,"progress":"896.0KB/1.8MB"}],"total_operations":2}}
+{"time":"2025-07-30T00:33:48.639024+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-30T00:33:48.94586+03:00","level":"INFO","msg":"stream: closing","id":"k7zojm08"}
+{"time":"2025-07-30T00:33:48.945904+03:00","level":"INFO","msg":"handler: closed","stream_id":"k7zojm08"}
+{"time":"2025-07-30T00:33:48.946234+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"k7zojm08"}
+{"time":"2025-07-30T00:33:48.946476+03:00","level":"INFO","msg":"sender: closed","stream_id":"k7zojm08"}
+{"time":"2025-07-30T00:33:48.946834+03:00","level":"INFO","msg":"stream: closed","id":"k7zojm08"}

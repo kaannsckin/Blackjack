@@ -1,0 +1,58 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        code_path: code/V3_0/scripts/visualize_policy.py
+        e:
+            rktax16fr55min1j9r9m8j274duerhsl:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    memoryGb: 8
+                    name: Unknown
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "3221225472"
+                args:
+                    - --model-path
+                    - runs/phase1_full_corrected/models/final_model.zip
+                    - --output-dir
+                    - runs/phase1_corrected_analysis
+                codePath: V3_0/scripts/visualize_policy.py
+                codePathLocal: scripts/visualize_policy.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "226682470400"
+                email: murat.seckin@std.bogazici.edu.tr
+                executable: /Users/kaan/opt/anaconda3/bin/python
+                git:
+                    commit: e88c91dc9eef2aa19acd646a168d3bebba0713d1
+                    remote: https://github.com/kaannsckin/Blackjack.git
+                host: kaan-MacBook-Air-9.local
+                memory:
+                    total: "8589934592"
+                os: macOS-10.16-x86_64-i386-64bit
+                program: /Users/kaan/Desktop/Blackjack/V3_0/scripts/visualize_policy.py
+                python: CPython 3.9.7
+                root: /Users/kaan/Desktop/Blackjack/V3_0
+                startedAt: "2025-07-29T21:33:31.650457Z"
+                writerId: rktax16fr55min1j9r9m8j274duerhsl
+        m: []
+        python_version: 3.9.7
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.9.7
+            "5": 0.21.0
+            "12": 0.21.0
+            "13": darwin-x86_64
+model_path:
+    value: runs/phase1_full_corrected/models/final_model.zip

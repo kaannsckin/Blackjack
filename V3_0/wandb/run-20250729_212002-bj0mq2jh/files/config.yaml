@@ -1,0 +1,63 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        code_path: code/V3_0/scripts/train_play_agent.py
+        e:
+            dyauxhhzkpaownpermae3jhmryfddiku:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    memoryGb: 8
+                    name: Unknown
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "4294967296"
+                args:
+                    - --total-steps
+                    - "25000"
+                    - --log-dir
+                    - runs/test_fixed_params
+                codePath: V3_0/scripts/train_play_agent.py
+                codePathLocal: scripts/train_play_agent.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "225521852416"
+                email: murat.seckin@std.bogazici.edu.tr
+                executable: /Users/kaan/opt/anaconda3/bin/python
+                git:
+                    commit: e88c91dc9eef2aa19acd646a168d3bebba0713d1
+                    remote: https://github.com/kaannsckin/Blackjack.git
+                host: kaan-MacBook-Air-9.local
+                memory:
+                    total: "8589934592"
+                os: macOS-10.16-x86_64-i386-64bit
+                program: /Users/kaan/Desktop/Blackjack/V3_0/scripts/train_play_agent.py
+                python: CPython 3.9.7
+                root: /Users/kaan/Desktop/Blackjack/V3_0
+                startedAt: "2025-07-29T18:20:02.550320Z"
+                writerId: dyauxhhzkpaownpermae3jhmryfddiku
+        m: []
+        python_version: 3.9.7
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 13
+                - 16
+            "4": 3.9.7
+            "5": 0.21.0
+            "12": 0.21.0
+            "13": darwin-x86_64
+algo:
+    value: DQN
+seed:
+    value: 42
+total_timesteps:
+    value: 25000
+vec_envs:
+    value: 8

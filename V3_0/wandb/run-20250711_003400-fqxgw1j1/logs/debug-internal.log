@@ -7,3 +7,13 @@
 {"time":"2025-07-11T00:34:01.723528+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
 {"time":"2025-07-11T00:47:32.764724+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
 {"time":"2025-07-11T00:57:50.34856+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/fqxgw1j1/file_stream\": write tcp 192.168.1.192:61574->35.186.228.49:443: write: broken pipe"}
+{"time":"2025-07-11T01:44:21.193471+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/fqxgw1j1/file_stream\": read tcp 192.168.1.192:63203->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T02:11:04.973001+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:62919->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T02:52:50.98764+03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/fqxgw1j1/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-07-11T03:31:46.746291+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.800015042,"progress":"992.0KB/43.0MB"},{"desc":"uploading config.yaml","runtime_seconds":0.522591667,"progress":"3.0KB/3.0KB"}],"total_operations":2}}
+{"time":"2025-07-11T03:32:04.649842+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-11T03:32:05.119351+03:00","level":"INFO","msg":"stream: closing","id":"fqxgw1j1"}
+{"time":"2025-07-11T03:32:05.119405+03:00","level":"INFO","msg":"handler: closed","stream_id":"fqxgw1j1"}
+{"time":"2025-07-11T03:32:05.119592+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"fqxgw1j1"}
+{"time":"2025-07-11T03:32:05.119651+03:00","level":"INFO","msg":"sender: closed","stream_id":"fqxgw1j1"}
+{"time":"2025-07-11T03:32:05.119945+03:00","level":"INFO","msg":"stream: closed","id":"fqxgw1j1"}

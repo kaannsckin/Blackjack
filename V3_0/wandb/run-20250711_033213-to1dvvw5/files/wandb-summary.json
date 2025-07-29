@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":2},"best_reward":-0.3333333432674408,"buffer_size":446359,"eps_final":0.03394633936788147,"eps_frac":0.15175890952605292,"batch_size":2048,"layer1":256,"layer2":128,"_step":0,"lr":4.3284502212938785e-05,"_runtime":2,"_timestamp":1.7521939366217978e+09,"gamma":0.9578009320221218}

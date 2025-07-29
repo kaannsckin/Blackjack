@@ -1,0 +1,88 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        code_path: code/V3_0/scripts/optimize_hyperparameters_advanced.py
+        e:
+            74ityvwjumadtd44bdchquvx5wf3ctji:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    memoryGb: 8
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "11811160064"
+                args:
+                    - --n-trials
+                    - "1"
+                    - --total-steps
+                    - "500"
+                    - --eval-episodes
+                    - "3"
+                    - --out-dir
+                    - /private/var/folders/fw/gt8mwzcx2vqcdqxdq3gnmqrc0000gn/T/pytest-of-kaan/pytest-19/test_hpo_advanced_smoke0/hpo_advanced_run
+                    - --multi-seed
+                    - "1"
+                    - --log-level
+                    - WARNING
+                codePath: V3_0/scripts/optimize_hyperparameters_advanced.py
+                codePathLocal: scripts/optimize_hyperparameters_advanced.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "238221897728"
+                email: murat.seckin@std.bogazici.edu.tr
+                executable: /Users/kaan/Desktop/Blackjack/.venv/bin/python
+                git:
+                    commit: e88c91dc9eef2aa19acd646a168d3bebba0713d1
+                    remote: https://github.com/kaannsckin/Blackjack.git
+                host: kaan-MacBook-Air-9.local
+                memory:
+                    total: "8589934592"
+                os: macOS-14.0-arm64-arm-64bit-Mach-O
+                program: /Users/kaan/Desktop/Blackjack/V3_0/scripts/optimize_hyperparameters_advanced.py
+                python: CPython 3.13.5
+                root: /Users/kaan/Desktop/Blackjack/V3_0
+                startedAt: "2025-07-11T00:32:21.829027Z"
+                writerId: 74ityvwjumadtd44bdchquvx5wf3ctji
+        m: []
+        python_version: 3.13.5
+        t:
+            "1":
+                - 1
+                - 35
+            "2":
+                - 1
+                - 35
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.5
+            "5": 0.21.0
+            "12": 0.21.0
+            "13": darwin-arm64
+config:
+    value: null
+eval_episodes:
+    value: 3
+log_level:
+    value: WARNING
+multi_seed:
+    value: 1
+n_trials:
+    value: 1
+out_dir:
+    value: /private/var/folders/fw/gt8mwzcx2vqcdqxdq3gnmqrc0000gn/T/pytest-of-kaan/pytest-19/test_hpo_advanced_smoke0/hpo_advanced_run
+sampler:
+    value: tpe
+seed:
+    value: 42
+storage:
+    value: null
+study_name:
+    value: bj_dqn_hpo_advanced
+total_steps:
+    value: 500

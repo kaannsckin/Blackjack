@@ -1,0 +1,19 @@
+{"time":"2025-07-11T03:32:29.430513+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-11T03:32:29.744196+03:00","level":"INFO","msg":"stream: created new stream","id":"r71dr8fs"}
+{"time":"2025-07-11T03:32:29.744234+03:00","level":"INFO","msg":"stream: started","id":"r71dr8fs"}
+{"time":"2025-07-11T03:32:29.744246+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"r71dr8fs"}
+{"time":"2025-07-11T03:32:29.74428+03:00","level":"INFO","msg":"handler: started","stream_id":"r71dr8fs"}
+{"time":"2025-07-11T03:32:29.744264+03:00","level":"INFO","msg":"sender: started","stream_id":"r71dr8fs"}
+{"time":"2025-07-11T03:32:30.050677+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-11T03:48:45.435326+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/r71dr8fs/file_stream\": dial tcp 35.186.228.49:443: connect: connection reset by peer"}
+{"time":"2025-07-11T04:04:00.737094+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:63926->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T04:19:15.720599+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64081->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T04:34:30.820289+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64130->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T05:04:45.91582+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64154->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T05:20:00.483983+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64239->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T05:49:51.228611+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64311->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T06:20:06.125411+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64399->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T06:35:21.069953+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64474->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-07-11T15:59:57.578958+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/r71dr8fs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-07-11T15:59:59.69893+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kaannsc-bo-azi-i-niversitesi/blackjack_phase1/r71dr8fs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-07-11T16:00:19.29407+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.192:64544->35.186.228.49:443: read: can't assign requested address"}

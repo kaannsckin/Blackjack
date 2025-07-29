@@ -1,0 +1,14 @@
+{"time":"2025-07-11T03:32:13.469282+03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-11T03:32:13.787464+03:00","level":"INFO","msg":"stream: created new stream","id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:13.787506+03:00","level":"INFO","msg":"stream: started","id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:13.787762+03:00","level":"INFO","msg":"sender: started","stream_id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:13.787764+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:13.787853+03:00","level":"INFO","msg":"handler: started","stream_id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:14.038451+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-07-11T03:32:17.636919+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.767910209,"progress":"300B/300B"},{"desc":"uploading config.yaml","runtime_seconds":0.545883167,"progress":"2.5KB/2.5KB"}],"total_operations":2}}
+{"time":"2025-07-11T03:32:17.711392+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-11T03:32:18.459545+03:00","level":"INFO","msg":"stream: closing","id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:18.459611+03:00","level":"INFO","msg":"sender: closed","stream_id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:18.459808+03:00","level":"INFO","msg":"handler: closed","stream_id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:18.459824+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"to1dvvw5"}
+{"time":"2025-07-11T03:32:18.459883+03:00","level":"INFO","msg":"stream: closed","id":"to1dvvw5"}

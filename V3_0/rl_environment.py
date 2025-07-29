@@ -1,3 +1,40 @@
+"""
+================================================================================
+BLACKJACK REINFORCEMENT LEARNING ENVIRONMENT (V3.0)
+================================================================================
+
+📋 **AMAÇ:**
+   Blackjack oyunu için Gymnasium uyumlu RL ortamı. Hit/Stand/Double/Split 
+   kararlarını öğrenen AI ajanlar için temel simülasyon motoru.
+
+🎯 **FAZ KAPSAMINDA:**
+   • FAZ 0 (F0.2): Temel RL environment kurulumu
+   • FAZ 1 (F1.1-F1.2): Oynama stratejisi için observation/action space
+   • FAZ 2 (F2.3): Bahis stratejisi için environment genişletmesi
+   • FAZ 3 (F3.1-F3.2): Çoklu kural seti desteği ve dinamik reset
+
+🏗️ **TEKNİK ÖZELLİKLER:**
+   • Observation Space: [player_total, dealer_up, usable_ace, true_count]
+   • Action Space: Discrete(4) - [Stand, Hit, Double, Split]
+   • Reward System: Win:+1, Push:0, Loss:-1
+   • Multi-hand Support: Split işlemleri için çoklu el yönetimi
+   • Card Counting: Hi-Lo sistemli true count hesaplama
+   • Rule Variations: S17/H17, DAS, penetration ayarları
+
+🔄 **GÜNCELLEMELER:**
+   • 2025-07-29: Terminal observation fix, split handling improvements
+   • 2025-07-10: Split action tam implementasyonu
+   • 2025-07-09: İlk sürüm, basic hit/stand/double
+
+📊 **KULLANIM:**
+   ```python
+   env = BlackjackEnv(rules={"num_decks": 6, "dealer_rule": "S17"})
+   obs, info = env.reset()
+   obs, reward, done, truncated, info = env.step(action)
+   ```
+
+================================================================================
+"""
 """Blackjack RL Environment – F1.0 Upgrade
 
 Ekstra özellikler:
@@ -6,7 +43,6 @@ Ekstra özellikler:
 * `penetration` oranı: 0‑1 arası; deste bu orandan az kaldığında otomatik reshuffle
 * Observation vektörü değişmedi ancak yeni kural kimlikleri gözleme eklemek kolay.
 """
-from __future__ import annotations
 
 import random
 from typing import Any, Dict, Tuple, Optional
@@ -32,7 +68,7 @@ class BlackjackEnv(gym.Env):
     def __init__(
         self,
         *,
-        seed: int | None = None,
+        seed: Optional[int] = None,
         rules: Optional[Dict[str, Any]] = None,
         penetration: float = 0.75,
     ) -> None:
@@ -86,7 +122,7 @@ class BlackjackEnv(gym.Env):
         return total, usable_ace
 
     # ---------------------- Gym API ----------------------
-    def reset(self, *, seed: int | None = None, options: Dict[str, Any] | None = None):
+    def reset(self, *, seed: Optional[int] = None, options: Optional[Dict[str, Any]] = None):
         if seed is not None:
             self.rng.seed(seed)
         self._reshuffle()
@@ -141,9 +177,19 @@ class BlackjackEnv(gym.Env):
                 hand_reward = -1
             total_reward += hand_reward
         
-        # Episode bittiğinde, gözlem olarak sıfır vektörü döndür
-        terminal_obs = np.zeros(self.observation_space.shape, dtype=np.int32)
-        return terminal_obs, float(total_reward * reward_multiplier), True, False, {}
+        # Episode bittiğinde, gözlem olarak son geçerli durumu döndür
+        # Terminal observation should be the final valid state, not zeros
+        # Fix: Use the current hand idx safely or default to first hand
+        if self._current_hand_idx >= len(self.player_hands):
+            # All hands resolved, use the first hand for final observation
+            temp_idx = self._current_hand_idx
+            self._current_hand_idx = 0
+            final_obs = self._get_obs()
+            self._current_hand_idx = temp_idx
+        else:
+            final_obs = self._get_obs()
+            
+        return final_obs, float(total_reward * reward_multiplier), True, False, {}
     
     def _resolve_hand(self, reward_multiplier: int = 1):
         """Legacy method - now redirects to _resolve_all_hands."""
