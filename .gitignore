@@ -1,17 +1,18 @@
+# Python
 venv/
 __pycache__/
 *.pyc
-.DS_Store
-.env
 blackjack_env/
 myenv/
+
+# Environment
+.env
+.DS_Store
+
+# Large files and directories (keep locally, don't push to GitHub)
 wandb/
 runs/*/tb/
 *.wandb
 *.tfevents*
-
-# Large files and directories\ wandb/
-runs/*/tb/
-*.wandb
-*.tfevents*
+*.log
 
