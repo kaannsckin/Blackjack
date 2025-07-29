@@ -370,6 +370,7 @@ Core dependencies include:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<<<<<<< HEAD
 ---
 
 ## 📞 Contact
@@ -378,6 +379,8 @@ For questions and support:
 - **Email**: [Your Email]
 - **GitHub**: [Your GitHub Profile]
 - **Project**: [Repository URL]
+=======
+>>>>>>> 33d6c815dbdf81f7a17d47b2a4457c15a0f21adb
 
 ---
 
@@ -390,6 +393,12 @@ For questions and support:
 
 ---
 
+<<<<<<< HEAD
 *Bu proje, belirsiz gelecek içeren süreçlerde risk değerlendirmesi ve bütçe optimizasyonu yapabilen evrensel bir AI asistan geliştirmeyi amaçlamaktadır. Blackjack test ortamında geliştirilen bu asistan, finans, işletme yönetimi, sağlık ve enerji sektörlerinde uygulanabilir hale getirilmektedir.*
 
 *This project aims to develop a universal AI assistant capable of risk assessment and budget optimization in processes containing uncertain futures. This assistant, developed through the Blackjack test environment, is being made applicable in finance, business management, healthcare, and energy sectors.* 
+=======
+*Bu proje, belirsiz gelecek içeren süreçlerde risk değerlendirmesi ve bütçe optimizasyonu yapabilen evrensel bir AI asistan geliştirmeyi amaçlamaktadır. Blackjack test ortamında geliştirilen bu asistan, finans, işletme yönetimi, sağlık ve enerji sektörlerinde uygulanabilir hale getirilebilir Blackjack sadece temsilidir.*
+
+*This project aims to develop a universal AI assistant capable of risk assessment and budget optimization in processes containing uncertain futures. This assistant, developed through the Blackjack test environment, is being made applicable in finance, business management, healthcare, and energy sectors.* 
+>>>>>>> 33d6c815dbdf81f7a17d47b2a4457c15a0f21adb
