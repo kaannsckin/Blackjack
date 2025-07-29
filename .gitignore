@@ -9,3 +9,9 @@ wandb/
 runs/*/tb/
 *.wandb
 *.tfevents*
+
+# Large files and directories\ wandb/
+runs/*/tb/
+*.wandb
+*.tfevents*
+
