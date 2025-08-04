@@ -1,0 +1,99 @@
+# ================================================================================
+# FAZ3.x DEVELOPMENT DOCKER COMPOSE CONFIGURATION
+# ================================================================================
+# 
+# 🎯 **AMAÇ:** Development ortamı için optimize edilmiş Docker setup
+# 📋 **KAPSAM:** AI training, monitoring, development tools
+# 🔧 **ENTEGRASYON:** Local development ve quick iteration
+# 
+# ================================================================================
+
+version: '3.8'
+
+services:
+  # Main AI Training Container
+  blackjack-ai:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: blackjack-ai-dev
+    ports:
+      - "8888:8888"      # Jupyter
+      - "6006:6006"      # TensorBoard
+      - "8050:8050"      # Dash/Plotly
+    environment:
+      - ENVIRONMENT=development
+      - PYTHONPATH=/app
+      - JUPYTER_ENABLE_LAB=yes
+      - WANDB_API_KEY=${WANDB_API_KEY}
+    volumes:
+      - .:/app
+      - ./models:/app/models
+      - ./runs:/app/runs
+      - ./logs:/app/logs
+      - ./data:/app/data
+      - ./notebooks:/app/notebooks
+    working_dir: /app
+    command: >
+      bash -c "
+        echo '🚀 Starting Blackjack AI Development Environment...' &&
+        pip install -e . &&
+        echo '📚 Starting Jupyter Lab...' &&
+        jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --token='' --NotebookApp.password='' &
+        echo '📊 Starting TensorBoard...' &&
+        tensorboard --logdir=./runs --host=0.0.0.0 --port=6006 &
+        echo '✅ Development environment ready' &&
+        echo '📖 Jupyter Lab: http://localhost:8888' &&
+        echo '📊 TensorBoard: http://localhost:6006' &&
+        tail -f /dev/null
+      "
+    networks:
+      - blackjack-dev-network
+
+  # Database for experiment tracking
+  postgres:
+    image: postgres:13
+    container_name: blackjack-postgres
+    environment:
+      - POSTGRES_DB=blackjack_experiments
+      - POSTGRES_USER=blackjack
+      - POSTGRES_PASSWORD=blackjack123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - blackjack-dev-network
+
+  # Redis for caching and session storage
+  redis:
+    image: redis:7-alpine
+    container_name: blackjack-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - blackjack-dev-network
+
+  # Monitoring with Grafana
+  grafana:
+    image: grafana/grafana:latest
+    container_name: blackjack-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana_data:/var/lib/grafana
+    networks:
+      - blackjack-dev-network
+
+volumes:
+  postgres_data:
+  redis_data:
+  grafana_data:
+
+networks:
+  blackjack-dev-network:
+    driver: bridge 

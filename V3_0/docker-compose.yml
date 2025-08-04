@@ -1,0 +1,169 @@
+# ================================================================================
+# F3.4: HPC INFRASTRUCTURE - DOCKER COMPOSE CONFIGURATION
+# ================================================================================
+# 
+# 🎯 **AMAÇ:** Multi-container HPC training setup
+# 📋 **KAPSAM:** Ray cluster, monitoring, data persistence
+# 🔧 **ENTEGRASYON:** AWS Spot instance compatibility
+# 
+# ================================================================================
+
+version: '3.8'
+
+services:
+  # Ray Head Node
+  ray-head:
+    build: .
+    container_name: blackjack-ray-head
+    ports:
+      - "6379:6379"      # Ray port
+      - "8265:8265"      # Ray dashboard
+      - "10001:10001"    # Ray client
+    environment:
+      - RAY_DISABLE_IMPORT_WARNING=1
+      - RAY_ADDRESS=auto
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_DEFAULT_REGION=${AWS_DEFAULT_REGION:-us-east-1}
+      - WANDB_API_KEY=${WANDB_API_KEY}
+    volumes:
+      - ./models:/app/models
+      - ./runs:/app/runs
+      - ./logs:/app/logs
+      - ./data:/app/data
+    command: >
+      bash -c "
+        echo '🚀 Starting Ray Head Node...' &&
+        ray start --head --port=6379 --dashboard-port=8265 --dashboard-host=0.0.0.0 &&
+        echo '✅ Ray Head Node ready' &&
+        tail -f /dev/null
+      "
+    networks:
+      - blackjack-network
+
+  # Ray Worker Node 1
+  ray-worker-1:
+    build: .
+    container_name: blackjack-ray-worker-1
+    depends_on:
+      - ray-head
+    environment:
+      - RAY_DISABLE_IMPORT_WARNING=1
+      - RAY_ADDRESS=ray-head:6379
+    volumes:
+      - ./models:/app/models
+      - ./runs:/app/runs
+      - ./logs:/app/logs
+      - ./data:/app/data
+    command: >
+      bash -c "
+        echo '🔧 Starting Ray Worker 1...' &&
+        sleep 10 &&
+        ray start --address=ray-head:6379 &&
+        echo '✅ Ray Worker 1 ready' &&
+        tail -f /dev/null
+      "
+    networks:
+      - blackjack-network
+
+  # Ray Worker Node 2
+  ray-worker-2:
+    build: .
+    container_name: blackjack-ray-worker-2
+    depends_on:
+      - ray-head
+    environment:
+      - RAY_DISABLE_IMPORT_WARNING=1
+      - RAY_ADDRESS=ray-head:6379
+    volumes:
+      - ./models:/app/models
+      - ./runs:/app/runs
+      - ./logs:/app/logs
+      - ./data:/app/data
+    command: >
+      bash -c "
+        echo '🔧 Starting Ray Worker 2...' &&
+        sleep 15 &&
+        ray start --address=ray-head:6379 &&
+        echo '✅ Ray Worker 2 ready' &&
+        tail -f /dev/null
+      "
+    networks:
+      - blackjack-network
+
+  # Training Controller
+  training-controller:
+    build: .
+    container_name: blackjack-training-controller
+    depends_on:
+      - ray-head
+    environment:
+      - RAY_ADDRESS=ray-head:6379
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_DEFAULT_REGION=${AWS_DEFAULT_REGION:-us-east-1}
+      - WANDB_API_KEY=${WANDB_API_KEY}
+    volumes:
+      - ./models:/app/models
+      - ./runs:/app/runs
+      - ./logs:/app/logs
+      - ./data:/app/data
+      - ./scripts:/app/scripts
+    command: >
+      bash -c "
+        echo '🎯 Starting Training Controller...' &&
+        sleep 20 &&
+        python scripts/optimize_hyperparameters_advanced.py
+          --n-trials 50
+          --total-steps 1000000
+          --study-name hpc_blackjack_optimization
+          --out-dir /app/runs/hpc_training
+          --multi-seed 3
+          --sampler tpe
+      "
+    networks:
+      - blackjack-network
+
+  # Monitoring Dashboard
+  monitoring:
+    image: grafana/grafana:latest
+    container_name: blackjack-monitoring
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana-storage:/var/lib/grafana
+      - ./monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards
+      - ./monitoring/grafana/datasources:/etc/grafana/provisioning/datasources
+    networks:
+      - blackjack-network
+
+  # MLflow Tracking Server
+  mlflow:
+    image: python:3.9-slim
+    container_name: blackjack-mlflow
+    ports:
+      - "5000:5000"
+    environment:
+      - MLFLOW_TRACKING_URI=http://localhost:5000
+    volumes:
+      - ./runs:/app/runs
+    command: >
+      bash -c "
+        pip install mlflow &&
+        mlflow server
+          --host 0.0.0.0
+          --port 5000
+          --backend-store-uri sqlite:///mlflow.db
+          --default-artifact-root /app/runs
+      "
+    networks:
+      - blackjack-network
+
+volumes:
+  grafana-storage:
+
+networks:
+  blackjack-network:
+    driver: bridge 

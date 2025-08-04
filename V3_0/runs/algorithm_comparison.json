@@ -1,0 +1,13 @@
+[
+  {
+    "algorithm": "ppo",
+    "training_time": 24.301819801330566,
+    "training_steps": 50000,
+    "mean_reward": -2.7725000000000004,
+    "std_reward": 9.832098262832814,
+    "mean_length": 1.04,
+    "mean_bankroll_change": -2.9,
+    "win_rate": 0.345,
+    "episodes": 200
+  }
+]

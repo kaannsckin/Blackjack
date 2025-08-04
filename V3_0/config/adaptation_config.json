@@ -1,0 +1,6 @@
+{
+  "confidence_threshold": 0.7,
+  "min_episodes_for_adaptation": 10,
+  "adaptation_cooldown": 5,
+  "strategy_switch_threshold": 0.6
+}

@@ -1,0 +1,8032 @@
+{
+  "session_data": [
+    {
+      "hand": 1,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9974.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 2,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9999.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 3,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9974.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 4,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9949.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 5,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9924.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 6,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9899.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 7,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9924.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 8,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9899.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 9,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9924.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 10,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9899.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 11,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9899.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 12,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9874.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 13,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9899.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 14,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9874.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 15,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9849.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 16,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9823.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 17,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9798.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 18,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9823.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 19,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9798.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 20,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9823.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 21,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9798.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 22,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9773.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 23,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9798.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 24,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9773.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 25,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9748.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 26,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9748.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 27,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9723.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 28,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9748.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 29,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9723.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 30,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9698.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 31,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9723.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 32,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9748.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 33,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9773.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 34,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9748.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 35,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9722.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 36,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9748.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 37,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9722.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 38,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9747.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 39,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9722.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 40,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9697.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 41,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9672.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 42,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9647.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 43,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9622.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 44,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9647.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 45,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9647.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 46,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9622.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 47,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9597.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 48,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9597.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 49,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9572.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 50,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9597.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 51,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9571.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 52,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9546.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 53,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9571.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 54,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9546.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 55,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9521.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 56,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9546.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 57,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9571.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 58,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9546.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 59,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9521.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 60,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9546.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 61,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9521.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 62,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9496.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 63,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9521.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 64,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9496.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 65,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9521.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 66,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9546.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 67,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9546.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 68,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9571.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 69,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9596.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 70,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9596.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 71,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9621.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 72,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9646.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 73,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9671.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 74,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9696.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 75,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9671.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 76,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9646.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 77,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9671.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 78,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9696.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 79,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9671.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 80,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9696.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 81,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9721.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 82,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9746.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 83,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9771.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 84,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9796.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 85,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9771.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 86,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9746.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 87,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9771.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 88,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9771.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 89,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9771.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 90,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9746.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 91,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9721.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 92,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9746.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 93,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9771.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 94,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9746.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 95,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9771.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 96,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9796.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 97,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9821.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 98,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9846.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 99,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9871.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 100,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9846.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 101,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9821.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 102,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9846.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 103,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9871.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 104,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9846.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 105,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9871.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 106,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9846.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 107,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9821.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 108,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9846.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 109,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9821.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 110,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9821.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 111,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9846.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 112,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9871.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 113,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9846.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 114,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9871.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 115,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9846.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 116,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9821.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 117,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9846.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 118,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9871.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 119,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9896.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 120,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9921.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 121,
+      "bet_size": 25.5,
+      "outcome": -25.6275,
+      "bankroll": 9895.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 122,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9870.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 123,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9895.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 124,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9920.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 125,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9895.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 126,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9870.3725,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 127,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9845.2475,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 128,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9870.31,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 129,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9895.3725,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 130,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9920.435,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 131,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9920.435,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 132,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9945.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 133,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9920.3725,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 134,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9945.435,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 135,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9970.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 136,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9995.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 137,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10020.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 138,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10020.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 139,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10045.685,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 140,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10020.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 141,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10045.6225,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 142,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10070.685,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 143,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10095.7475,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 144,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10120.81,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 145,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10145.8725,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 146,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10170.935,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 147,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10170.935,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 148,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10195.9975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 149,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10170.8725,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 150,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10195.935,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 151,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10170.81,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 152,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10145.685,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 153,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10120.56,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 154,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10145.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 155,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10120.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 156,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10145.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 157,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10170.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 158,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10145.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 159,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10170.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 160,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10195.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 161,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10170.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 162,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10195.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 163,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10220.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 164,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10245.685,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 165,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10245.685,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 166,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10220.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 167,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10195.435,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 168,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10220.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 169,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10245.56,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 170,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10270.6225,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 171,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10245.4975,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 172,
+      "bet_size": 25.5,
+      "outcome": 25.56375,
+      "bankroll": 10271.061249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 173,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10245.936249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 174,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10270.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 175,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10245.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 176,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10270.936249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 177,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10295.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 178,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10321.061249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 179,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10346.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 180,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10371.186249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 181,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10396.248749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 182,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10371.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 183,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10345.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 184,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10320.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 185,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10295.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 186,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10320.811249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 187,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10345.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 188,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10370.936249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 189,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10395.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 190,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10370.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 191,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10395.936249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 192,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10370.811249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 193,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10395.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 194,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10395.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 195,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10370.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 196,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10395.811249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 197,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10420.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 198,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10395.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 199,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10420.811249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 200,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10445.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 201,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10445.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 202,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10445.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 203,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10470.936249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 204,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10495.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 205,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10521.061249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 206,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10546.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 207,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10571.186249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 208,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10546.061249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 209,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10571.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 210,
+      "bet_size": 25.5,
+      "outcome": 25.56375,
+      "bankroll": 10596.687499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 211,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10621.749999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 212,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10646.812499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 213,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10621.687499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 214,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10596.562499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 215,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10571.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 216,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10546.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 217,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10571.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 218,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10596.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 219,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10571.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 220,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10596.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 221,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10571.249999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 222,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10546.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 223,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10520.999999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 224,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10495.874999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 225,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10520.937499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 226,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10495.812499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 227,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10470.687499999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 228,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10495.749999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 229,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10470.624999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 230,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10470.624999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 231,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10445.499999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 232,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10420.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 233,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10445.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 234,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10470.499999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 235,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10445.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 236,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10470.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 237,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10445.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 238,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10470.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 239,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10495.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 240,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10470.312499999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 241,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10495.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 242,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10495.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 243,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10520.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 244,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10495.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 245,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10520.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 246,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10545.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 247,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10570.499999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 248,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10595.562499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 249,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10570.437499999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 250,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10595.499999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 251,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10570.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 252,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10545.249999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 253,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10570.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 254,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10545.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 255,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10520.062499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 256,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10545.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 257,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10570.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 258,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10570.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 259,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10545.062499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 260,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10545.062499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 261,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10519.937499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 262,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.812499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 263,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.874999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 264,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10544.937499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 265,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10569.999999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 266,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10544.874999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 267,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10519.749999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 268,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.624999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 269,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10494.624999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 270,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.687499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 271,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.562499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 272,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.624999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 273,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10544.687499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 274,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10519.562499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 275,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.437499999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 276,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10469.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 277,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10494.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 278,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.437499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 279,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 280,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10494.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 281,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10469.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 282,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10444.062499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 283,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10469.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 284,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10494.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 285,
+      "bet_size": 28.5,
+      "outcome": 0.0,
+      "bankroll": 10494.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 286,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.249999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 287,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10544.312499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 288,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10569.374999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 289,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10544.249999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 290,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10519.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 291,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10544.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 292,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10519.062499999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 293,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10544.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 294,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10544.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 295,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10518.999999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 296,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10544.062499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 297,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10569.124999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 298,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10594.187499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 299,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10569.062499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 300,
+      "bet_size": 27.0,
+      "outcome": -27.135,
+      "bankroll": 10541.927499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 301,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10566.989999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 302,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10541.864999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 303,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10566.927499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 304,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10591.989999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 305,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10566.864999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 306,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10566.864999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 307,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10541.739999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 308,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10516.614999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 309,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10541.677499999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 310,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10516.552499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 311,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10491.427499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 312,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10466.302499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 313,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10491.364999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 314,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10466.239999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 315,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10491.302499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 316,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10466.177499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 317,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10441.052499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 318,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10466.114999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 319,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10440.989999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 320,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10466.052499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 321,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10440.927499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 322,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10465.989999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 323,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10491.052499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 324,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10516.114999999998,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 325,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10490.989999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 326,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10465.864999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 327,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10440.739999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 328,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10415.614999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 329,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10390.489999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 330,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10415.552499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 331,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10440.614999999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 332,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10465.677499999998,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 333,
+      "bet_size": 28.5,
+      "outcome": 28.57125,
+      "bankroll": 10494.248749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 334,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.311249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 335,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.186249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 336,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10519.248749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 337,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10494.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 338,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10494.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 339,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10468.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 340,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10443.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 341,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10418.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 342,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10393.623749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 343,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10418.686249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 344,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10443.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 345,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10418.623749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 346,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10393.498749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 347,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10418.561249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 348,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10443.623749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 349,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10468.686249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 350,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10443.561249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 351,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10418.436249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 352,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10393.311249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 353,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10368.186249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 354,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10343.061249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 355,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10317.936249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 356,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10292.811249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 357,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10317.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 358,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10317.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 359,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10292.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 360,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10317.811249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 361,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10342.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 362,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10367.936249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 363,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10392.998749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 364,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10367.873749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 365,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10342.748749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 366,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10317.623749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 367,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10292.498749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 368,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10267.373749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 369,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10242.248749999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 370,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10217.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 371,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10242.186249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 372,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10267.248749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 373,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10242.123749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 374,
+      "bet_size": 28.5,
+      "outcome": -28.6425,
+      "bankroll": 10213.481249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 375,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10188.356249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 376,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10213.418749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 377,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10188.293749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 378,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10163.168749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 379,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10138.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 380,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10163.106249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 381,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10137.981249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 382,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10163.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 383,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10188.106249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 384,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10162.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 385,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10188.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 386,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10162.918749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 387,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10187.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 388,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10162.856249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 389,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10137.731249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 390,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10162.793749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 391,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10137.668749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 392,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10112.543749999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 393,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10087.418749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 394,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10062.293749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 395,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10037.168749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 396,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10012.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 397,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10037.106249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 398,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10011.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 399,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9986.856249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 400,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9961.731249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 401,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9986.793749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 402,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10011.856249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 403,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9986.731249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 404,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9961.606249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 405,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9986.668749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 406,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9986.668749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 407,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10011.731249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 408,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9986.606249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 409,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10011.668749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 410,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10011.668749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 411,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10011.668749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 412,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9986.543749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 413,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9961.418749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 414,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9936.293749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 415,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9961.356249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 416,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9936.231249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 417,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9911.106249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 418,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9911.106249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 419,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9885.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 420,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9885.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 421,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9911.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 422,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9885.918749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 423,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9910.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 424,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9936.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 425,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9936.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 426,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9961.106249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 427,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9961.106249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 428,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9986.168749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 429,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9986.168749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 430,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9986.168749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 431,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9961.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 432,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9986.106249999999,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 433,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9960.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 434,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9935.856249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 435,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9960.918749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 436,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9985.981249999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 437,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10011.043749999999,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 438,
+      "bet_size": 28.200000000000003,
+      "outcome": 28.270500000000002,
+      "bankroll": 10039.31425,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 439,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10014.18925,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 440,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10014.18925,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 441,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9989.06425,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 442,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10014.12675,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 443,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9989.00175,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 444,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10014.06425,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 445,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9988.93925,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 446,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9963.81425,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 447,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9988.87675,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 448,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9963.75175,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 449,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9988.81425,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 450,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10013.87675,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 451,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9988.75175,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 452,
+      "bet_size": 26.849999999999994,
+      "outcome": -26.984249999999996,
+      "bankroll": 9961.7675,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 453,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9936.6425,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 454,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9911.5175,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 455,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9886.3925,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 456,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9861.2675,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 457,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9886.33,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 458,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9911.3925,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 459,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9886.2675,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 460,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9911.33,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 461,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9936.3925,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 462,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9936.3925,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 463,
+      "bet_size": 28.5,
+      "outcome": -28.6425,
+      "bankroll": 9907.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 464,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9932.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 465,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9957.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 466,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9982.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 467,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10008.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 468,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10008.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 469,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10033.0625,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 470,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10058.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 471,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10083.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 472,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10083.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 473,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10108.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 474,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10083.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 475,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10058.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 476,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10032.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 477,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10007.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 478,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9982.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 479,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10007.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 480,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10032.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 481,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10057.8125,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 482,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10032.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 483,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10057.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 484,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10032.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 485,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10057.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 486,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10032.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 487,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10007.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 488,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9982.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 489,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10007.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 490,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10007.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 491,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10032.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 492,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10007.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 493,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10032.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 494,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10057.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 495,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10082.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 496,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10107.5625,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 497,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10132.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 498,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10157.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 499,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10182.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 500,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10157.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 501,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10132.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 502,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10107.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 503,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10082.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 504,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10057.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 505,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10082.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 506,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10057.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 507,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10082.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 508,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10107.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 509,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10107.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 510,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10082.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 511,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10082.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 512,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 10082.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 513,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10056.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 514,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10031.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 515,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10006.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 516,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10031.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 517,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10006.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 518,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10031.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 519,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10006.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 520,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10031.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 521,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 10006.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 522,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9981.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 523,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10006.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 524,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9981.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 525,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 10006.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 526,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9981.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 527,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9956.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 528,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9956.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 529,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9931.0,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 530,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9905.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 531,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9905.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 532,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9930.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 533,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9905.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 534,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9880.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 535,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9855.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 536,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9880.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 537,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9855.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 538,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9830.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 539,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9805.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 540,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9830.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 541,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9805.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 542,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9780.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 543,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9805.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 544,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9780.0,
+      "mode": "adaptive",
+      "grade": "D"
+    },
+    {
+      "hand": 545,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9805.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 546,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9779.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 547,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9779.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 548,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9754.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 549,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9729.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 550,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9754.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 551,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9729.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 552,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9754.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 553,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9779.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 554,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9754.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 555,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9729.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 556,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9754.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 557,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9729.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 558,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9704.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 559,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9679.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 560,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9654.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 561,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9628.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 562,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9603.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 563,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9578.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 564,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9553.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 565,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9528.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 566,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9553.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 567,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9578.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 568,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9553.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 569,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9528.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 570,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9503.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 571,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9478.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 572,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9452.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 573,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9452.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 574,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9427.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 575,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9452.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 576,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9477.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 577,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9452.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 578,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9427.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 579,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9452.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 580,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9427.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 581,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9402.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 582,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9377.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 583,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9402.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 584,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9402.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 585,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9377.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 586,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9402.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 587,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9377.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 588,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9402.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 589,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9377.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 590,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9402.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 591,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9377.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 592,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9352.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 593,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9377.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 594,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9402.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 595,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9427.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 596,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9402.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 597,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9376.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 598,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9376.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 599,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9351.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 600,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9351.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 601,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9376.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 602,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9351.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 603,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9326.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 604,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9301.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 605,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9276.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 606,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9251.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 607,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9226.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 608,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9251.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 609,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9226.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 610,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9200.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 611,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9226.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 612,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9200.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 613,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9225.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 614,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9251.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 615,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9276.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 616,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9250.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 617,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9276.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 618,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9301.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 619,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9275.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 620,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9275.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 621,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9250.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 622,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9275.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 623,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9300.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 624,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9326.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 625,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9300.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 626,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9275.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 627,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9300.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 628,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9325.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 629,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9300.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 630,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9325.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 631,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9300.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 632,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9325.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 633,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9300.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 634,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9275.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 635,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9300.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 636,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9275.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 637,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9250.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 638,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9275.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 639,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9250.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 640,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9250.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 641,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9225.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 642,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9225.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 643,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9250.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 644,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9275.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 645,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9250.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 646,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9225.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 647,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9250.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 648,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9275.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 649,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9250.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 650,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9224.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 651,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9249.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 652,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9224.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 653,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9199.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 654,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9224.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 655,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9199.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 656,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9174.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 657,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9149.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 658,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9174.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 659,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9199.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 660,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9224.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 661,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9249.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 662,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9224.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 663,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9224.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 664,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9199.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 665,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9224.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 666,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9199.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 667,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9224.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 668,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9199.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 669,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9174.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 670,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9199.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 671,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9224.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 672,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9249.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 673,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9224.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 674,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9249.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 675,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9224.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 676,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9249.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 677,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9224.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 678,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9249.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 679,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9249.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 680,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9274.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 681,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9299.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 682,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9274.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 683,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9249.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 684,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9223.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 685,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9198.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 686,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9223.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 687,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9198.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 688,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9223.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 689,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9198.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 690,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9173.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 691,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9173.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 692,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9148.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 693,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9123.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 694,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9148.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 695,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9173.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 696,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9198.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 697,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9173.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 698,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9198.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 699,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9173.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 700,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9148.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 701,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9123.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 702,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9097.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 703,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9122.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 704,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9097.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 705,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9122.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 706,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9097.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 707,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9072.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 708,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 9072.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 709,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9047.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 710,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9022.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 711,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8997.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 712,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8972.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 713,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8947.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 714,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8921.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 715,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8896.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 716,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8871.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 717,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8846.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 718,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8821.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 719,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8796.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 720,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8771.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 721,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8796.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 722,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8821.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 723,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8796.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 724,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8821.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 725,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8846.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 726,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8871.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 727,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8846.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 728,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8871.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 729,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8871.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 730,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8846.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 731,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8871.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 732,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8871.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 733,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8896.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 734,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8921.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 735,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8946.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 736,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8921.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 737,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8896.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 738,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8871.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 739,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8896.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 740,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8921.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 741,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8896.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 742,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8921.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 743,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8895.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 744,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8870.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 745,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8845.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 746,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8870.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 747,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8895.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 748,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8920.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 749,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8945.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 750,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8920.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 751,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8945.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 752,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8945.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 753,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8920.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 754,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8945.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 755,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8970.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 756,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8970.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 757,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8970.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 758,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 759,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9021.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 760,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9046.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 761,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9020.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 762,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8995.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 763,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 764,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 765,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 766,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 767,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 768,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 769,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 770,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 771,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 772,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8970.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 773,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 774,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 775,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8995.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 776,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9020.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 777,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 9045.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 778,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 9020.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 779,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8995.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 780,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8970.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 781,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8945.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 782,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8970.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 783,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8945.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 784,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8919.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 785,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8944.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 786,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8919.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 787,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8894.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 788,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8869.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 789,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8844.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 790,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8819.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 791,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8794.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 792,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8769.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 793,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8743.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 794,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8769.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 795,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8794.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 796,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8819.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 797,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8844.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 798,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8819.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 799,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8844.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 800,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8869.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 801,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8869.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 802,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8844.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 803,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8818.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 804,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8844.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 805,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8818.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 806,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8793.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 807,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8818.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 808,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8843.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 809,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8868.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 810,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8894.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 811,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8894.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 812,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8868.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 813,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8843.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 814,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8868.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 815,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8893.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 816,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8918.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 817,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8893.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 818,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8918.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 819,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8893.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 820,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8893.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 821,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8918.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 822,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8893.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 823,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8868.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 824,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8843.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 825,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8818.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 826,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8793.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 827,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8768.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 828,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8742.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 829,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8717.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 830,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8692.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 831,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8717.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 832,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8692.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 833,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8717.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 834,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8717.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 835,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8692.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 836,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8717.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 837,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8692.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 838,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8717.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 839,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8692.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 840,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8692.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 841,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8667.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 842,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8642.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 843,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8617.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 844,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8642.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 845,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8617.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 846,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8617.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 847,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8591.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 848,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8566.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 849,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8591.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 850,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8566.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 851,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8591.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 852,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8616.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 853,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8591.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 854,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8616.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 855,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8591.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 856,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8591.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 857,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8616.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 858,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8641.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 859,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8616.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 860,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8641.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 861,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8666.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 862,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8641.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 863,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8616.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 864,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8591.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 865,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8591.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 866,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8616.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 867,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8591.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 868,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8591.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 869,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8566.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 870,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8541.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 871,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8541.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 872,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8515.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 873,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8490.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 874,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8515.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 875,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8540.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 876,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8566.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 877,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8540.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 878,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8515.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 879,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8540.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 880,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8515.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 881,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8540.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 882,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8515.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 883,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8540.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 884,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8515.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 885,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8490.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 886,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8515.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 887,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8490.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 888,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8515.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 889,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8490.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 890,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8465.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 891,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8490.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 892,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8515.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 893,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8490.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 894,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8465.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 895,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8439.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 896,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8465.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 897,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8439.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 898,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8439.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 899,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8414.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 900,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8389.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 901,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8364.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 902,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8389.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 903,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8414.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 904,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8439.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 905,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8414.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 906,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8389.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 907,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8389.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 908,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8364.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 909,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8389.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 910,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8414.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 911,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8389.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 912,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8414.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 913,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8439.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 914,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8464.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 915,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8439.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 916,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8439.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 917,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8464.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 918,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8439.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 919,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8414.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 920,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8389.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 921,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8363.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 922,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8338.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 923,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8363.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 924,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8338.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 925,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8363.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 926,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8388.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 927,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8363.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 928,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8338.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 929,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8313.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 930,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8338.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 931,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8313.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 932,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8338.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 933,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8363.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 934,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8388.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 935,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8363.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 936,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8338.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 937,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8363.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 938,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8388.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 939,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8413.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 940,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8388.4375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 941,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8413.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 942,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8413.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 943,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8388.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 944,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8363.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 945,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8388.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 946,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8363.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 947,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8338.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 948,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8312.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 949,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8287.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 950,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8312.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 951,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8287.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 952,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8312.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 953,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8287.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 954,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8312.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 955,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8287.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 956,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8312.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 957,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8287.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 958,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8287.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 959,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8312.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 960,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8337.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 961,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8312.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 962,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8337.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 963,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8362.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 964,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8337.5625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 965,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8362.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 966,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8337.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 967,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8337.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 968,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8312.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 969,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8287.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 970,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8262.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 971,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8237.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 972,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8211.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 973,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8186.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 974,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8211.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 975,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8236.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 976,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8211.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 977,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8236.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 978,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8211.6875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 979,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8236.75,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 980,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8211.625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 981,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8186.5,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 982,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8161.375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 983,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8136.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 984,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8111.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 985,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8136.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 986,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8161.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 987,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8161.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 988,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8186.3125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 989,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8161.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 990,
+      "bet_size": 25.0,
+      "outcome": 0.0,
+      "bankroll": 8161.1875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 991,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8186.25,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 992,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8161.125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 993,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8136.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 994,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8161.0625,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 995,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8135.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 996,
+      "bet_size": 25.0,
+      "outcome": -25.125,
+      "bankroll": 8110.8125,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 997,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8135.875,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 998,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8160.9375,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 999,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8186.0,
+      "mode": "conservative",
+      "grade": "D"
+    },
+    {
+      "hand": 1000,
+      "bet_size": 25.0,
+      "outcome": 25.0625,
+      "bankroll": 8211.0625,
+      "mode": "conservative",
+      "grade": "D"
+    }
+  ],
+  "final_metrics": {
+    "current_grade": "D",
+    "performance_metrics": {
+      "roi": "-17.89%",
+      "win_rate": "45.0%",
+      "tc_correlation": "0.000",
+      "bet_spread": "1.14x",
+      "sharpe_ratio": "-0.001",
+      "confidence": "0.500"
+    },
+    "system_status": {
+      "current_mode": "conservative",
+      "hands_played": 1000,
+      "current_bankroll": "$8,211.06",
+      "bankroll_change": "$-1,788.94"
+    },
+    "level_status": {
+      "level1_confidence": 0.95,
+      "level2_confidence": 0.7,
+      "level3_confidence": 0.6,
+      "level4_mode": "conservative"
+    }
+  },
+  "configuration": {
+    "initial_bankroll": 10000,
+    "total_hands": 1000,
+    "final_grade": "D"
+  }
+}

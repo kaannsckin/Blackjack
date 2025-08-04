@@ -1,0 +1,6 @@
+{
+  "min_episodes_for_classification": 15,
+  "confidence_threshold": 0.75,
+  "classification_window": 20,
+  "adaptation_delay": 3
+}

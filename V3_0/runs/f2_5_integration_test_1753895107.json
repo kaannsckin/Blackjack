@@ -1,0 +1,89 @@
+{
+  "simulation_info": {
+    "total_hands": 1000,
+    "elapsed_time": 1.640232801437378,
+    "hands_per_second": 609.669553689985,
+    "game_config": {
+      "num_decks": 6,
+      "penetration": 0.75,
+      "dealer_rule": "S17",
+      "blackjack_payout": 1.5
+    }
+  },
+  "players": [
+    {
+      "hands_played": 1000,
+      "hands_won": 250,
+      "hands_lost": 700,
+      "hands_pushed": 50,
+      "total_bet": 10500.0,
+      "total_winnings": 5750.0,
+      "max_bankroll": 10000.0,
+      "min_bankroll": 5240.0,
+      "blackjacks": 50,
+      "splits": 0,
+      "doubles": 50,
+      "current_bankroll": 5250.0,
+      "initial_bankroll": 10000.0,
+      "bankroll_change": -4750.0,
+      "roi": -0.475,
+      "win_rate": 0.25,
+      "avg_bet": 10.5,
+      "profit_per_hand": -4.75,
+      "ai_betting_stats": {
+        "total_bets": 1000,
+        "ai_decisions": 1000,
+        "fallback_decisions": 0,
+        "total_units_bet": 10000.0,
+        "avg_bet_size": 10.0,
+        "ai_decision_ratio": 1.0,
+        "fallback_decision_ratio": 0.0,
+        "current_bankroll": 5260.0,
+        "bankroll_change": -4740.0,
+        "roi": -0.474,
+        "recent_avg_bet": 10.0,
+        "recent_results": 575.0
+      }
+    },
+    {
+      "hands_played": 1000,
+      "hands_won": 450,
+      "hands_lost": 450,
+      "hands_pushed": 100,
+      "total_bet": 28750.0,
+      "total_winnings": 30625.0,
+      "max_bankroll": 11900.0,
+      "min_bankroll": 9962.5,
+      "blackjacks": 50,
+      "splits": 0,
+      "doubles": 150,
+      "current_bankroll": 11875.0,
+      "initial_bankroll": 10000.0,
+      "bankroll_change": 1875.0,
+      "roi": 0.1875,
+      "win_rate": 0.45,
+      "avg_bet": 28.75,
+      "profit_per_hand": 1.875
+    },
+    {
+      "hands_played": 1100,
+      "hands_won": 500,
+      "hands_lost": 550,
+      "hands_pushed": 50,
+      "total_bet": 20213.50000000008,
+      "total_winnings": 21995.000000000007,
+      "max_bankroll": 11782.459999999872,
+      "min_bankroll": 9929.73,
+      "blackjacks": 50,
+      "splits": 100,
+      "doubles": 100,
+      "current_bankroll": 11781.499999999869,
+      "initial_bankroll": 10000.0,
+      "bankroll_change": 1781.499999999869,
+      "roi": 0.1781499999999869,
+      "win_rate": 0.45454545454545453,
+      "avg_bet": 18.375909090909165,
+      "profit_per_hand": 1.6195454545453354
+    }
+  ]
+}

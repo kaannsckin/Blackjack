@@ -1,0 +1,165 @@
+{
+  "timestamp": "2025-07-30T20:08:48.012389",
+  "risk_limits": {
+    "max_risk_of_ruin": 0.01,
+    "max_drawdown_limit": 0.2,
+    "max_bet_percentage": 0.1,
+    "max_kelly_multiplier": 0.25,
+    "min_kelly_threshold": 0.02,
+    "max_consecutive_losses": 10,
+    "stop_loss_percentage": 0.15,
+    "max_daily_volatility": 0.05,
+    "max_period_volatility": 0.2
+  },
+  "strategies": {
+    "Player_1": {
+      "metrics": {
+        "total_return": -35705.0,
+        "roi": -0.7141,
+        "win_rate": 0.2858,
+        "avg_bet": 10.715,
+        "risk_of_ruin": 1.0,
+        "max_drawdown": 0.7144,
+        "max_runup": 0.0001,
+        "volatility": 0.11342335870533901,
+        "sharpe_ratio": -6.295881273055496,
+        "kelly_percentage": 0.0,
+        "kelly_violation": true,
+        "consecutive_losses": 0,
+        "max_consecutive_losses": 0,
+        "bet_size_violations": 0,
+        "extreme_risk_periods": 0,
+        "var_95": -18.658142507028266,
+        "cvar_95": -22.389771008433918,
+        "calmar_ratio": 0.9995800671892496
+      },
+      "violations": [
+        "Risk of Ruin violation: 100.00% > 1.00%",
+        "Max Drawdown violation: 71.44% > 20.00%",
+        "Kelly Criterion violation: Bet size exceeds safe Kelly limit"
+      ],
+      "risk_score": 91.3423358705339,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED: Unacceptably high risk of ruin."
+    },
+    "Player_2": {
+      "metrics": {
+        "total_return": -49999.98,
+        "roi": -0.9999996000000001,
+        "win_rate": 0.31262577653338,
+        "avg_bet": 13.84686586752998,
+        "risk_of_ruin": 1.0,
+        "max_drawdown": 0.9999996000000001,
+        "max_runup": 0.0005,
+        "volatility": 0.14856382531861947,
+        "sharpe_ratio": -6.73111100804881,
+        "kelly_percentage": 0.0,
+        "kelly_violation": true,
+        "consecutive_losses": 0,
+        "max_consecutive_losses": 0,
+        "bet_size_violations": 0,
+        "extreme_risk_periods": 0,
+        "var_95": -26.126611777501438,
+        "cvar_95": -31.351934133001723,
+        "calmar_ratio": 1.0
+      },
+      "violations": [
+        "Risk of Ruin violation: 100.00% > 1.00%",
+        "Max Drawdown violation: 100.00% > 20.00%",
+        "Kelly Criterion violation: Bet size exceeds safe Kelly limit"
+      ],
+      "risk_score": 94.85638253186195,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED: Unacceptably high risk of ruin."
+    },
+    "Player_3": {
+      "metrics": {
+        "total_return": 28988.40000000139,
+        "roi": 0.5797680000000278,
+        "win_rate": 0.5714,
+        "avg_bet": 15.535641999999928,
+        "risk_of_ruin": 0.0,
+        "max_drawdown": 0.0002,
+        "max_runup": 0.5805338000000277,
+        "volatility": 0.0921886327637757,
+        "sharpe_ratio": 6.288931537640072,
+        "kelly_percentage": 0.14280000000000004,
+        "kelly_violation": false,
+        "consecutive_losses": 0,
+        "max_consecutive_losses": 0,
+        "bet_size_violations": 0,
+        "extreme_risk_periods": 0,
+        "var_95": -15.165030089641105,
+        "cvar_95": -18.198036107569326,
+        "calmar_ratio": 2898.840000000139
+      },
+      "violations": [],
+      "risk_score": 9.24386327637757,
+      "recommendation": "\u2705 RECOMMENDED: Good risk-reward profile with acceptable safety margins."
+    },
+    "Player_4": {
+      "metrics": {
+        "total_return": -49999.98499999967,
+        "roi": -0.9999996999999935,
+        "win_rate": 0.4286,
+        "avg_bet": 16.749133999999902,
+        "risk_of_ruin": 1.0,
+        "max_drawdown": 0.9999996999999935,
+        "max_runup": 0.0016379999999998837,
+        "volatility": 0.1590050554792022,
+        "sharpe_ratio": -6.289106324237553,
+        "kelly_percentage": 0.0,
+        "kelly_violation": true,
+        "consecutive_losses": 0,
+        "max_consecutive_losses": 0,
+        "bet_size_violations": 0,
+        "extreme_risk_periods": 0,
+        "var_95": -26.156331626328765,
+        "cvar_95": -31.387597951594515,
+        "calmar_ratio": 1.0
+      },
+      "violations": [
+        "Risk of Ruin violation: 100.00% > 1.00%",
+        "Max Drawdown violation: 100.00% > 20.00%",
+        "Kelly Criterion violation: Bet size exceeds safe Kelly limit"
+      ],
+      "risk_score": 95.90050554792022,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED: Unacceptably high risk of ruin."
+    },
+    "Player_5": {
+      "metrics": {
+        "total_return": 7150.0,
+        "roi": 0.143,
+        "win_rate": 0.5333644423705086,
+        "avg_bet": 11.332711152589827,
+        "risk_of_ruin": 7.936517119872522e-257,
+        "max_drawdown": 0.0004,
+        "max_runup": 0.1434,
+        "volatility": 0.022052765975439956,
+        "sharpe_ratio": 6.484447355005639,
+        "kelly_percentage": 0.06672888474101724,
+        "kelly_violation": false,
+        "consecutive_losses": 0,
+        "max_consecutive_losses": 0,
+        "bet_size_violations": 0,
+        "extreme_risk_periods": 0,
+        "var_95": -3.7551307103018408,
+        "cvar_95": -4.506156852362209,
+        "calmar_ratio": 357.49999999999994
+      },
+      "violations": [],
+      "risk_score": 2.2552765975439955,
+      "recommendation": "\u2705 RECOMMENDED: Good risk-reward profile with acceptable safety margins."
+    }
+  },
+  "summary": {
+    "total_violations": 9,
+    "strategies_analyzed": 5,
+    "best_strategy": "Player_5",
+    "worst_strategy": "Player_4",
+    "overall_risk_level": "EXTREME",
+    "recommendations": [
+      "\ud83d\udd27 Address all identified risk violations before live deployment",
+      "\ud83d\udcca Implement real-time risk monitoring before live trading",
+      "\ud83d\udee1\ufe0f Set up automatic stop-loss triggers at 15% drawdown"
+    ]
+  }
+}

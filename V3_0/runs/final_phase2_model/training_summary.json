@@ -1,0 +1,18 @@
+{
+  "algorithm": "ppo",
+  "total_steps": 300000,
+  "training_time": 142.741436958313,
+  "final_evaluation": {
+    "mean_reward": 0.5098999999999999,
+    "std_reward": 10.123612225386747,
+    "mean_length": 1.41,
+    "mean_bankroll_change": -3.5,
+    "win_rate": 0.488,
+    "episodes": 500
+  },
+  "hyperparameters": {
+    "learning_rate": 0.0003,
+    "n_envs": 6,
+    "seed": 42
+  }
+}

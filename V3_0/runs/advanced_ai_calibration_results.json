@@ -1,0 +1,3853 @@
+{
+  "kelly_optimization": [
+    {
+      "kelly_multiplier": 0.1,
+      "confidence_threshold": 0.5,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.1,
+      "confidence_threshold": 0.7,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.1,
+      "confidence_threshold": 0.9,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.25,
+      "confidence_threshold": 0.5,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.25,
+      "confidence_threshold": 0.7,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.25,
+      "confidence_threshold": 0.9,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.5,
+      "confidence_threshold": 0.5,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.5,
+      "confidence_threshold": 0.7,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.5,
+      "confidence_threshold": 0.9,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.75,
+      "confidence_threshold": 0.5,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.75,
+      "confidence_threshold": 0.7,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 0.75,
+      "confidence_threshold": 0.9,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 1.0,
+      "confidence_threshold": 0.5,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 1.0,
+      "confidence_threshold": 0.7,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "kelly_multiplier": 1.0,
+      "confidence_threshold": 0.9,
+      "score": 0.24446615086190548,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    }
+  ],
+  "risk_optimization": [
+    {
+      "max_bet_percentage": 0.05,
+      "ror_threshold": 0.01,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.05,
+      "ror_threshold": 0.03,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.05,
+      "ror_threshold": 0.05,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.05,
+      "ror_threshold": 0.1,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.1,
+      "ror_threshold": 0.01,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.1,
+      "ror_threshold": 0.03,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.1,
+      "ror_threshold": 0.05,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.1,
+      "ror_threshold": 0.1,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.15,
+      "ror_threshold": 0.01,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.15,
+      "ror_threshold": 0.03,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.15,
+      "ror_threshold": 0.05,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.15,
+      "ror_threshold": 0.1,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.2,
+      "ror_threshold": 0.01,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.2,
+      "ror_threshold": 0.03,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.2,
+      "ror_threshold": 0.05,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    },
+    {
+      "max_bet_percentage": 0.2,
+      "ror_threshold": 0.1,
+      "score": 0.21523148967345454,
+      "tc_bet_correlation": 0.017809591231418467,
+      "bet_coefficient_variation": 0.38811636746239975,
+      "bet_spread": 1.0,
+      "avg_reward": -9.788194444444445,
+      "roi": -0.095,
+      "final_bankroll": 4525.0,
+      "mean_bet": 9.487000353380914,
+      "bet_std": 3.682060115268703
+    }
+  ],
+  "optimized_config": {
+    "kelly_multiplier": 0.75,
+    "confidence_threshold": 0.6,
+    "max_bet_percentage": 0.15,
+    "risk_of_ruin_threshold": 0.05,
+    "volatility_target": 0.3,
+    "true_count_bet_correlation": 2.5,
+    "return_weight": 0.8,
+    "risk_weight": 0.2
+  },
+  "final_performance": {
+    "tc_bet_correlation": 0.004179499454394565,
+    "bet_spread": 2.564414775336029,
+    "total_roi": -0.28,
+    "win_rate": 0.4497354497354497,
+    "final_grade": 40.0,
+    "betting_data": [
+      {
+        "hand": 1,
+        "true_count": 0.0,
+        "ai_bet": 12.375,
+        "bankroll": 10000.0,
+        "bet_ratio": 0.495
+      },
+      {
+        "hand": 2,
+        "true_count": 0.0,
+        "ai_bet": 12.375311720698253,
+        "bankroll": 10025.0,
+        "bet_ratio": 0.4950124688279301
+      },
+      {
+        "hand": 3,
+        "true_count": 0.0,
+        "ai_bet": 12.375311720698253,
+        "bankroll": 10025.0,
+        "bet_ratio": 0.4950124688279301
+      },
+      {
+        "hand": 4,
+        "true_count": 0.0,
+        "ai_bet": 12.375,
+        "bankroll": 10000.0,
+        "bet_ratio": 0.495
+      },
+      {
+        "hand": 5,
+        "true_count": 0.0,
+        "ai_bet": 12.37468671679198,
+        "bankroll": 9975.0,
+        "bet_ratio": 0.49498746867167914
+      },
+      {
+        "hand": 6,
+        "true_count": 1.0,
+        "ai_bet": 12.374371859296481,
+        "bankroll": 9950.0,
+        "bet_ratio": 0.4949748743718592
+      },
+      {
+        "hand": 7,
+        "true_count": -1.0,
+        "ai_bet": 12.374055415617127,
+        "bankroll": 9925.0,
+        "bet_ratio": 0.4949622166246851
+      },
+      {
+        "hand": 8,
+        "true_count": 0.0,
+        "ai_bet": 12.373737373737374,
+        "bankroll": 9900.0,
+        "bet_ratio": 0.494949494949495
+      },
+      {
+        "hand": 9,
+        "true_count": 0.0,
+        "ai_bet": 12.373417721518987,
+        "bankroll": 9875.0,
+        "bet_ratio": 0.49493670886075947
+      },
+      {
+        "hand": 10,
+        "true_count": 0.0,
+        "ai_bet": 12.373737373737374,
+        "bankroll": 9900.0,
+        "bet_ratio": 0.494949494949495
+      },
+      {
+        "hand": 11,
+        "true_count": 0.0,
+        "ai_bet": 12.373417721518987,
+        "bankroll": 9875.0,
+        "bet_ratio": 0.49493670886075947
+      },
+      {
+        "hand": 12,
+        "true_count": 0.0,
+        "ai_bet": 12.373737373737374,
+        "bankroll": 9900.0,
+        "bet_ratio": 0.494949494949495
+      },
+      {
+        "hand": 13,
+        "true_count": 0.0,
+        "ai_bet": 12.373417721518987,
+        "bankroll": 9875.0,
+        "bet_ratio": 0.49493670886075947
+      },
+      {
+        "hand": 14,
+        "true_count": 0.0,
+        "ai_bet": 4.873096446700506,
+        "bankroll": 9850.0,
+        "bet_ratio": 0.19492385786802024
+      },
+      {
+        "hand": 15,
+        "true_count": 0.0,
+        "ai_bet": 4.872773536895672,
+        "bankroll": 9825.0,
+        "bet_ratio": 0.19491094147582688
+      },
+      {
+        "hand": 16,
+        "true_count": 0.0,
+        "ai_bet": 4.872448979591837,
+        "bankroll": 9800.0,
+        "bet_ratio": 0.1948979591836735
+      },
+      {
+        "hand": 17,
+        "true_count": 0.0,
+        "ai_bet": 4.872122762148337,
+        "bankroll": 9775.0,
+        "bet_ratio": 0.19488491048593348
+      },
+      {
+        "hand": 18,
+        "true_count": 0.0,
+        "ai_bet": 4.871794871794871,
+        "bankroll": 9750.0,
+        "bet_ratio": 0.19487179487179485
+      },
+      {
+        "hand": 19,
+        "true_count": 0.0,
+        "ai_bet": 4.871465295629818,
+        "bankroll": 9725.0,
+        "bet_ratio": 0.19485861182519273
+      },
+      {
+        "hand": 20,
+        "true_count": 0.0,
+        "ai_bet": 4.871134020618556,
+        "bankroll": 9700.0,
+        "bet_ratio": 0.19484536082474224
+      },
+      {
+        "hand": 21,
+        "true_count": 0.0,
+        "ai_bet": 4.870801033591729,
+        "bankroll": 9675.0,
+        "bet_ratio": 0.19483204134366916
+      },
+      {
+        "hand": 22,
+        "true_count": 1.0,
+        "ai_bet": 4.870466321243522,
+        "bankroll": 9650.0,
+        "bet_ratio": 0.19481865284974087
+      },
+      {
+        "hand": 23,
+        "true_count": 0.0,
+        "ai_bet": 4.870129870129869,
+        "bankroll": 9625.0,
+        "bet_ratio": 0.19480519480519476
+      },
+      {
+        "hand": 24,
+        "true_count": 0.0,
+        "ai_bet": 4.869791666666664,
+        "bankroll": 9600.0,
+        "bet_ratio": 0.19479166666666659
+      },
+      {
+        "hand": 25,
+        "true_count": 0.0,
+        "ai_bet": 4.869451697127936,
+        "bankroll": 9575.0,
+        "bet_ratio": 0.19477806788511742
+      },
+      {
+        "hand": 26,
+        "true_count": 0.0,
+        "ai_bet": 4.869109947643979,
+        "bankroll": 9550.0,
+        "bet_ratio": 0.19476439790575917
+      },
+      {
+        "hand": 27,
+        "true_count": 0.0,
+        "ai_bet": 4.868766404199473,
+        "bankroll": 9525.0,
+        "bet_ratio": 0.19475065616797893
+      },
+      {
+        "hand": 28,
+        "true_count": 0.0,
+        "ai_bet": 4.868421052631577,
+        "bankroll": 9500.0,
+        "bet_ratio": 0.19473684210526307
+      },
+      {
+        "hand": 29,
+        "true_count": 0.0,
+        "ai_bet": 4.868766404199473,
+        "bankroll": 9525.0,
+        "bet_ratio": 0.19475065616797893
+      },
+      {
+        "hand": 30,
+        "true_count": -1.0,
+        "ai_bet": 4.868421052631577,
+        "bankroll": 9500.0,
+        "bet_ratio": 0.19473684210526307
+      },
+      {
+        "hand": 31,
+        "true_count": 1.0,
+        "ai_bet": 4.868421052631577,
+        "bankroll": 9500.0,
+        "bet_ratio": 0.19473684210526307
+      },
+      {
+        "hand": 32,
+        "true_count": 0.0,
+        "ai_bet": 4.8680738786279685,
+        "bankroll": 9475.0,
+        "bet_ratio": 0.19472295514511873
+      },
+      {
+        "hand": 33,
+        "true_count": 0.0,
+        "ai_bet": 4.867724867724865,
+        "bankroll": 9450.0,
+        "bet_ratio": 0.1947089947089946
+      },
+      {
+        "hand": 34,
+        "true_count": 0.0,
+        "ai_bet": 4.8680738786279685,
+        "bankroll": 9475.0,
+        "bet_ratio": 0.19472295514511873
+      },
+      {
+        "hand": 35,
+        "true_count": 0.0,
+        "ai_bet": 4.867724867724865,
+        "bankroll": 9450.0,
+        "bet_ratio": 0.1947089947089946
+      },
+      {
+        "hand": 36,
+        "true_count": 0.0,
+        "ai_bet": 4.867374005305039,
+        "bankroll": 9425.0,
+        "bet_ratio": 0.19469496021220156
+      },
+      {
+        "hand": 37,
+        "true_count": 0.0,
+        "ai_bet": 4.867021276595743,
+        "bankroll": 9400.0,
+        "bet_ratio": 0.1946808510638297
+      },
+      {
+        "hand": 38,
+        "true_count": 0.0,
+        "ai_bet": 4.867374005305039,
+        "bankroll": 9425.0,
+        "bet_ratio": 0.19469496021220156
+      },
+      {
+        "hand": 39,
+        "true_count": 0.0,
+        "ai_bet": 4.867021276595743,
+        "bankroll": 9400.0,
+        "bet_ratio": 0.1946808510638297
+      },
+      {
+        "hand": 40,
+        "true_count": 0.0,
+        "ai_bet": 4.867374005305039,
+        "bankroll": 9425.0,
+        "bet_ratio": 0.19469496021220156
+      },
+      {
+        "hand": 41,
+        "true_count": 1.0,
+        "ai_bet": 4.867021276595743,
+        "bankroll": 9400.0,
+        "bet_ratio": 0.1946808510638297
+      },
+      {
+        "hand": 42,
+        "true_count": 0.0,
+        "ai_bet": 4.866666666666666,
+        "bankroll": 9375.0,
+        "bet_ratio": 0.19466666666666665
+      },
+      {
+        "hand": 43,
+        "true_count": 0.0,
+        "ai_bet": 4.866666666666666,
+        "bankroll": 9375.0,
+        "bet_ratio": 0.19466666666666665
+      },
+      {
+        "hand": 44,
+        "true_count": -1.0,
+        "ai_bet": 4.866310160427806,
+        "bankroll": 9350.0,
+        "bet_ratio": 0.19465240641711223
+      },
+      {
+        "hand": 45,
+        "true_count": -1.0,
+        "ai_bet": 4.865951742627344,
+        "bankroll": 9325.0,
+        "bet_ratio": 0.19463806970509379
+      },
+      {
+        "hand": 46,
+        "true_count": 0.0,
+        "ai_bet": 4.865591397849461,
+        "bankroll": 9300.0,
+        "bet_ratio": 0.19462365591397845
+      },
+      {
+        "hand": 47,
+        "true_count": 0.0,
+        "ai_bet": 4.865229110512129,
+        "bankroll": 9275.0,
+        "bet_ratio": 0.19460916442048515
+      },
+      {
+        "hand": 48,
+        "true_count": -1.0,
+        "ai_bet": 4.864864864864865,
+        "bankroll": 9250.0,
+        "bet_ratio": 0.1945945945945946
+      },
+      {
+        "hand": 49,
+        "true_count": 0.0,
+        "ai_bet": 4.864498644986448,
+        "bankroll": 9225.0,
+        "bet_ratio": 0.1945799457994579
+      },
+      {
+        "hand": 50,
+        "true_count": 1.0,
+        "ai_bet": 4.864864864864865,
+        "bankroll": 9250.0,
+        "bet_ratio": 0.1945945945945946
+      },
+      {
+        "hand": 51,
+        "true_count": 0.0,
+        "ai_bet": 4.864498644986448,
+        "bankroll": 9225.0,
+        "bet_ratio": 0.1945799457994579
+      },
+      {
+        "hand": 52,
+        "true_count": 0.0,
+        "ai_bet": 4.864498644986448,
+        "bankroll": 9225.0,
+        "bet_ratio": 0.1945799457994579
+      },
+      {
+        "hand": 53,
+        "true_count": 0.0,
+        "ai_bet": 4.864130434782607,
+        "bankroll": 9200.0,
+        "bet_ratio": 0.19456521739130428
+      },
+      {
+        "hand": 54,
+        "true_count": 1.0,
+        "ai_bet": 4.864498644986448,
+        "bankroll": 9225.0,
+        "bet_ratio": 0.1945799457994579
+      },
+      {
+        "hand": 55,
+        "true_count": 0.0,
+        "ai_bet": 4.864130434782607,
+        "bankroll": 9200.0,
+        "bet_ratio": 0.19456521739130428
+      },
+      {
+        "hand": 56,
+        "true_count": 0.0,
+        "ai_bet": 4.864498644986448,
+        "bankroll": 9225.0,
+        "bet_ratio": 0.1945799457994579
+      },
+      {
+        "hand": 57,
+        "true_count": 0.0,
+        "ai_bet": 4.864130434782607,
+        "bankroll": 9200.0,
+        "bet_ratio": 0.19456521739130428
+      },
+      {
+        "hand": 58,
+        "true_count": 0.0,
+        "ai_bet": 4.863760217983651,
+        "bankroll": 9175.0,
+        "bet_ratio": 0.19455040871934604
+      },
+      {
+        "hand": 59,
+        "true_count": 0.0,
+        "ai_bet": 4.863387978142075,
+        "bankroll": 9150.0,
+        "bet_ratio": 0.194535519125683
+      },
+      {
+        "hand": 60,
+        "true_count": 0.0,
+        "ai_bet": 4.863013698630136,
+        "bankroll": 9125.0,
+        "bet_ratio": 0.19452054794520546
+      },
+      {
+        "hand": 61,
+        "true_count": 0.0,
+        "ai_bet": 4.862637362637362,
+        "bankroll": 9100.0,
+        "bet_ratio": 0.19450549450549448
+      },
+      {
+        "hand": 62,
+        "true_count": 0.0,
+        "ai_bet": 4.862258953168041,
+        "bankroll": 9075.0,
+        "bet_ratio": 0.19449035812672164
+      },
+      {
+        "hand": 63,
+        "true_count": 0.0,
+        "ai_bet": 4.861878453038673,
+        "bankroll": 9050.0,
+        "bet_ratio": 0.19447513812154693
+      },
+      {
+        "hand": 64,
+        "true_count": 0.0,
+        "ai_bet": 4.862258953168041,
+        "bankroll": 9075.0,
+        "bet_ratio": 0.19449035812672164
+      },
+      {
+        "hand": 65,
+        "true_count": 0.0,
+        "ai_bet": 4.862637362637362,
+        "bankroll": 9100.0,
+        "bet_ratio": 0.19450549450549448
+      },
+      {
+        "hand": 66,
+        "true_count": 0.0,
+        "ai_bet": 4.862258953168041,
+        "bankroll": 9075.0,
+        "bet_ratio": 0.19449035812672164
+      },
+      {
+        "hand": 67,
+        "true_count": 0.0,
+        "ai_bet": 4.861878453038673,
+        "bankroll": 9050.0,
+        "bet_ratio": 0.19447513812154693
+      },
+      {
+        "hand": 68,
+        "true_count": 0.0,
+        "ai_bet": 4.861495844875346,
+        "bankroll": 9025.0,
+        "bet_ratio": 0.19445983379501386
+      },
+      {
+        "hand": 69,
+        "true_count": 1.0,
+        "ai_bet": 4.861111111111111,
+        "bankroll": 9000.0,
+        "bet_ratio": 0.19444444444444442
+      },
+      {
+        "hand": 70,
+        "true_count": 0.0,
+        "ai_bet": 4.8607242339832855,
+        "bankroll": 8975.0,
+        "bet_ratio": 0.1944289693593314
+      },
+      {
+        "hand": 71,
+        "true_count": 1.0,
+        "ai_bet": 4.8607242339832855,
+        "bankroll": 8975.0,
+        "bet_ratio": 0.1944289693593314
+      },
+      {
+        "hand": 72,
+        "true_count": 0.0,
+        "ai_bet": 4.860335195530724,
+        "bankroll": 8950.0,
+        "bet_ratio": 0.19441340782122896
+      },
+      {
+        "hand": 73,
+        "true_count": 0.0,
+        "ai_bet": 4.859943977591036,
+        "bankroll": 8925.0,
+        "bet_ratio": 0.19439775910364143
+      },
+      {
+        "hand": 74,
+        "true_count": 0.0,
+        "ai_bet": 4.859550561797751,
+        "bankroll": 8900.0,
+        "bet_ratio": 0.19438202247191005
+      },
+      {
+        "hand": 75,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 76,
+        "true_count": 0.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 77,
+        "true_count": -1.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 78,
+        "true_count": 0.0,
+        "ai_bet": 4.859550561797751,
+        "bankroll": 8900.0,
+        "bet_ratio": 0.19438202247191005
+      },
+      {
+        "hand": 79,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 80,
+        "true_count": 0.0,
+        "ai_bet": 4.859550561797751,
+        "bankroll": 8900.0,
+        "bet_ratio": 0.19438202247191005
+      },
+      {
+        "hand": 81,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 82,
+        "true_count": 0.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 83,
+        "true_count": 1.0,
+        "ai_bet": 4.858356940509914,
+        "bankroll": 8825.0,
+        "bet_ratio": 0.19433427762039657
+      },
+      {
+        "hand": 84,
+        "true_count": 0.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 85,
+        "true_count": 0.0,
+        "ai_bet": 4.858356940509914,
+        "bankroll": 8825.0,
+        "bet_ratio": 0.19433427762039657
+      },
+      {
+        "hand": 86,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 87,
+        "true_count": 0.0,
+        "ai_bet": 4.858356940509914,
+        "bankroll": 8825.0,
+        "bet_ratio": 0.19433427762039657
+      },
+      {
+        "hand": 88,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 89,
+        "true_count": 0.0,
+        "ai_bet": 4.858356940509914,
+        "bankroll": 8825.0,
+        "bet_ratio": 0.19433427762039657
+      },
+      {
+        "hand": 90,
+        "true_count": 0.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 91,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 92,
+        "true_count": 0.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 93,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 94,
+        "true_count": 0.0,
+        "ai_bet": 4.859550561797751,
+        "bankroll": 8900.0,
+        "bet_ratio": 0.19438202247191005
+      },
+      {
+        "hand": 95,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 96,
+        "true_count": 0.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 97,
+        "true_count": 0.0,
+        "ai_bet": 4.859154929577464,
+        "bankroll": 8875.0,
+        "bet_ratio": 0.19436619718309855
+      },
+      {
+        "hand": 98,
+        "true_count": 1.0,
+        "ai_bet": 4.858757062146893,
+        "bankroll": 8850.0,
+        "bet_ratio": 0.1943502824858757
+      },
+      {
+        "hand": 99,
+        "true_count": 0.0,
+        "ai_bet": 4.858356940509914,
+        "bankroll": 8825.0,
+        "bet_ratio": 0.19433427762039657
+      },
+      {
+        "hand": 100,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 101,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 102,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 103,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 104,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 105,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 106,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 107,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 108,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 109,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 110,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 111,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 112,
+        "true_count": 0.0,
+        "ai_bet": 4.857954545454543,
+        "bankroll": 8800.0,
+        "bet_ratio": 0.19431818181818172
+      },
+      {
+        "hand": 113,
+        "true_count": 0.0,
+        "ai_bet": 4.857549857549856,
+        "bankroll": 8775.0,
+        "bet_ratio": 0.19430199430199424
+      },
+      {
+        "hand": 114,
+        "true_count": 0.0,
+        "ai_bet": 4.857142857142857,
+        "bankroll": 8750.0,
+        "bet_ratio": 0.19428571428571428
+      },
+      {
+        "hand": 115,
+        "true_count": 0.0,
+        "ai_bet": 4.8567335243553,
+        "bankroll": 8725.0,
+        "bet_ratio": 0.194269340974212
+      },
+      {
+        "hand": 116,
+        "true_count": 0.0,
+        "ai_bet": 4.856321839080458,
+        "bankroll": 8700.0,
+        "bet_ratio": 0.19425287356321833
+      },
+      {
+        "hand": 117,
+        "true_count": 0.0,
+        "ai_bet": 4.855907780979826,
+        "bankroll": 8675.0,
+        "bet_ratio": 0.19423631123919305
+      },
+      {
+        "hand": 118,
+        "true_count": 0.0,
+        "ai_bet": 4.855491329479767,
+        "bankroll": 8650.0,
+        "bet_ratio": 0.19421965317919068
+      },
+      {
+        "hand": 119,
+        "true_count": 0.0,
+        "ai_bet": 4.855907780979826,
+        "bankroll": 8675.0,
+        "bet_ratio": 0.19423631123919305
+      },
+      {
+        "hand": 120,
+        "true_count": 0.0,
+        "ai_bet": 4.856321839080458,
+        "bankroll": 8700.0,
+        "bet_ratio": 0.19425287356321833
+      },
+      {
+        "hand": 121,
+        "true_count": 0.0,
+        "ai_bet": 4.855907780979826,
+        "bankroll": 8675.0,
+        "bet_ratio": 0.19423631123919305
+      },
+      {
+        "hand": 122,
+        "true_count": 0.0,
+        "ai_bet": 4.856321839080458,
+        "bankroll": 8700.0,
+        "bet_ratio": 0.19425287356321833
+      },
+      {
+        "hand": 123,
+        "true_count": 0.0,
+        "ai_bet": 4.855907780979826,
+        "bankroll": 8675.0,
+        "bet_ratio": 0.19423631123919305
+      },
+      {
+        "hand": 124,
+        "true_count": 0.0,
+        "ai_bet": 4.855491329479767,
+        "bankroll": 8650.0,
+        "bet_ratio": 0.19421965317919068
+      },
+      {
+        "hand": 125,
+        "true_count": 0.0,
+        "ai_bet": 4.855072463768114,
+        "bankroll": 8625.0,
+        "bet_ratio": 0.1942028985507246
+      },
+      {
+        "hand": 126,
+        "true_count": 0.0,
+        "ai_bet": 4.854651162790696,
+        "bankroll": 8600.0,
+        "bet_ratio": 0.19418604651162785
+      },
+      {
+        "hand": 127,
+        "true_count": 0.0,
+        "ai_bet": 4.855072463768114,
+        "bankroll": 8625.0,
+        "bet_ratio": 0.1942028985507246
+      },
+      {
+        "hand": 128,
+        "true_count": 0.0,
+        "ai_bet": 4.854651162790696,
+        "bankroll": 8600.0,
+        "bet_ratio": 0.19418604651162785
+      },
+      {
+        "hand": 129,
+        "true_count": 0.0,
+        "ai_bet": 4.855072463768114,
+        "bankroll": 8625.0,
+        "bet_ratio": 0.1942028985507246
+      },
+      {
+        "hand": 130,
+        "true_count": 0.0,
+        "ai_bet": 4.854651162790696,
+        "bankroll": 8600.0,
+        "bet_ratio": 0.19418604651162785
+      },
+      {
+        "hand": 131,
+        "true_count": 0.0,
+        "ai_bet": 4.854651162790696,
+        "bankroll": 8600.0,
+        "bet_ratio": 0.19418604651162785
+      },
+      {
+        "hand": 132,
+        "true_count": 0.0,
+        "ai_bet": 4.854651162790696,
+        "bankroll": 8600.0,
+        "bet_ratio": 0.19418604651162785
+      },
+      {
+        "hand": 133,
+        "true_count": 0.0,
+        "ai_bet": 4.854227405247813,
+        "bankroll": 8575.0,
+        "bet_ratio": 0.19416909620991252
+      },
+      {
+        "hand": 134,
+        "true_count": 0.0,
+        "ai_bet": 4.853801169590644,
+        "bankroll": 8550.0,
+        "bet_ratio": 0.19415204678362574
+      },
+      {
+        "hand": 135,
+        "true_count": 0.0,
+        "ai_bet": 4.853801169590644,
+        "bankroll": 8550.0,
+        "bet_ratio": 0.19415204678362574
+      },
+      {
+        "hand": 136,
+        "true_count": 0.0,
+        "ai_bet": 4.8533724340175945,
+        "bankroll": 8525.0,
+        "bet_ratio": 0.19413489736070377
+      },
+      {
+        "hand": 137,
+        "true_count": 0.0,
+        "ai_bet": 4.852941176470588,
+        "bankroll": 8500.0,
+        "bet_ratio": 0.1941176470588235
+      },
+      {
+        "hand": 138,
+        "true_count": 0.0,
+        "ai_bet": 4.852507374631268,
+        "bankroll": 8475.0,
+        "bet_ratio": 0.19410029498525072
+      },
+      {
+        "hand": 139,
+        "true_count": 0.0,
+        "ai_bet": 4.852071005917158,
+        "bankroll": 8450.0,
+        "bet_ratio": 0.19408284023668632
+      },
+      {
+        "hand": 140,
+        "true_count": 0.0,
+        "ai_bet": 4.851632047477744,
+        "bankroll": 8425.0,
+        "bet_ratio": 0.19406528189910977
+      },
+      {
+        "hand": 141,
+        "true_count": 0.0,
+        "ai_bet": 4.852071005917158,
+        "bankroll": 8450.0,
+        "bet_ratio": 0.19408284023668632
+      },
+      {
+        "hand": 142,
+        "true_count": 0.0,
+        "ai_bet": 4.851632047477744,
+        "bankroll": 8425.0,
+        "bet_ratio": 0.19406528189910977
+      },
+      {
+        "hand": 143,
+        "true_count": 1.0,
+        "ai_bet": 4.851632047477744,
+        "bankroll": 8425.0,
+        "bet_ratio": 0.19406528189910977
+      },
+      {
+        "hand": 144,
+        "true_count": 0.0,
+        "ai_bet": 4.851190476190475,
+        "bankroll": 8400.0,
+        "bet_ratio": 0.19404761904761902
+      },
+      {
+        "hand": 145,
+        "true_count": -1.0,
+        "ai_bet": 4.850746268656716,
+        "bankroll": 8375.0,
+        "bet_ratio": 0.19402985074626866
+      },
+      {
+        "hand": 146,
+        "true_count": 0.0,
+        "ai_bet": 4.851190476190475,
+        "bankroll": 8400.0,
+        "bet_ratio": 0.19404761904761902
+      },
+      {
+        "hand": 147,
+        "true_count": 1.0,
+        "ai_bet": 4.851632047477744,
+        "bankroll": 8425.0,
+        "bet_ratio": 0.19406528189910977
+      },
+      {
+        "hand": 148,
+        "true_count": -1.0,
+        "ai_bet": 4.852071005917158,
+        "bankroll": 8450.0,
+        "bet_ratio": 0.19408284023668632
+      },
+      {
+        "hand": 149,
+        "true_count": 0.0,
+        "ai_bet": 4.851632047477744,
+        "bankroll": 8425.0,
+        "bet_ratio": 0.19406528189910977
+      },
+      {
+        "hand": 150,
+        "true_count": 0.0,
+        "ai_bet": 4.851190476190475,
+        "bankroll": 8400.0,
+        "bet_ratio": 0.19404761904761902
+      },
+      {
+        "hand": 151,
+        "true_count": 0.0,
+        "ai_bet": 4.850746268656716,
+        "bankroll": 8375.0,
+        "bet_ratio": 0.19402985074626866
+      },
+      {
+        "hand": 152,
+        "true_count": 0.0,
+        "ai_bet": 4.850299401197603,
+        "bankroll": 8350.0,
+        "bet_ratio": 0.1940119760479041
+      },
+      {
+        "hand": 153,
+        "true_count": 0.0,
+        "ai_bet": 4.850299401197603,
+        "bankroll": 8350.0,
+        "bet_ratio": 0.1940119760479041
+      },
+      {
+        "hand": 154,
+        "true_count": 0.0,
+        "ai_bet": 4.850299401197603,
+        "bankroll": 8350.0,
+        "bet_ratio": 0.1940119760479041
+      },
+      {
+        "hand": 155,
+        "true_count": 0.0,
+        "ai_bet": 4.849849849849849,
+        "bankroll": 8325.0,
+        "bet_ratio": 0.19399399399399397
+      },
+      {
+        "hand": 156,
+        "true_count": 0.0,
+        "ai_bet": 4.850299401197603,
+        "bankroll": 8350.0,
+        "bet_ratio": 0.1940119760479041
+      },
+      {
+        "hand": 157,
+        "true_count": -1.0,
+        "ai_bet": 4.849849849849849,
+        "bankroll": 8325.0,
+        "bet_ratio": 0.19399399399399397
+      },
+      {
+        "hand": 158,
+        "true_count": 0.0,
+        "ai_bet": 4.849397590361446,
+        "bankroll": 8300.0,
+        "bet_ratio": 0.19397590361445782
+      },
+      {
+        "hand": 159,
+        "true_count": 0.0,
+        "ai_bet": 4.849849849849849,
+        "bankroll": 8325.0,
+        "bet_ratio": 0.19399399399399397
+      },
+      {
+        "hand": 160,
+        "true_count": 0.0,
+        "ai_bet": 4.849397590361446,
+        "bankroll": 8300.0,
+        "bet_ratio": 0.19397590361445782
+      },
+      {
+        "hand": 161,
+        "true_count": 0.0,
+        "ai_bet": 4.848942598187311,
+        "bankroll": 8275.0,
+        "bet_ratio": 0.19395770392749245
+      },
+      {
+        "hand": 162,
+        "true_count": 0.0,
+        "ai_bet": 4.848484848484846,
+        "bankroll": 8250.0,
+        "bet_ratio": 0.19393939393939383
+      },
+      {
+        "hand": 163,
+        "true_count": 0.0,
+        "ai_bet": 4.848024316109423,
+        "bankroll": 8225.0,
+        "bet_ratio": 0.1939209726443769
+      },
+      {
+        "hand": 164,
+        "true_count": 0.0,
+        "ai_bet": 4.848484848484846,
+        "bankroll": 8250.0,
+        "bet_ratio": 0.19393939393939383
+      },
+      {
+        "hand": 165,
+        "true_count": 0.0,
+        "ai_bet": 4.848024316109423,
+        "bankroll": 8225.0,
+        "bet_ratio": 0.1939209726443769
+      },
+      {
+        "hand": 166,
+        "true_count": 0.0,
+        "ai_bet": 4.847560975609754,
+        "bankroll": 8200.0,
+        "bet_ratio": 0.19390243902439017
+      },
+      {
+        "hand": 167,
+        "true_count": -1.0,
+        "ai_bet": 4.847094801223239,
+        "bankroll": 8175.0,
+        "bet_ratio": 0.19388379204892955
+      },
+      {
+        "hand": 168,
+        "true_count": 0.0,
+        "ai_bet": 4.847560975609754,
+        "bankroll": 8200.0,
+        "bet_ratio": 0.19390243902439017
+      },
+      {
+        "hand": 169,
+        "true_count": -1.0,
+        "ai_bet": 4.847094801223239,
+        "bankroll": 8175.0,
+        "bet_ratio": 0.19388379204892955
+      },
+      {
+        "hand": 170,
+        "true_count": 0.0,
+        "ai_bet": 4.847560975609754,
+        "bankroll": 8200.0,
+        "bet_ratio": 0.19390243902439017
+      },
+      {
+        "hand": 171,
+        "true_count": 0.0,
+        "ai_bet": 4.847094801223239,
+        "bankroll": 8175.0,
+        "bet_ratio": 0.19388379204892955
+      },
+      {
+        "hand": 172,
+        "true_count": 0.0,
+        "ai_bet": 4.846625766871165,
+        "bankroll": 8150.0,
+        "bet_ratio": 0.19386503067484662
+      },
+      {
+        "hand": 173,
+        "true_count": 1.0,
+        "ai_bet": 4.846153846153845,
+        "bankroll": 8125.0,
+        "bet_ratio": 0.1938461538461538
+      },
+      {
+        "hand": 174,
+        "true_count": -1.0,
+        "ai_bet": 4.845679012345677,
+        "bankroll": 8100.0,
+        "bet_ratio": 0.1938271604938271
+      },
+      {
+        "hand": 175,
+        "true_count": 1.0,
+        "ai_bet": 4.845201238390093,
+        "bankroll": 8075.0,
+        "bet_ratio": 0.1938080495356037
+      },
+      {
+        "hand": 176,
+        "true_count": 0.0,
+        "ai_bet": 4.844720496894409,
+        "bankroll": 8050.0,
+        "bet_ratio": 0.19378881987577634
+      },
+      {
+        "hand": 177,
+        "true_count": 0.0,
+        "ai_bet": 4.844236760124609,
+        "bankroll": 8025.0,
+        "bet_ratio": 0.19376947040498435
+      },
+      {
+        "hand": 178,
+        "true_count": 0.0,
+        "ai_bet": 4.843749999999999,
+        "bankroll": 8000.0,
+        "bet_ratio": 0.19374999999999998
+      },
+      {
+        "hand": 179,
+        "true_count": 0.0,
+        "ai_bet": 4.843260188087772,
+        "bankroll": 7975.0,
+        "bet_ratio": 0.19373040752351087
+      },
+      {
+        "hand": 180,
+        "true_count": 0.0,
+        "ai_bet": 4.843749999999999,
+        "bankroll": 8000.0,
+        "bet_ratio": 0.19374999999999998
+      },
+      {
+        "hand": 181,
+        "true_count": -1.0,
+        "ai_bet": 4.843260188087772,
+        "bankroll": 7975.0,
+        "bet_ratio": 0.19373040752351087
+      },
+      {
+        "hand": 182,
+        "true_count": 0.0,
+        "ai_bet": 4.843749999999999,
+        "bankroll": 8000.0,
+        "bet_ratio": 0.19374999999999998
+      },
+      {
+        "hand": 183,
+        "true_count": 0.0,
+        "ai_bet": 4.844236760124609,
+        "bankroll": 8025.0,
+        "bet_ratio": 0.19376947040498435
+      },
+      {
+        "hand": 184,
+        "true_count": 0.0,
+        "ai_bet": 4.843749999999999,
+        "bankroll": 8000.0,
+        "bet_ratio": 0.19374999999999998
+      },
+      {
+        "hand": 185,
+        "true_count": 0.0,
+        "ai_bet": 4.843260188087772,
+        "bankroll": 7975.0,
+        "bet_ratio": 0.19373040752351087
+      },
+      {
+        "hand": 186,
+        "true_count": 0.0,
+        "ai_bet": 4.842767295597483,
+        "bankroll": 7950.0,
+        "bet_ratio": 0.1937106918238993
+      },
+      {
+        "hand": 187,
+        "true_count": 0.0,
+        "ai_bet": 4.843260188087772,
+        "bankroll": 7975.0,
+        "bet_ratio": 0.19373040752351087
+      },
+      {
+        "hand": 188,
+        "true_count": 0.0,
+        "ai_bet": 4.842767295597483,
+        "bankroll": 7950.0,
+        "bet_ratio": 0.1937106918238993
+      },
+      {
+        "hand": 189,
+        "true_count": 1.0,
+        "ai_bet": 4.842271293375394,
+        "bankroll": 7925.0,
+        "bet_ratio": 0.19369085173501577
+      },
+      {
+        "hand": 190,
+        "true_count": 0.0,
+        "ai_bet": 4.8417721518987324,
+        "bankroll": 7900.0,
+        "bet_ratio": 0.1936708860759493
+      },
+      {
+        "hand": 191,
+        "true_count": 0.0,
+        "ai_bet": 4.841269841269841,
+        "bankroll": 7875.0,
+        "bet_ratio": 0.19365079365079363
+      },
+      {
+        "hand": 192,
+        "true_count": 0.0,
+        "ai_bet": 4.84076433121019,
+        "bankroll": 7850.0,
+        "bet_ratio": 0.1936305732484076
+      },
+      {
+        "hand": 193,
+        "true_count": 0.0,
+        "ai_bet": 4.841269841269841,
+        "bankroll": 7875.0,
+        "bet_ratio": 0.19365079365079363
+      },
+      {
+        "hand": 194,
+        "true_count": 1.0,
+        "ai_bet": 4.8417721518987324,
+        "bankroll": 7900.0,
+        "bet_ratio": 0.1936708860759493
+      },
+      {
+        "hand": 195,
+        "true_count": 0.0,
+        "ai_bet": 4.841269841269841,
+        "bankroll": 7875.0,
+        "bet_ratio": 0.19365079365079363
+      },
+      {
+        "hand": 196,
+        "true_count": 0.0,
+        "ai_bet": 4.84076433121019,
+        "bankroll": 7850.0,
+        "bet_ratio": 0.1936305732484076
+      },
+      {
+        "hand": 197,
+        "true_count": 0.0,
+        "ai_bet": 4.841269841269841,
+        "bankroll": 7875.0,
+        "bet_ratio": 0.19365079365079363
+      },
+      {
+        "hand": 198,
+        "true_count": 0.0,
+        "ai_bet": 4.84076433121019,
+        "bankroll": 7850.0,
+        "bet_ratio": 0.1936305732484076
+      },
+      {
+        "hand": 199,
+        "true_count": 0.0,
+        "ai_bet": 4.840255591054313,
+        "bankroll": 7825.0,
+        "bet_ratio": 0.1936102236421725
+      },
+      {
+        "hand": 200,
+        "true_count": 0.0,
+        "ai_bet": 4.839743589743589,
+        "bankroll": 7800.0,
+        "bet_ratio": 0.19358974358974357
+      },
+      {
+        "hand": 201,
+        "true_count": -1.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 202,
+        "true_count": 0.0,
+        "ai_bet": 4.839743589743589,
+        "bankroll": 7800.0,
+        "bet_ratio": 0.19358974358974357
+      },
+      {
+        "hand": 203,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 204,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 205,
+        "true_count": 0.0,
+        "ai_bet": 4.839743589743589,
+        "bankroll": 7800.0,
+        "bet_ratio": 0.19358974358974357
+      },
+      {
+        "hand": 206,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 207,
+        "true_count": 1.0,
+        "ai_bet": 4.839743589743589,
+        "bankroll": 7800.0,
+        "bet_ratio": 0.19358974358974357
+      },
+      {
+        "hand": 208,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 209,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 210,
+        "true_count": 0.0,
+        "ai_bet": 4.838709677419353,
+        "bankroll": 7750.0,
+        "bet_ratio": 0.19354838709677413
+      },
+      {
+        "hand": 211,
+        "true_count": 0.0,
+        "ai_bet": 4.83818770226537,
+        "bankroll": 7725.0,
+        "bet_ratio": 0.1935275080906148
+      },
+      {
+        "hand": 212,
+        "true_count": 0.0,
+        "ai_bet": 4.837662337662338,
+        "bankroll": 7700.0,
+        "bet_ratio": 0.19350649350649352
+      },
+      {
+        "hand": 213,
+        "true_count": 0.0,
+        "ai_bet": 4.83818770226537,
+        "bankroll": 7725.0,
+        "bet_ratio": 0.1935275080906148
+      },
+      {
+        "hand": 214,
+        "true_count": 0.0,
+        "ai_bet": 4.838709677419353,
+        "bankroll": 7750.0,
+        "bet_ratio": 0.19354838709677413
+      },
+      {
+        "hand": 215,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 216,
+        "true_count": 0.0,
+        "ai_bet": 4.839743589743589,
+        "bankroll": 7800.0,
+        "bet_ratio": 0.19358974358974357
+      },
+      {
+        "hand": 217,
+        "true_count": 0.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 218,
+        "true_count": 0.0,
+        "ai_bet": 4.838709677419353,
+        "bankroll": 7750.0,
+        "bet_ratio": 0.19354838709677413
+      },
+      {
+        "hand": 219,
+        "true_count": -1.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 220,
+        "true_count": 0.0,
+        "ai_bet": 4.839743589743589,
+        "bankroll": 7800.0,
+        "bet_ratio": 0.19358974358974357
+      },
+      {
+        "hand": 221,
+        "true_count": 1.0,
+        "ai_bet": 4.839228295819933,
+        "bankroll": 7775.0,
+        "bet_ratio": 0.19356913183279734
+      },
+      {
+        "hand": 222,
+        "true_count": 0.0,
+        "ai_bet": 4.838709677419353,
+        "bankroll": 7750.0,
+        "bet_ratio": 0.19354838709677413
+      },
+      {
+        "hand": 223,
+        "true_count": 0.0,
+        "ai_bet": 4.83818770226537,
+        "bankroll": 7725.0,
+        "bet_ratio": 0.1935275080906148
+      },
+      {
+        "hand": 224,
+        "true_count": 0.0,
+        "ai_bet": 4.837662337662338,
+        "bankroll": 7700.0,
+        "bet_ratio": 0.19350649350649352
+      },
+      {
+        "hand": 225,
+        "true_count": 1.0,
+        "ai_bet": 4.837133550488598,
+        "bankroll": 7675.0,
+        "bet_ratio": 0.19348534201954393
+      },
+      {
+        "hand": 226,
+        "true_count": -1.0,
+        "ai_bet": 4.836601307189542,
+        "bankroll": 7650.0,
+        "bet_ratio": 0.19346405228758168
+      },
+      {
+        "hand": 227,
+        "true_count": 0.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 228,
+        "true_count": 0.0,
+        "ai_bet": 4.836601307189542,
+        "bankroll": 7650.0,
+        "bet_ratio": 0.19346405228758168
+      },
+      {
+        "hand": 229,
+        "true_count": 0.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 230,
+        "true_count": -1.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 231,
+        "true_count": 0.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 232,
+        "true_count": -1.0,
+        "ai_bet": 4.836601307189542,
+        "bankroll": 7650.0,
+        "bet_ratio": 0.19346405228758168
+      },
+      {
+        "hand": 233,
+        "true_count": 0.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 234,
+        "true_count": 0.0,
+        "ai_bet": 4.8355263157894735,
+        "bankroll": 7600.0,
+        "bet_ratio": 0.19342105263157894
+      },
+      {
+        "hand": 235,
+        "true_count": 0.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 236,
+        "true_count": 0.0,
+        "ai_bet": 4.8355263157894735,
+        "bankroll": 7600.0,
+        "bet_ratio": 0.19342105263157894
+      },
+      {
+        "hand": 237,
+        "true_count": 0.0,
+        "ai_bet": 4.8349834983498345,
+        "bankroll": 7575.0,
+        "bet_ratio": 0.19339933993399339
+      },
+      {
+        "hand": 238,
+        "true_count": 0.0,
+        "ai_bet": 4.834437086092713,
+        "bankroll": 7550.0,
+        "bet_ratio": 0.1933774834437085
+      },
+      {
+        "hand": 239,
+        "true_count": -1.0,
+        "ai_bet": 4.8349834983498345,
+        "bankroll": 7575.0,
+        "bet_ratio": 0.19339933993399339
+      },
+      {
+        "hand": 240,
+        "true_count": 1.0,
+        "ai_bet": 4.8349834983498345,
+        "bankroll": 7575.0,
+        "bet_ratio": 0.19339933993399339
+      },
+      {
+        "hand": 241,
+        "true_count": 0.0,
+        "ai_bet": 4.8355263157894735,
+        "bankroll": 7600.0,
+        "bet_ratio": 0.19342105263157894
+      },
+      {
+        "hand": 242,
+        "true_count": 0.0,
+        "ai_bet": 4.83606557377049,
+        "bankroll": 7625.0,
+        "bet_ratio": 0.1934426229508196
+      },
+      {
+        "hand": 243,
+        "true_count": 0.0,
+        "ai_bet": 4.8355263157894735,
+        "bankroll": 7600.0,
+        "bet_ratio": 0.19342105263157894
+      },
+      {
+        "hand": 244,
+        "true_count": -1.0,
+        "ai_bet": 4.8349834983498345,
+        "bankroll": 7575.0,
+        "bet_ratio": 0.19339933993399339
+      },
+      {
+        "hand": 245,
+        "true_count": 0.0,
+        "ai_bet": 4.8355263157894735,
+        "bankroll": 7600.0,
+        "bet_ratio": 0.19342105263157894
+      },
+      {
+        "hand": 246,
+        "true_count": 0.0,
+        "ai_bet": 4.8349834983498345,
+        "bankroll": 7575.0,
+        "bet_ratio": 0.19339933993399339
+      },
+      {
+        "hand": 247,
+        "true_count": 0.0,
+        "ai_bet": 4.834437086092713,
+        "bankroll": 7550.0,
+        "bet_ratio": 0.1933774834437085
+      },
+      {
+        "hand": 248,
+        "true_count": 0.0,
+        "ai_bet": 4.833887043189367,
+        "bankroll": 7525.0,
+        "bet_ratio": 0.19335548172757466
+      },
+      {
+        "hand": 249,
+        "true_count": 0.0,
+        "ai_bet": 4.834437086092713,
+        "bankroll": 7550.0,
+        "bet_ratio": 0.1933774834437085
+      },
+      {
+        "hand": 250,
+        "true_count": -1.0,
+        "ai_bet": 4.833887043189367,
+        "bankroll": 7525.0,
+        "bet_ratio": 0.19335548172757466
+      },
+      {
+        "hand": 251,
+        "true_count": 0.0,
+        "ai_bet": 4.834437086092713,
+        "bankroll": 7550.0,
+        "bet_ratio": 0.1933774834437085
+      },
+      {
+        "hand": 252,
+        "true_count": 0.0,
+        "ai_bet": 4.833887043189367,
+        "bankroll": 7525.0,
+        "bet_ratio": 0.19335548172757466
+      },
+      {
+        "hand": 253,
+        "true_count": 1.0,
+        "ai_bet": 4.833333333333331,
+        "bankroll": 7500.0,
+        "bet_ratio": 0.19333333333333325
+      },
+      {
+        "hand": 254,
+        "true_count": 0.0,
+        "ai_bet": 4.83277591973244,
+        "bankroll": 7475.0,
+        "bet_ratio": 0.19331103678929762
+      },
+      {
+        "hand": 255,
+        "true_count": 0.0,
+        "ai_bet": 4.83221476510067,
+        "bankroll": 7450.0,
+        "bet_ratio": 0.1932885906040268
+      },
+      {
+        "hand": 256,
+        "true_count": 0.0,
+        "ai_bet": 4.83277591973244,
+        "bankroll": 7475.0,
+        "bet_ratio": 0.19331103678929762
+      },
+      {
+        "hand": 257,
+        "true_count": 0.0,
+        "ai_bet": 4.833333333333331,
+        "bankroll": 7500.0,
+        "bet_ratio": 0.19333333333333325
+      },
+      {
+        "hand": 258,
+        "true_count": 0.0,
+        "ai_bet": 4.83277591973244,
+        "bankroll": 7475.0,
+        "bet_ratio": 0.19331103678929762
+      },
+      {
+        "hand": 259,
+        "true_count": 1.0,
+        "ai_bet": 4.83221476510067,
+        "bankroll": 7450.0,
+        "bet_ratio": 0.1932885906040268
+      },
+      {
+        "hand": 260,
+        "true_count": 0.0,
+        "ai_bet": 4.83277591973244,
+        "bankroll": 7475.0,
+        "bet_ratio": 0.19331103678929762
+      },
+      {
+        "hand": 261,
+        "true_count": 0.0,
+        "ai_bet": 4.83221476510067,
+        "bankroll": 7450.0,
+        "bet_ratio": 0.1932885906040268
+      },
+      {
+        "hand": 262,
+        "true_count": 0.0,
+        "ai_bet": 4.83277591973244,
+        "bankroll": 7475.0,
+        "bet_ratio": 0.19331103678929762
+      },
+      {
+        "hand": 263,
+        "true_count": 0.0,
+        "ai_bet": 4.83221476510067,
+        "bankroll": 7450.0,
+        "bet_ratio": 0.1932885906040268
+      },
+      {
+        "hand": 264,
+        "true_count": 0.0,
+        "ai_bet": 4.831649831649831,
+        "bankroll": 7425.0,
+        "bet_ratio": 0.19326599326599325
+      },
+      {
+        "hand": 265,
+        "true_count": 0.0,
+        "ai_bet": 4.831081081081079,
+        "bankroll": 7400.0,
+        "bet_ratio": 0.19324324324324316
+      },
+      {
+        "hand": 266,
+        "true_count": 0.0,
+        "ai_bet": 4.83050847457627,
+        "bankroll": 7375.0,
+        "bet_ratio": 0.1932203389830508
+      },
+      {
+        "hand": 267,
+        "true_count": 0.0,
+        "ai_bet": 4.831081081081079,
+        "bankroll": 7400.0,
+        "bet_ratio": 0.19324324324324316
+      },
+      {
+        "hand": 268,
+        "true_count": 0.0,
+        "ai_bet": 4.83050847457627,
+        "bankroll": 7375.0,
+        "bet_ratio": 0.1932203389830508
+      },
+      {
+        "hand": 269,
+        "true_count": 0.0,
+        "ai_bet": 4.831081081081079,
+        "bankroll": 7400.0,
+        "bet_ratio": 0.19324324324324316
+      },
+      {
+        "hand": 270,
+        "true_count": 0.0,
+        "ai_bet": 4.83050847457627,
+        "bankroll": 7375.0,
+        "bet_ratio": 0.1932203389830508
+      },
+      {
+        "hand": 271,
+        "true_count": 1.0,
+        "ai_bet": 4.831081081081079,
+        "bankroll": 7400.0,
+        "bet_ratio": 0.19324324324324316
+      },
+      {
+        "hand": 272,
+        "true_count": 0.0,
+        "ai_bet": 4.83050847457627,
+        "bankroll": 7375.0,
+        "bet_ratio": 0.1932203389830508
+      },
+      {
+        "hand": 273,
+        "true_count": -1.0,
+        "ai_bet": 4.829931972789114,
+        "bankroll": 7350.0,
+        "bet_ratio": 0.19319727891156457
+      },
+      {
+        "hand": 274,
+        "true_count": 0.0,
+        "ai_bet": 4.83050847457627,
+        "bankroll": 7375.0,
+        "bet_ratio": 0.1932203389830508
+      },
+      {
+        "hand": 275,
+        "true_count": 0.0,
+        "ai_bet": 4.829931972789114,
+        "bankroll": 7350.0,
+        "bet_ratio": 0.19319727891156457
+      },
+      {
+        "hand": 276,
+        "true_count": 0.0,
+        "ai_bet": 4.829351535836176,
+        "bankroll": 7325.0,
+        "bet_ratio": 0.19317406143344706
+      },
+      {
+        "hand": 277,
+        "true_count": -1.0,
+        "ai_bet": 4.829931972789114,
+        "bankroll": 7350.0,
+        "bet_ratio": 0.19319727891156457
+      },
+      {
+        "hand": 278,
+        "true_count": 0.0,
+        "ai_bet": 4.829931972789114,
+        "bankroll": 7350.0,
+        "bet_ratio": 0.19319727891156457
+      },
+      {
+        "hand": 279,
+        "true_count": 0.0,
+        "ai_bet": 4.829351535836176,
+        "bankroll": 7325.0,
+        "bet_ratio": 0.19317406143344706
+      },
+      {
+        "hand": 280,
+        "true_count": 0.0,
+        "ai_bet": 4.828767123287669,
+        "bankroll": 7300.0,
+        "bet_ratio": 0.19315068493150675
+      },
+      {
+        "hand": 281,
+        "true_count": 0.0,
+        "ai_bet": 4.829351535836176,
+        "bankroll": 7325.0,
+        "bet_ratio": 0.19317406143344706
+      },
+      {
+        "hand": 282,
+        "true_count": 0.0,
+        "ai_bet": 4.828767123287669,
+        "bankroll": 7300.0,
+        "bet_ratio": 0.19315068493150675
+      },
+      {
+        "hand": 283,
+        "true_count": 0.0,
+        "ai_bet": 4.828178694158075,
+        "bankroll": 7275.0,
+        "bet_ratio": 0.193127147766323
+      },
+      {
+        "hand": 284,
+        "true_count": 0.0,
+        "ai_bet": 4.82758620689655,
+        "bankroll": 7250.0,
+        "bet_ratio": 0.19310344827586198
+      },
+      {
+        "hand": 285,
+        "true_count": 0.0,
+        "ai_bet": 4.826989619377161,
+        "bankroll": 7225.0,
+        "bet_ratio": 0.19307958477508647
+      },
+      {
+        "hand": 286,
+        "true_count": 0.0,
+        "ai_bet": 4.82758620689655,
+        "bankroll": 7250.0,
+        "bet_ratio": 0.19310344827586198
+      },
+      {
+        "hand": 287,
+        "true_count": 1.0,
+        "ai_bet": 4.826989619377161,
+        "bankroll": 7225.0,
+        "bet_ratio": 0.19307958477508647
+      },
+      {
+        "hand": 288,
+        "true_count": 0.0,
+        "ai_bet": 4.826388888888888,
+        "bankroll": 7200.0,
+        "bet_ratio": 0.19305555555555554
+      },
+      {
+        "hand": 289,
+        "true_count": 0.0,
+        "ai_bet": 4.826989619377161,
+        "bankroll": 7225.0,
+        "bet_ratio": 0.19307958477508647
+      },
+      {
+        "hand": 290,
+        "true_count": 0.0,
+        "ai_bet": 4.826388888888888,
+        "bankroll": 7200.0,
+        "bet_ratio": 0.19305555555555554
+      },
+      {
+        "hand": 291,
+        "true_count": 0.0,
+        "ai_bet": 4.826989619377161,
+        "bankroll": 7225.0,
+        "bet_ratio": 0.19307958477508647
+      },
+      {
+        "hand": 292,
+        "true_count": 0.0,
+        "ai_bet": 4.82758620689655,
+        "bankroll": 7250.0,
+        "bet_ratio": 0.19310344827586198
+      },
+      {
+        "hand": 293,
+        "true_count": -1.0,
+        "ai_bet": 4.828178694158075,
+        "bankroll": 7275.0,
+        "bet_ratio": 0.193127147766323
+      },
+      {
+        "hand": 294,
+        "true_count": 0.0,
+        "ai_bet": 4.82758620689655,
+        "bankroll": 7250.0,
+        "bet_ratio": 0.19310344827586198
+      },
+      {
+        "hand": 295,
+        "true_count": 0.0,
+        "ai_bet": 4.826989619377161,
+        "bankroll": 7225.0,
+        "bet_ratio": 0.19307958477508647
+      },
+      {
+        "hand": 296,
+        "true_count": 0.0,
+        "ai_bet": 4.826388888888888,
+        "bankroll": 7200.0,
+        "bet_ratio": 0.19305555555555554
+      },
+      {
+        "hand": 297,
+        "true_count": -1.0,
+        "ai_bet": 4.825783972125433,
+        "bankroll": 7175.0,
+        "bet_ratio": 0.19303135888501732
+      },
+      {
+        "hand": 298,
+        "true_count": 0.0,
+        "ai_bet": 4.825783972125433,
+        "bankroll": 7175.0,
+        "bet_ratio": 0.19303135888501732
+      },
+      {
+        "hand": 299,
+        "true_count": 0.0,
+        "ai_bet": 4.826388888888888,
+        "bankroll": 7200.0,
+        "bet_ratio": 0.19305555555555554
+      },
+      {
+        "hand": 300,
+        "true_count": -1.0,
+        "ai_bet": 4.826989619377161,
+        "bankroll": 7225.0,
+        "bet_ratio": 0.19307958477508647
+      }
+    ],
+    "session_data": [
+      {
+        "hand": 1,
+        "bet_amount": 12.375,
+        "reward": 25.0625,
+        "bankroll": 10025.0,
+        "roi": 2.025252525252525
+      },
+      {
+        "hand": 2,
+        "bet_amount": 12.375311720698253,
+        "reward": 0.0,
+        "bankroll": 10025.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 3,
+        "bet_amount": 12.375311720698253,
+        "reward": -25.125,
+        "bankroll": 10000.0,
+        "roi": -2.030251889168766
+      },
+      {
+        "hand": 4,
+        "bet_amount": 12.375,
+        "reward": -25.125,
+        "bankroll": 9975.0,
+        "roi": -2.0303030303030303
+      },
+      {
+        "hand": 6,
+        "bet_amount": 12.374371859296481,
+        "reward": -25.125,
+        "bankroll": 9925.0,
+        "roi": -2.0304060913705584
+      },
+      {
+        "hand": 7,
+        "bet_amount": 12.374055415617127,
+        "reward": -25.125,
+        "bankroll": 9900.0,
+        "roi": -2.030458015267176
+      },
+      {
+        "hand": 8,
+        "bet_amount": 12.373737373737374,
+        "reward": -25.125,
+        "bankroll": 9875.0,
+        "roi": -2.0305102040816325
+      },
+      {
+        "hand": 9,
+        "bet_amount": 12.373417721518987,
+        "reward": 25.0625,
+        "bankroll": 9900.0,
+        "roi": 2.0255115089514066
+      },
+      {
+        "hand": 11,
+        "bet_amount": 12.373417721518987,
+        "reward": 25.0625,
+        "bankroll": 9900.0,
+        "roi": 2.0255115089514066
+      },
+      {
+        "hand": 13,
+        "bet_amount": 12.373417721518987,
+        "reward": -25.125,
+        "bankroll": 9850.0,
+        "roi": -2.0305626598465474
+      },
+      {
+        "hand": 14,
+        "bet_amount": 4.873096446700506,
+        "reward": -25.125,
+        "bankroll": 9825.0,
+        "roi": -5.155859375000001
+      },
+      {
+        "hand": 15,
+        "bet_amount": 4.872773536895672,
+        "reward": -25.125,
+        "bankroll": 9800.0,
+        "roi": -5.156201044386425
+      },
+      {
+        "hand": 18,
+        "bet_amount": 4.871794871794871,
+        "reward": -25.125,
+        "bankroll": 9725.0,
+        "roi": -5.157236842105264
+      },
+      {
+        "hand": 24,
+        "bet_amount": 4.869791666666664,
+        "reward": -25.125,
+        "bankroll": 9575.0,
+        "roi": -5.159358288770056
+      },
+      {
+        "hand": 26,
+        "bet_amount": 4.869109947643979,
+        "reward": -25.125,
+        "bankroll": 9525.0,
+        "roi": -5.16008064516129
+      },
+      {
+        "hand": 28,
+        "bet_amount": 4.868421052631577,
+        "reward": 25.0625,
+        "bankroll": 9525.0,
+        "roi": 5.147972972972975
+      },
+      {
+        "hand": 30,
+        "bet_amount": 4.868421052631577,
+        "reward": 0.0,
+        "bankroll": 9500.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 32,
+        "bet_amount": 4.8680738786279685,
+        "reward": -25.125,
+        "bankroll": 9450.0,
+        "roi": -5.161178861788618
+      },
+      {
+        "hand": 33,
+        "bet_amount": 4.867724867724865,
+        "reward": 25.0625,
+        "bankroll": 9475.0,
+        "roi": 5.148709239130437
+      },
+      {
+        "hand": 35,
+        "bet_amount": 4.867724867724865,
+        "reward": -25.125,
+        "bankroll": 9425.0,
+        "roi": -5.161548913043481
+      },
+      {
+        "hand": 37,
+        "bet_amount": 4.867021276595743,
+        "reward": 25.0625,
+        "bankroll": 9425.0,
+        "roi": 5.14945355191257
+      },
+      {
+        "hand": 38,
+        "bet_amount": 4.867374005305039,
+        "reward": -25.125,
+        "bankroll": 9400.0,
+        "roi": -5.161920980926431
+      },
+      {
+        "hand": 39,
+        "bet_amount": 4.867021276595743,
+        "reward": 25.0625,
+        "bankroll": 9425.0,
+        "roi": 5.14945355191257
+      },
+      {
+        "hand": 42,
+        "bet_amount": 4.866666666666666,
+        "reward": 0.0,
+        "bankroll": 9375.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 44,
+        "bet_amount": 4.866310160427806,
+        "reward": -25.125,
+        "bankroll": 9325.0,
+        "roi": -5.163049450549453
+      },
+      {
+        "hand": 45,
+        "bet_amount": 4.865951742627344,
+        "reward": -25.125,
+        "bankroll": 9300.0,
+        "roi": -5.163429752066118
+      },
+      {
+        "hand": 46,
+        "bet_amount": 4.865591397849461,
+        "reward": -25.125,
+        "bankroll": 9275.0,
+        "roi": -5.163812154696134
+      },
+      {
+        "hand": 47,
+        "bet_amount": 4.865229110512129,
+        "reward": -25.125,
+        "bankroll": 9250.0,
+        "roi": -5.1641966759002775
+      },
+      {
+        "hand": 48,
+        "bet_amount": 4.864864864864865,
+        "reward": -25.125,
+        "bankroll": 9225.0,
+        "roi": -5.164583333333333
+      },
+      {
+        "hand": 49,
+        "bet_amount": 4.864498644986448,
+        "reward": 25.0625,
+        "bankroll": 9250.0,
+        "roi": 5.152123955431757
+      },
+      {
+        "hand": 51,
+        "bet_amount": 4.864498644986448,
+        "reward": 0.0,
+        "bankroll": 9225.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 52,
+        "bet_amount": 4.864498644986448,
+        "reward": -25.125,
+        "bankroll": 9200.0,
+        "roi": -5.164972144846799
+      },
+      {
+        "hand": 53,
+        "bet_amount": 4.864130434782607,
+        "reward": 25.0625,
+        "bankroll": 9225.0,
+        "roi": 5.152513966480449
+      },
+      {
+        "hand": 55,
+        "bet_amount": 4.864130434782607,
+        "reward": 25.0625,
+        "bankroll": 9225.0,
+        "roi": 5.152513966480449
+      },
+      {
+        "hand": 57,
+        "bet_amount": 4.864130434782607,
+        "reward": -25.125,
+        "bankroll": 9175.0,
+        "roi": -5.165363128491622
+      },
+      {
+        "hand": 60,
+        "bet_amount": 4.863013698630136,
+        "reward": -25.125,
+        "bankroll": 9100.0,
+        "roi": -5.166549295774648
+      },
+      {
+        "hand": 62,
+        "bet_amount": 4.862258953168041,
+        "reward": -25.125,
+        "bankroll": 9050.0,
+        "roi": -5.1673512747875385
+      },
+      {
+        "hand": 63,
+        "bet_amount": 4.861878453038673,
+        "reward": 25.0625,
+        "bankroll": 9075.0,
+        "roi": 5.154900568181819
+      },
+      {
+        "hand": 64,
+        "bet_amount": 4.862258953168041,
+        "reward": 25.0625,
+        "bankroll": 9100.0,
+        "roi": 5.154497167138813
+      },
+      {
+        "hand": 66,
+        "bet_amount": 4.862258953168041,
+        "reward": -25.125,
+        "bankroll": 9050.0,
+        "roi": -5.1673512747875385
+      },
+      {
+        "hand": 67,
+        "bet_amount": 4.861878453038673,
+        "reward": -25.125,
+        "bankroll": 9025.0,
+        "roi": -5.167755681818183
+      },
+      {
+        "hand": 68,
+        "bet_amount": 4.861495844875346,
+        "reward": -25.125,
+        "bankroll": 9000.0,
+        "roi": -5.168162393162393
+      },
+      {
+        "hand": 70,
+        "bet_amount": 4.8607242339832855,
+        "reward": 0.0,
+        "bankroll": 8975.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 72,
+        "bet_amount": 4.860335195530724,
+        "reward": -25.125,
+        "bankroll": 8925.0,
+        "roi": -5.16939655172414
+      },
+      {
+        "hand": 73,
+        "bet_amount": 4.859943977591036,
+        "reward": -25.125,
+        "bankroll": 8900.0,
+        "roi": -5.169812680115275
+      },
+      {
+        "hand": 76,
+        "bet_amount": 4.858757062146893,
+        "reward": 25.0625,
+        "bankroll": 8875.0,
+        "roi": 5.1582122093023255
+      },
+      {
+        "hand": 77,
+        "bet_amount": 4.859154929577464,
+        "reward": 25.0625,
+        "bankroll": 8900.0,
+        "roi": 5.157789855072465
+      },
+      {
+        "hand": 79,
+        "bet_amount": 4.859154929577464,
+        "reward": 25.0625,
+        "bankroll": 8900.0,
+        "roi": 5.157789855072465
+      },
+      {
+        "hand": 80,
+        "bet_amount": 4.859550561797751,
+        "reward": -25.125,
+        "bankroll": 8875.0,
+        "roi": -5.170231213872834
+      },
+      {
+        "hand": 81,
+        "bet_amount": 4.859154929577464,
+        "reward": -25.125,
+        "bankroll": 8850.0,
+        "roi": -5.170652173913044
+      },
+      {
+        "hand": 82,
+        "bet_amount": 4.858757062146893,
+        "reward": -25.125,
+        "bankroll": 8825.0,
+        "roi": -5.171075581395349
+      },
+      {
+        "hand": 83,
+        "bet_amount": 4.858356940509914,
+        "reward": 25.0625,
+        "bankroll": 8850.0,
+        "roi": 5.158637026239068
+      },
+      {
+        "hand": 86,
+        "bet_amount": 4.857954545454543,
+        "reward": 25.0625,
+        "bankroll": 8825.0,
+        "roi": 5.159064327485383
+      },
+      {
+        "hand": 87,
+        "bet_amount": 4.858356940509914,
+        "reward": -25.125,
+        "bankroll": 8800.0,
+        "roi": -5.171501457725949
+      },
+      {
+        "hand": 88,
+        "bet_amount": 4.857954545454543,
+        "reward": 25.0625,
+        "bankroll": 8825.0,
+        "roi": 5.159064327485383
+      },
+      {
+        "hand": 89,
+        "bet_amount": 4.858356940509914,
+        "reward": 25.0625,
+        "bankroll": 8850.0,
+        "roi": 5.158637026239068
+      },
+      {
+        "hand": 90,
+        "bet_amount": 4.858757062146893,
+        "reward": 25.0625,
+        "bankroll": 8875.0,
+        "roi": 5.1582122093023255
+      },
+      {
+        "hand": 92,
+        "bet_amount": 4.858757062146893,
+        "reward": 25.0625,
+        "bankroll": 8875.0,
+        "roi": 5.1582122093023255
+      },
+      {
+        "hand": 93,
+        "bet_amount": 4.859154929577464,
+        "reward": 25.0625,
+        "bankroll": 8900.0,
+        "roi": 5.157789855072465
+      },
+      {
+        "hand": 95,
+        "bet_amount": 4.859154929577464,
+        "reward": -25.125,
+        "bankroll": 8850.0,
+        "roi": -5.170652173913044
+      },
+      {
+        "hand": 96,
+        "bet_amount": 4.858757062146893,
+        "reward": 25.0625,
+        "bankroll": 8875.0,
+        "roi": 5.1582122093023255
+      },
+      {
+        "hand": 99,
+        "bet_amount": 4.858356940509914,
+        "reward": -25.125,
+        "bankroll": 8800.0,
+        "roi": -5.171501457725949
+      },
+      {
+        "hand": 100,
+        "bet_amount": 4.857954545454543,
+        "reward": -25.125,
+        "bankroll": 8775.0,
+        "roi": -5.171929824561406
+      },
+      {
+        "hand": 101,
+        "bet_amount": 4.857549857549856,
+        "reward": 25.0625,
+        "bankroll": 8800.0,
+        "roi": 5.159494134897363
+      },
+      {
+        "hand": 103,
+        "bet_amount": 4.857549857549856,
+        "reward": 25.0625,
+        "bankroll": 8800.0,
+        "roi": 5.159494134897363
+      },
+      {
+        "hand": 105,
+        "bet_amount": 4.857549857549856,
+        "reward": 25.0625,
+        "bankroll": 8800.0,
+        "roi": 5.159494134897363
+      },
+      {
+        "hand": 107,
+        "bet_amount": 4.857549857549856,
+        "reward": 25.0625,
+        "bankroll": 8800.0,
+        "roi": 5.159494134897363
+      },
+      {
+        "hand": 108,
+        "bet_amount": 4.857954545454543,
+        "reward": -25.125,
+        "bankroll": 8775.0,
+        "roi": -5.171929824561406
+      },
+      {
+        "hand": 109,
+        "bet_amount": 4.857549857549856,
+        "reward": 25.0625,
+        "bankroll": 8800.0,
+        "roi": 5.159494134897363
+      },
+      {
+        "hand": 111,
+        "bet_amount": 4.857549857549856,
+        "reward": 25.0625,
+        "bankroll": 8800.0,
+        "roi": 5.159494134897363
+      },
+      {
+        "hand": 112,
+        "bet_amount": 4.857954545454543,
+        "reward": -25.125,
+        "bankroll": 8775.0,
+        "roi": -5.171929824561406
+      },
+      {
+        "hand": 113,
+        "bet_amount": 4.857549857549856,
+        "reward": -25.125,
+        "bankroll": 8750.0,
+        "roi": -5.172360703812319
+      },
+      {
+        "hand": 114,
+        "bet_amount": 4.857142857142857,
+        "reward": -25.125,
+        "bankroll": 8725.0,
+        "roi": -5.172794117647059
+      },
+      {
+        "hand": 115,
+        "bet_amount": 4.8567335243553,
+        "reward": -25.125,
+        "bankroll": 8700.0,
+        "roi": -5.173230088495576
+      },
+      {
+        "hand": 117,
+        "bet_amount": 4.855907780979826,
+        "reward": -25.125,
+        "bankroll": 8650.0,
+        "roi": -5.174109792284868
+      },
+      {
+        "hand": 118,
+        "bet_amount": 4.855491329479767,
+        "reward": 25.0625,
+        "bankroll": 8675.0,
+        "roi": 5.161681547619049
+      },
+      {
+        "hand": 119,
+        "bet_amount": 4.855907780979826,
+        "reward": 25.0625,
+        "bankroll": 8700.0,
+        "roi": 5.161238872403562
+      },
+      {
+        "hand": 120,
+        "bet_amount": 4.856321839080458,
+        "reward": -25.125,
+        "bankroll": 8675.0,
+        "roi": -5.173668639053257
+      },
+      {
+        "hand": 121,
+        "bet_amount": 4.855907780979826,
+        "reward": 25.0625,
+        "bankroll": 8700.0,
+        "roi": 5.161238872403562
+      },
+      {
+        "hand": 122,
+        "bet_amount": 4.856321839080458,
+        "reward": -25.125,
+        "bankroll": 8675.0,
+        "roi": -5.173668639053257
+      },
+      {
+        "hand": 124,
+        "bet_amount": 4.855491329479767,
+        "reward": -25.125,
+        "bankroll": 8625.0,
+        "roi": -5.174553571428573
+      },
+      {
+        "hand": 125,
+        "bet_amount": 4.855072463768114,
+        "reward": -25.125,
+        "bankroll": 8600.0,
+        "roi": -5.175000000000002
+      },
+      {
+        "hand": 126,
+        "bet_amount": 4.854651162790696,
+        "reward": 25.0625,
+        "bankroll": 8625.0,
+        "roi": 5.162574850299403
+      },
+      {
+        "hand": 127,
+        "bet_amount": 4.855072463768114,
+        "reward": -25.125,
+        "bankroll": 8600.0,
+        "roi": -5.175000000000002
+      },
+      {
+        "hand": 128,
+        "bet_amount": 4.854651162790696,
+        "reward": 25.0625,
+        "bankroll": 8625.0,
+        "roi": 5.162574850299403
+      },
+      {
+        "hand": 130,
+        "bet_amount": 4.854651162790696,
+        "reward": 0.0,
+        "bankroll": 8600.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 131,
+        "bet_amount": 4.854651162790696,
+        "reward": 0.0,
+        "bankroll": 8600.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 133,
+        "bet_amount": 4.854227405247813,
+        "reward": -25.125,
+        "bankroll": 8550.0,
+        "roi": -5.175900900900902
+      },
+      {
+        "hand": 134,
+        "bet_amount": 4.853801169590644,
+        "reward": 0.0,
+        "bankroll": 8550.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 137,
+        "bet_amount": 4.852941176470588,
+        "reward": -25.125,
+        "bankroll": 8475.0,
+        "roi": -5.177272727272728
+      },
+      {
+        "hand": 140,
+        "bet_amount": 4.851632047477744,
+        "reward": 25.0625,
+        "bankroll": 8450.0,
+        "roi": 5.165787461773701
+      },
+      {
+        "hand": 141,
+        "bet_amount": 4.852071005917158,
+        "reward": -25.125,
+        "bankroll": 8425.0,
+        "roi": -5.178201219512197
+      },
+      {
+        "hand": 142,
+        "bet_amount": 4.851632047477744,
+        "reward": 0.0,
+        "bankroll": 8425.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 145,
+        "bet_amount": 4.850746268656716,
+        "reward": 25.0625,
+        "bankroll": 8400.0,
+        "roi": 5.166730769230769
+      },
+      {
+        "hand": 146,
+        "bet_amount": 4.851190476190475,
+        "reward": 25.0625,
+        "bankroll": 8425.0,
+        "roi": 5.1662576687116575
+      },
+      {
+        "hand": 147,
+        "bet_amount": 4.851632047477744,
+        "reward": 25.0625,
+        "bankroll": 8450.0,
+        "roi": 5.165787461773701
+      },
+      {
+        "hand": 148,
+        "bet_amount": 4.852071005917158,
+        "reward": -25.125,
+        "bankroll": 8425.0,
+        "roi": -5.178201219512197
+      },
+      {
+        "hand": 149,
+        "bet_amount": 4.851632047477744,
+        "reward": -25.125,
+        "bankroll": 8400.0,
+        "roi": -5.178669724770643
+      },
+      {
+        "hand": 150,
+        "bet_amount": 4.851190476190475,
+        "reward": -25.125,
+        "bankroll": 8375.0,
+        "roi": -5.179141104294479
+      },
+      {
+        "hand": 151,
+        "bet_amount": 4.850746268656716,
+        "reward": -25.125,
+        "bankroll": 8350.0,
+        "roi": -5.179615384615385
+      },
+      {
+        "hand": 152,
+        "bet_amount": 4.850299401197603,
+        "reward": 0.0,
+        "bankroll": 8350.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 153,
+        "bet_amount": 4.850299401197603,
+        "reward": 0.0,
+        "bankroll": 8350.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 155,
+        "bet_amount": 4.849849849849849,
+        "reward": 25.0625,
+        "bankroll": 8350.0,
+        "roi": 5.167685758513933
+      },
+      {
+        "hand": 157,
+        "bet_amount": 4.849849849849849,
+        "reward": -25.125,
+        "bankroll": 8300.0,
+        "roi": -5.180572755417957
+      },
+      {
+        "hand": 158,
+        "bet_amount": 4.849397590361446,
+        "reward": 25.0625,
+        "bankroll": 8325.0,
+        "roi": 5.1681677018633545
+      },
+      {
+        "hand": 162,
+        "bet_amount": 4.848484848484846,
+        "reward": -25.125,
+        "bankroll": 8225.0,
+        "roi": -5.182031250000002
+      },
+      {
+        "hand": 163,
+        "bet_amount": 4.848024316109423,
+        "reward": 25.0625,
+        "bankroll": 8250.0,
+        "roi": 5.169631661442006
+      },
+      {
+        "hand": 167,
+        "bet_amount": 4.847094801223239,
+        "reward": 25.0625,
+        "bankroll": 8200.0,
+        "roi": 5.17062302839117
+      },
+      {
+        "hand": 168,
+        "bet_amount": 4.847560975609754,
+        "reward": -25.125,
+        "bankroll": 8175.0,
+        "roi": -5.18301886792453
+      },
+      {
+        "hand": 169,
+        "bet_amount": 4.847094801223239,
+        "reward": 25.0625,
+        "bankroll": 8200.0,
+        "roi": 5.17062302839117
+      },
+      {
+        "hand": 171,
+        "bet_amount": 4.847094801223239,
+        "reward": -25.125,
+        "bankroll": 8150.0,
+        "roi": -5.183517350157731
+      },
+      {
+        "hand": 172,
+        "bet_amount": 4.846625766871165,
+        "reward": -25.125,
+        "bankroll": 8125.0,
+        "roi": -5.184018987341773
+      },
+      {
+        "hand": 174,
+        "bet_amount": 4.845679012345677,
+        "reward": -25.125,
+        "bankroll": 8075.0,
+        "roi": -5.18503184713376
+      },
+      {
+        "hand": 177,
+        "bet_amount": 4.844236760124609,
+        "reward": -25.125,
+        "bankroll": 8000.0,
+        "roi": -5.186575562700966
+      },
+      {
+        "hand": 179,
+        "bet_amount": 4.843260188087772,
+        "reward": 25.0625,
+        "bankroll": 8000.0,
+        "roi": 5.174716828478967
+      },
+      {
+        "hand": 181,
+        "bet_amount": 4.843260188087772,
+        "reward": 25.0625,
+        "bankroll": 8000.0,
+        "roi": 5.174716828478967
+      },
+      {
+        "hand": 182,
+        "bet_amount": 4.843749999999999,
+        "reward": 25.0625,
+        "bankroll": 8025.0,
+        "roi": 5.174193548387097
+      },
+      {
+        "hand": 184,
+        "bet_amount": 4.843749999999999,
+        "reward": -25.125,
+        "bankroll": 7975.0,
+        "roi": -5.18709677419355
+      },
+      {
+        "hand": 186,
+        "bet_amount": 4.842767295597483,
+        "reward": 25.0625,
+        "bankroll": 7975.0,
+        "roi": 5.1752435064935085
+      },
+      {
+        "hand": 191,
+        "bet_amount": 4.841269841269841,
+        "reward": -25.125,
+        "bankroll": 7850.0,
+        "roi": -5.189754098360656
+      },
+      {
+        "hand": 192,
+        "bet_amount": 4.84076433121019,
+        "reward": 25.0625,
+        "bankroll": 7875.0,
+        "roi": 5.177384868421054
+      },
+      {
+        "hand": 193,
+        "bet_amount": 4.841269841269841,
+        "reward": 25.0625,
+        "bankroll": 7900.0,
+        "roi": 5.1768442622950825
+      },
+      {
+        "hand": 194,
+        "bet_amount": 4.8417721518987324,
+        "reward": -25.125,
+        "bankroll": 7875.0,
+        "roi": -5.189215686274512
+      },
+      {
+        "hand": 195,
+        "bet_amount": 4.841269841269841,
+        "reward": -25.125,
+        "bankroll": 7850.0,
+        "roi": -5.189754098360656
+      },
+      {
+        "hand": 196,
+        "bet_amount": 4.84076433121019,
+        "reward": 25.0625,
+        "bankroll": 7875.0,
+        "roi": 5.177384868421054
+      },
+      {
+        "hand": 197,
+        "bet_amount": 4.841269841269841,
+        "reward": -25.125,
+        "bankroll": 7850.0,
+        "roi": -5.189754098360656
+      },
+      {
+        "hand": 201,
+        "bet_amount": 4.839228295819933,
+        "reward": 25.0625,
+        "bankroll": 7800.0,
+        "roi": 5.17902823920266
+      },
+      {
+        "hand": 202,
+        "bet_amount": 4.839743589743589,
+        "reward": -25.125,
+        "bankroll": 7775.0,
+        "roi": -5.191390728476821
+      },
+      {
+        "hand": 203,
+        "bet_amount": 4.839228295819933,
+        "reward": 0.0,
+        "bankroll": 7775.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 204,
+        "bet_amount": 4.839228295819933,
+        "reward": 25.0625,
+        "bankroll": 7800.0,
+        "roi": 5.17902823920266
+      },
+      {
+        "hand": 205,
+        "bet_amount": 4.839743589743589,
+        "reward": -25.125,
+        "bankroll": 7775.0,
+        "roi": -5.191390728476821
+      },
+      {
+        "hand": 206,
+        "bet_amount": 4.839228295819933,
+        "reward": 25.0625,
+        "bankroll": 7800.0,
+        "roi": 5.17902823920266
+      },
+      {
+        "hand": 208,
+        "bet_amount": 4.839228295819933,
+        "reward": 0.0,
+        "bankroll": 7775.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 209,
+        "bet_amount": 4.839228295819933,
+        "reward": -25.125,
+        "bankroll": 7750.0,
+        "roi": -5.191943521594687
+      },
+      {
+        "hand": 211,
+        "bet_amount": 4.83818770226537,
+        "reward": -25.125,
+        "bankroll": 7700.0,
+        "roi": -5.193060200668898
+      },
+      {
+        "hand": 212,
+        "bet_amount": 4.837662337662338,
+        "reward": 25.0625,
+        "bankroll": 7725.0,
+        "roi": 5.1807046979865765
+      },
+      {
+        "hand": 213,
+        "bet_amount": 4.83818770226537,
+        "reward": 25.0625,
+        "bankroll": 7750.0,
+        "roi": 5.18014214046823
+      },
+      {
+        "hand": 214,
+        "bet_amount": 4.838709677419353,
+        "reward": 25.0625,
+        "bankroll": 7775.0,
+        "roi": 5.179583333333335
+      },
+      {
+        "hand": 215,
+        "bet_amount": 4.839228295819933,
+        "reward": 25.0625,
+        "bankroll": 7800.0,
+        "roi": 5.17902823920266
+      },
+      {
+        "hand": 218,
+        "bet_amount": 4.838709677419353,
+        "reward": 25.0625,
+        "bankroll": 7775.0,
+        "roi": 5.179583333333335
+      },
+      {
+        "hand": 219,
+        "bet_amount": 4.839228295819933,
+        "reward": 25.0625,
+        "bankroll": 7800.0,
+        "roi": 5.17902823920266
+      },
+      {
+        "hand": 221,
+        "bet_amount": 4.839228295819933,
+        "reward": -25.125,
+        "bankroll": 7750.0,
+        "roi": -5.191943521594687
+      },
+      {
+        "hand": 226,
+        "bet_amount": 4.836601307189542,
+        "reward": -25.125,
+        "bankroll": 7625.0,
+        "roi": -5.1947635135135135
+      },
+      {
+        "hand": 227,
+        "bet_amount": 4.83606557377049,
+        "reward": 25.0625,
+        "bankroll": 7650.0,
+        "roi": 5.18241525423729
+      },
+      {
+        "hand": 228,
+        "bet_amount": 4.836601307189542,
+        "reward": -25.125,
+        "bankroll": 7625.0,
+        "roi": -5.1947635135135135
+      },
+      {
+        "hand": 229,
+        "bet_amount": 4.83606557377049,
+        "reward": 0.0,
+        "bankroll": 7625.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 230,
+        "bet_amount": 4.83606557377049,
+        "reward": 0.0,
+        "bankroll": 7625.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 231,
+        "bet_amount": 4.83606557377049,
+        "reward": 25.0625,
+        "bankroll": 7650.0,
+        "roi": 5.18241525423729
+      },
+      {
+        "hand": 232,
+        "bet_amount": 4.836601307189542,
+        "reward": -25.125,
+        "bankroll": 7625.0,
+        "roi": -5.1947635135135135
+      },
+      {
+        "hand": 233,
+        "bet_amount": 4.83606557377049,
+        "reward": -25.125,
+        "bankroll": 7600.0,
+        "roi": -5.195338983050849
+      },
+      {
+        "hand": 234,
+        "bet_amount": 4.8355263157894735,
+        "reward": 25.0625,
+        "bankroll": 7625.0,
+        "roi": 5.182993197278912
+      },
+      {
+        "hand": 238,
+        "bet_amount": 4.834437086092713,
+        "reward": 25.0625,
+        "bankroll": 7575.0,
+        "roi": 5.184160958904112
+      },
+      {
+        "hand": 239,
+        "bet_amount": 4.8349834983498345,
+        "reward": 0.0,
+        "bankroll": 7575.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 240,
+        "bet_amount": 4.8349834983498345,
+        "reward": 25.0625,
+        "bankroll": 7600.0,
+        "roi": 5.183575085324232
+      },
+      {
+        "hand": 241,
+        "bet_amount": 4.8355263157894735,
+        "reward": 25.0625,
+        "bankroll": 7625.0,
+        "roi": 5.182993197278912
+      },
+      {
+        "hand": 243,
+        "bet_amount": 4.8355263157894735,
+        "reward": -25.125,
+        "bankroll": 7575.0,
+        "roi": -5.195918367346939
+      },
+      {
+        "hand": 244,
+        "bet_amount": 4.8349834983498345,
+        "reward": 25.0625,
+        "bankroll": 7600.0,
+        "roi": 5.183575085324232
+      },
+      {
+        "hand": 245,
+        "bet_amount": 4.8355263157894735,
+        "reward": -25.125,
+        "bankroll": 7575.0,
+        "roi": -5.195918367346939
+      },
+      {
+        "hand": 246,
+        "bet_amount": 4.8349834983498345,
+        "reward": -25.125,
+        "bankroll": 7550.0,
+        "roi": -5.196501706484642
+      },
+      {
+        "hand": 247,
+        "bet_amount": 4.834437086092713,
+        "reward": -25.125,
+        "bankroll": 7525.0,
+        "roi": -5.197089041095893
+      },
+      {
+        "hand": 248,
+        "bet_amount": 4.833887043189367,
+        "reward": 25.0625,
+        "bankroll": 7550.0,
+        "roi": 5.184750859106532
+      },
+      {
+        "hand": 250,
+        "bet_amount": 4.833887043189367,
+        "reward": 25.0625,
+        "bankroll": 7550.0,
+        "roi": 5.184750859106532
+      },
+      {
+        "hand": 252,
+        "bet_amount": 4.833887043189367,
+        "reward": -25.125,
+        "bankroll": 7500.0,
+        "roi": -5.197680412371136
+      },
+      {
+        "hand": 255,
+        "bet_amount": 4.83221476510067,
+        "reward": 25.0625,
+        "bankroll": 7475.0,
+        "roi": 5.1865451388888895
+      },
+      {
+        "hand": 256,
+        "bet_amount": 4.83277591973244,
+        "reward": 25.0625,
+        "bankroll": 7500.0,
+        "roi": 5.185942906574396
+      },
+      {
+        "hand": 257,
+        "bet_amount": 4.833333333333331,
+        "reward": -25.125,
+        "bankroll": 7475.0,
+        "roi": -5.198275862068968
+      },
+      {
+        "hand": 259,
+        "bet_amount": 4.83221476510067,
+        "reward": 25.0625,
+        "bankroll": 7475.0,
+        "roi": 5.1865451388888895
+      },
+      {
+        "hand": 261,
+        "bet_amount": 4.83221476510067,
+        "reward": 25.0625,
+        "bankroll": 7475.0,
+        "roi": 5.1865451388888895
+      },
+      {
+        "hand": 266,
+        "bet_amount": 4.83050847457627,
+        "reward": 25.0625,
+        "bankroll": 7400.0,
+        "roi": 5.188377192982458
+      },
+      {
+        "hand": 268,
+        "bet_amount": 4.83050847457627,
+        "reward": 25.0625,
+        "bankroll": 7400.0,
+        "roi": 5.188377192982458
+      },
+      {
+        "hand": 270,
+        "bet_amount": 4.83050847457627,
+        "reward": 25.0625,
+        "bankroll": 7400.0,
+        "roi": 5.188377192982458
+      },
+      {
+        "hand": 271,
+        "bet_amount": 4.831081081081079,
+        "reward": -25.125,
+        "bankroll": 7375.0,
+        "roi": -5.200699300699303
+      },
+      {
+        "hand": 273,
+        "bet_amount": 4.829931972789114,
+        "reward": 25.0625,
+        "bankroll": 7375.0,
+        "roi": 5.188996478873241
+      },
+      {
+        "hand": 276,
+        "bet_amount": 4.829351535836176,
+        "reward": 25.0625,
+        "bankroll": 7350.0,
+        "roi": 5.189620141342758
+      },
+      {
+        "hand": 277,
+        "bet_amount": 4.829931972789114,
+        "reward": 0.0,
+        "bankroll": 7350.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 280,
+        "bet_amount": 4.828767123287669,
+        "reward": 25.0625,
+        "bankroll": 7325.0,
+        "roi": 5.190248226950357
+      },
+      {
+        "hand": 282,
+        "bet_amount": 4.828767123287669,
+        "reward": -25.125,
+        "bankroll": 7275.0,
+        "roi": -5.203191489361704
+      },
+      {
+        "hand": 284,
+        "bet_amount": 4.82758620689655,
+        "reward": -25.125,
+        "bankroll": 7225.0,
+        "roi": -5.2044642857142875
+      },
+      {
+        "hand": 285,
+        "bet_amount": 4.826989619377161,
+        "reward": 25.0625,
+        "bankroll": 7250.0,
+        "roi": 5.192159498207887
+      },
+      {
+        "hand": 286,
+        "bet_amount": 4.82758620689655,
+        "reward": -25.125,
+        "bankroll": 7225.0,
+        "roi": -5.2044642857142875
+      },
+      {
+        "hand": 288,
+        "bet_amount": 4.826388888888888,
+        "reward": 25.0625,
+        "bankroll": 7225.0,
+        "roi": 5.192805755395684
+      },
+      {
+        "hand": 290,
+        "bet_amount": 4.826388888888888,
+        "reward": 25.0625,
+        "bankroll": 7225.0,
+        "roi": 5.192805755395684
+      },
+      {
+        "hand": 291,
+        "bet_amount": 4.826989619377161,
+        "reward": 25.0625,
+        "bankroll": 7250.0,
+        "roi": 5.192159498207887
+      },
+      {
+        "hand": 292,
+        "bet_amount": 4.82758620689655,
+        "reward": 25.0625,
+        "bankroll": 7275.0,
+        "roi": 5.191517857142859
+      },
+      {
+        "hand": 293,
+        "bet_amount": 4.828178694158075,
+        "reward": -25.125,
+        "bankroll": 7250.0,
+        "roi": -5.203825622775801
+      },
+      {
+        "hand": 297,
+        "bet_amount": 4.825783972125433,
+        "reward": 0.0,
+        "bankroll": 7175.0,
+        "roi": 0.0
+      },
+      {
+        "hand": 298,
+        "bet_amount": 4.825783972125433,
+        "reward": 25.0625,
+        "bankroll": 7200.0,
+        "roi": 5.193456678700364
+      },
+      {
+        "hand": 299,
+        "bet_amount": 4.826388888888888,
+        "reward": 25.0625,
+        "bankroll": 7225.0,
+        "roi": 5.192805755395684
+      },
+      {
+        "hand": 300,
+        "bet_amount": 4.826989619377161,
+        "reward": -25.125,
+        "bankroll": 7200.0,
+        "roi": -5.205107526881722
+      }
+    ]
+  }
+}
